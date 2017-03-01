@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Meng's Software (P_MDP_TG)</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Bio</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="bio.html">Biography</a></div>
+<div class="menu-item"><a href="education.html">Education</a></div>
+<div class="menu-item"><a href="teaching.html">Teaching</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="research.html">Publication</a></div>
+<div class="menu-item"><a href="https://scholar.google.se/citations?user=_xrwAAYAAAAJ&hl=en">Google&nbsp;Scholar</a></div>
+<div class="menu-category">Software</div>
+<div class="menu-item"><a href="P_MAS_TG.html">P_MAS_TG</a></div>
+<div class="menu-item"><a href="P_MDP_TG.html" class="current">P_MDP_TG</a></div>
+<div class="menu-item"><a href="Py_iRobot_OptiTrack.html">Py_iRobot_OptiTrack</a></div>
+<div class="menu-item"><a href="RVO_Py_MAS.html">RVO_Py_MAS</a></div>
+<div class="menu-category">Other Sites</div>
+<div class="menu-item"><a href="https://github.com/MengGuo">GitHub</a></div>
+<div class="menu-item"><a href="https://vimeo.com/mengguo">Vimeo</a></div>
+<div class="menu-category">Goodies</div>
+<div class="menu-item"><a href="http://www.lsv.ens-cachan.fr/~gastin/ltl2ba/">LTL2BA</a></div>
+<div class="menu-item"><a href="https://pypi.python.org/pypi/poly2tri">Poly2tri</a></div>
+<div class="menu-item"><a href="https://www.gurobi.com/">Gurobi</a></div>
+<div class="menu-item"><a href="http://www.ltl2dstar.de">LTL2dstar</a></div>
+<div class="menu-item"><a href="http://jemdoc.jaboc.net">Jemdoc</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Meng's Software (P_MDP_TG)</h1>
+</div>
+<h2><b>P_MDP_TG</b></h2>
+<ul>
+<li><p>Planner for Markov Decision Process under Temporal Goals</p>
+</li>
+<li><p><a href="https://github.com/MengGuo/P_MDP_TG.git"><b>Download</b></a> at GitHub</p>
+</li>
+<li><p>Comments and contributions are most welcome!</p>
+</li>
+<li><p>Description: <br />
+this package contains the implementation for policy synthesis algorithms given a probabilistically-labeled Markov Decision Process (MDP) (as the robot motion model) and a Linear Temporal Logic (LTL) formula (as the robot task). It outputs a stationary and finite-memory policy consists of plan prefix and plan suffix, such that the controlled robot behavior fulfills the task with a given lower-bounded risk and minimizes the expected total cost.</p>
+</li>
+<li><p>Features: <br /> </p>
+<ul>
+<li><p>Allows probabilistic labels on MDP states.</p>
+</li>
+<li><p>Tunable trade-off between risk and expected total cost in the plan prefix.</p>
+</li>
+<li><p>Linear programs for solving constrained stochastic shortest path (SSP).</p>
+</li>
+<li><p>Optimization over both plan prefix and suffix.</p>
+</li>
+<li><p>Relaxed policy generation for cases where no accepting end components (AECs) exist.</p>
+</li>
+<li><p>Interface between LTL formula, Buchi Automaton, Deterministic Robin Automaton and NetworkX graph objects.</p>
+</li>
+<li><p>Computing maximal accepting end components (MAEC) of MDPs.</p>
+</li>
+</ul>
+
+</li>
+</ul>
+<div class="infoblock">
+<div class="blockcontent">
+<h2>Application One </h2>
+<ul>
+<li><p>Follow the <a href="https://github.com/MengGuo/P_MDP_TG/blob/master/case_study.py">case_study.py</a></p>
+</li>
+<li><p>Total cost optimization over plan prefix and suffix.</p>
+</li>
+<li><p>With tunable risk paramter.</p>
+</li>
+<li><p>Simulation. <a href="https://vimeo.com/174351505">[Video 1]</a> <a href="https://vimeo.com/175143095">[Video 2]</a></p>
+</li>
+</ul>
+</div></div>
+<center><table class="imgtable"><tr><td>
+<img src="images/risk.png" alt="simulation for risk and cost optimization" width="700px" />&nbsp;</td><tr/>
+<tr><td><center></center>
+</td></tr></table></center>
+<div class="infoblock">
+<div class="blockcontent">
+<h2>Application Two</h2>
+<ul>
+<li><p>Optimal policy generated off-line via this package.</p>
+</li>
+<li><p>Total cost optimization over plan prefix and suffix, with tunable risk paramter.</p>
+</li>
+<li><p>Executed in real-time via <a href="Py_iRobot_OptiTrack.html"><b>Py_iRobot_OptiTrack</b></a></p>
+</li>
+<li><p>Follow the <a href="https://github.com/MengGuo/Py_iRobot_OptiTrack/blob/master/mdp_tg/src/plan_execution.py">plan_execution.py</a></p>
+</li>
+<li><p>Demonstration. <a href="https://vimeo.com/180983006">[Video 1]</a> <a href="https://vimeo.com/180985419">[Video 2]</a> <a href="https://vimeo.com/180987471">[Video 3]</a></p>
+</li>
+</ul>
+</div></div>
+<center><table class="imgtable"><tr><td>
+<img src="images/mdp_tg.png" alt="Control of MDP" width="700px" />&nbsp;</td><tr/>
+<tr><td><center></center>
+</td></tr></table></center>
+<div id="footer">
+<div id="footer-text">
+Page generated 2017-03-01. Theme based on <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-71100774-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>
