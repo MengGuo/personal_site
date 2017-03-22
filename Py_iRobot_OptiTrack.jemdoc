@@ -1,0 +1,49 @@
+# jemdoc: menu{MENU}{Py_iRobot_OptiTrack.html}
+= Meng's Software (Py_iRobot_OptiTrack)
+
+
+
+== [Py_iRobot_OptiTrack.html *Py_iRobot_OptiTrack*]
+-  Python Interface for Controlling iRobots with OptiTrack
+-  [https://github.com/MengGuo/Py_iRobot_OptiTrack *Download*] at GitHub
+-  Comments and contributions are most welcome!
+-  Description: \n
+this package contains the Python interface used at the RAMA lab of Prof. Zavlanos, Duke University. The hardware structure consists of
+-- one Windows PC (W), which connects to all OptiTrack cameras and runs program Motive to calibrate and retrieve data from OptiTrack.
+-- one Ubuntu machine (U), which runs ROS and does the algorithmic computation to compute the control signals for each iRobot.
+-- several iRobots (I), which runs iRobot driver locally, receives control commands from (U) and sends sensory data back to (U).
+- Features: \n 
+-- Retrieve multiple rigid-body data.
+-- Plot real-time positions of all rigid bodies.
+-- Can be easily extended to more complicate motion and task planning scenarios.
+
+
+
+~~~
+== Application One
+- Follow the [https://github.com/MengGuo/Py_iRobot_OptiTrack/blob/master/mdp_tg/src/simple_irobot_control_optitrack.py simple_irobot_control_optitrack.py]
+- Retrieve multiple rigid-body data.
+- Plot real-time positions of all rigid bodies.
+- Simple turn-forward-turn control.
+~~~
+
+~~~
+{}{img_center}{images/combined.png}{Multi-robot simple control}{800}{}{}
+~~~
+
+
+
+
+~~~
+== Application Two
+- Optimal paln generated via [P_MDP_TG.html *P_MDP_TG*]
+- Total cost optimization over plan prefix and suffix, with tunable risk paramter.
+- On-line execution via this package. 
+- Follow the [https://github.com/MengGuo/Py_iRobot_OptiTrack/blob/master/mdp_tg/src/plan_execution.py plan_execution.py]
+- Demonstration. [https://vimeo.com/180983006 \[Video 1\]] [https://vimeo.com/180985419 \[Video 2\]] [https://vimeo.com/180987471 \[Video 3\]]
+~~~
+
+~~~
+{}{img_center}{images/mdp_tg.png}{Control of MDP}{700}{}{}
+~~~
+

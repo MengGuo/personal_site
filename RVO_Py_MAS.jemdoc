@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{RVO_Py_MAS.html}
+= Meng's Software
+
+== [https://github.com/MengGuo/RVO_Py_MAS *RVO_Py_MAS*]
+-  Python Implementation of Reciprocal Velocity Obstacle (RVO) for Multi-agent Systems
+-  [https://github.com/MengGuo/RVO_Py_MAS *Download*] at GitHub
+-  Comments and contributions are most welcome!
+-  Check out [https://vimeo.com/185405407 \[Video1\]], [https://vimeo.com/185408368 \[Video2\]].
+-  Description: \n
+This package contains a *plug-and-play* Python package for collision-avoidance in multi-agent system, based on reciprocal velocity obstacles ([https://www.cs.unc.edu/~geom/RVO/icra2008.pdf RVO]) and hybrid reciprocal velocity obstacles ([https://www.cs.unc.edu/~geom/RVO/icra2008.pdf HRVO]).
+- Features: \n
+-- Takes a 2D workspace with any number of non-overlaping circular or square obstacles
+-- Any number of dynamic agents with non-zero volume.
+-- Allow the choice of VO, RVO, HRVO.
+-- *Direct plug-and-play* and *fully integrate-able  with your control objective*, i.e., the output velocity is a minimal modification of the desired velocity.
+-- Scalable and fast, see examples below. 
+
+
+~~~
+{}{img_center}{images/snapshots.png}{RVO and HRVO}{800}{}{}
+~~~
