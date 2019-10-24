@@ -1,0 +1,43 @@
+# jemdoc: menu{MENU}{index.html}
+= Meng Guo
+
+~~~
+{}{img_left}{images/pic.jpg}{}{200}{208}{}
+Meng Guo \n
+Research Scientist\n
+[https://www.bosch-ai.com/en/home/home.html Reinforcement Learning and AI-based Planning]\n
+[https://www.bosch-ai.com Bosch Center for Artificial Intelligence (BCAI)]\n
+Robert-Bosch-Campus 1\n
+71272 Renningen, Germany\n
+Cell: +49 152 570 16539\n
+E-mail:[Meng.Guo2@de.bosch.com Meng.Guo2@de.bosch.com]\n
+~~~
+
+== Research Interest
+My general research direction is the distributed and hybrid control of interconnected multi-robot systems under temporal goals. 
+
+It is an interdisciplinary area between control of networked robotic systems and formal methods-based control synthesis, where the former area focuses on the robot motion control subject to various continuous constraints and the latter area deals with the discrete task planning and synthesis to satisfy the given task.
+
+More about my [research.html research]  and [P_MAS_TG.html software], also [https://github.com/MengGuo GitHub] and [https://vimeo.com/mengguo Vimeo] page.
+
+== News
+~~~
+{2018}
+- Oct. 29-31: Attended [http://www.robot-learning.org 2nd Conference on Robot Learning (CoRL)] 2018 at ETH, Zurich.
+- May 1: Joined [https://www.bosch-ai.com Bosch Center for Artificial Intelligence (BCAI)] as a research scientist, specialized in Reinforcement Learning and AI-based Planning.  
+- Mar. 13-16: Participated in [http://www.eu-robotics.net/robotics_forum/ ERF2018] at Tampere Finland. 
+- Mar. 14: Received [https://en.wikipedia.org/wiki/Georges_Giralt_PhD_Award *EuRobotics George Giralt PhD Award 2017 - Finalist*] in 
+recognition of my PhD thesis work.
+- Feb. 12-16: Visited [https://pal-robotics.com/en/home/ PAL robotics], Barcelona, Spain.
+~~~
+
+    
+
+
+
+
+
+
+
+
+
