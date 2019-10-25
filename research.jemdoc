@@ -5,7 +5,8 @@
 == Publications
 ~~~
 {Journal Papers}
-. [https://arxiv.org/pdf/1706.00765.pdf *Temporal Logic Task Planning and Intermittent Connectivity Control of Mobile Robot Networks*].\n Yiannis Kantaros, Meng Guo, and Michael M. Zavlanos. IEEE Transactions on Automatic Control (TAC), 2018. To appear.
+. [https://arxiv.org/pdf/1706.00765.pdf *Temporal Logic Task Planning and Intermittent Connectivity Control of Mobile Robot Networks*].\n Yiannis Kantaros, Meng Guo, and Michael M. Zavlanos. IEEE Transactions on Automatic Control (TAC), 2018.
+. [https://rd.springer.com/chapter/10.1007/978-3-319-78449-6_12 *Distributed Hybrid Control Synthesis for Multi-Agent Systems from High-Level*].\n Meng Guo, Dimitris Boskos, Jana Tumova, Dimos V. Dimarogonas. Control Subject to Computational and Communication Constraints. Springer, 475-241, 2018.
 . [https://ieeexplore.ieee.org/document/8361450/ *Multi-Robot Data Gathering Under Buffer Constraints  and Intermittent Communication*].\n Meng Guo and Michael M. Zavlanos. IEEE Transactions on Robotics (TRO), 34(4): 1082-1097, Aug 2018. [https://arxiv.org/pdf/1706.02092.pdf \[PDF\]] [https://vimeo.com/233548160 \[Sim Videos\]] [https://vimeo.com/233548160 \[Exp Videos\]] [https://github.com/MengGuo/interm_data_gather \[SourceCode1\]] [https://github.com/MengGuo/Py_iRobot_OptiTrack \[SourceCode2\]]
 . [https://ieeexplore.ieee.org/document/8272366/ *Probabilistic Motion Planning under Temporal Tasks and Soft Constraints*].\n Meng Guo and Michael M. Zavlanos. IEEE Transactions on Automatic Control (TAC), 63(12): 4051-4066, Dec 2018.  [https://arxiv.org/pdf/1706.05209.pdf \[PDF\]] [https://vimeo.com/169438447 \[Sim Videos\]] [https://vimeo.com/180983006 \[Exp Videos\]] [https://github.com/MengGuo/P_MDP_TG \[SourceCode\]]
 . [http://ieeexplore.ieee.org/document/7778995/ *Task and Motion Coordination for Heterogeneous Multi-agent Systems with Loosely-coupled Local Tasks*].\n Meng Guo and Dimos V. Dimarogonas. IEEE Transactions on Automation Science and Engineering (T-ASE), 4(2): 797-808, Apr 2017.  [papers/tase17.pdf \[PDF\]] [https://vimeo.com/148774433 \[Video1\]] [https://vimeo.com/148774898 \[Video2\]]
@@ -19,8 +20,12 @@
 
 ~~~
 {Conference Papers}
-. *Human-in-the-Loop Mixed-Initiative Control under Temporal Tasks*. \n Meng Guo, Sofie Andersson, Dimos V. Dimarogonas. IEEE International Conference on Robotics and Automation (ICRA). Brisbane, Australia, May 2018. [https://arxiv.org/pdf/1802.06839.pdf \[PDF\]] [https://vimeo.com/232727691 \[Sim Video\]] [https://vimeo.com/230487800 \[Exp Video\]] [https://github.com/MengGuo/mix_initiative \[SourceCode\]]
-. [papers/CDC17.pdf *Temporal Task Planning in Wirelessly Connected Environments with Unknown Channel Quality*.] \n Meng Guo and Michael M. Zavlanos. IEEE Conference on Decision and Control (CDC). Melbourne, Australia, December 2017. To appear. [papers/CDC17.pdf \[PDF\]] [https://vimeo.com/205452793 \[Video1\]] [https://vimeo.com/205443075 \[Video2\]] [https://github.com/MengGuo/ac_ltl_wsn.git \[SourceCode\]]
+. *Optimizing Sequences of Probabilistic Manipulation Skills Learned from Demonstration*. \n Lukas Schwenkel, Meng Guo, Mathias B{{&uuml}}rger. 3rd Conference on Robot Learning (CoRL), Osaka, Japan, 2019.
+. *Predictive Safety Network for Resource-constrained Multi-agent Systems*. \n Meng Guo, Mathias B{{&uuml}}rger. 3rd Conference on Robot Learning (CoRL), Osaka, Japan, 2019.
+. [https://lcas.lincoln.ac.uk/wp/wp-content/uploads/2019/07/All_RSS2019-TIG_Spotlight_compressed.pdf *Fast Learning and Sequencing of Object-centric Manipulation Skills*.] \n Leonel Rozo, Andras Kupcsik, Meng Guo, Marco Todescato, Philipp Schillinger, Nicolai Waniek, Markus Giftthaler, Mathias B{{&uuml}}rger. Workshop in Robotics: Science and systems (RSS), Freiburg, Germany, 2019.
+. [https://aaai.org/ojs/index.php/AAAI/article/view/4080 *Bounded Suboptimal Search with Learned Heuristics for Multi-Agent Systems*.] \n Markus Spies, Marco Todescato, Hannes Becker, Patrick Kesper, Nicolai Waniek, Meng Guo. Thirty-Third AAAI Conference on Artificial Intelligence (AAAI), Hawaii, USA, 2019.
+. [https://ieeexplore.ieee.org/abstract/document/8460793 *Human-in-the-Loop Mixed-Initiative Control under Temporal Tasks*.] \n Meng Guo, Sofie Andersson, Dimos V. Dimarogonas. IEEE International Conference on Robotics and Automation (ICRA). Brisbane, Australia, May 2018. [https://arxiv.org/pdf/1802.06839.pdf \[PDF\]] [https://vimeo.com/232727691 \[Sim Video\]] [https://vimeo.com/230487800 \[Exp Video\]] [https://github.com/MengGuo/mix_initiative \[SourceCode\]]
+. [papers/CDC17.pdf *Temporal Task Planning in Wirelessly Connected Environments with Unknown Channel Quality*.] \n Meng Guo and Michael M. Zavlanos. IEEE Conference on Decision and Control (CDC). Melbourne, Australia, December 2017. [papers/CDC17.pdf \[PDF\]] [https://vimeo.com/205452793 \[Video1\]] [https://vimeo.com/205443075 \[Video2\]] [https://github.com/MengGuo/ac_ltl_wsn.git \[SourceCode\]]
 . [papers/ICRA17.pdf *Distributed Data Gathering with Buffer Constraints and Intermittent Communication*.] \n Meng Guo and Michael M. Zavlanos. IEEE International Conference on Robotics and Automation (ICRA). Singapore, May 2017.
 [papers/ICRA17.pdf \[PDF\]] [https://vimeo.com/157940708 \[Video1\]] [https://vimeo.com/157940918 \[Video2\]] [https://vimeo.com/180530665 \[Video3\]]. *Best Paper Award on Multi-Robots Systems - Finalist*.
 . [http://ieeexplore.ieee.org/abstract/document/7487733/ *Hybrid Control of Multi-robot Systems Using Embedded Graph Grammars*.] \n Meng Guo, Magnus Egerstedt and Dimos V. Dimarogonas. IEEE International Conference on Robotics and Automation (ICRA). Stockholm, Sweden, May 2016. [papers/ICRA16.pdf \[PDF\]] [https://vimeo.com/136210841 \[SimVideo\]] [https://vimeo.com/137872185 \[ExpVideo\]]
@@ -40,18 +45,4 @@
 . [http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-177639 *Hybrid Control of Multi-robot Systems under Complex Temporal Tasks*.] \n Meng Guo. Doctoral Thesis, Royal Institute of Technology, Stockholm. January 2016. 
 . [http://kth.diva-portal.org/smash/record.jsf?searchId=2&pid=diva2:698738 *Cooperative Motion and Task Planning Under Temporal Tasks*.] \n Meng Guo. Licentiate Thesis, Royal Institute of Technology, Stockholm. March 2014. [papers/LicSlides.pdf \[Slides\]]
 . [http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A471902&dswid=_new *Quantized Cooperative Control*.] \n Meng Guo. Master Thesis, Royal Institute of Technology, Stockholm. June 2011.
-~~~
-
-== Available Projects
-~~~
-{Master Thesis Project Proposals}
-.  [papers/ThesisTurtleBot.pdf *Robot Motion and Task Planning with Simulation
-and Experiment*.]\n  Automatic Control Lab, 2017.March-Open.  
-.  [papers/ThesisFormalMethod.pdf *Simulation and Implementation of Temporal Logic-based Motion Planning for Autonomous Vehicles*.]\n  Automatic Control Lab, 2012-Open.  
-.  [papers/CoControl.pdf *Cooperative Control of Aerial and Ground Robots*.]\n Automatic Control Lab, 2011-2013. 
-~~~
-
-~~~
-{Summer Project}
-.  [papers/NFbased.pdf *Simulation and Implementation of Navigation Function based Control for Multi-agent systems*.]\n  Automatic Control Lab, Jul-Aug 2012. 
 ~~~

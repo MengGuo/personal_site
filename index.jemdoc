@@ -14,21 +14,20 @@ E-mail:[Meng.Guo2@de.bosch.com Meng.Guo2@de.bosch.com]\n
 ~~~
 
 == Research Interest
-My general research direction is the distributed and hybrid control of interconnected multi-robot systems under temporal goals. 
+My general research interest is task and motion planning for robots, particularly in two domains:
+(1) distributed and hybrid control of interconnected multi-robot systems under complex goals; (2) skill learning and planning of robotic manipulators.
 
-It is an interdisciplinary area between control of networked robotic systems and formal methods-based control synthesis, where the former area focuses on the robot motion control subject to various continuous constraints and the latter area deals with the discrete task planning and synthesis to satisfy the given task.
+It is an interdisciplinary area between continuous motion control and discrete planning, under various constraints such as timing or resource limits and geometric or dynamic properties. Currently, I investigate how deep learning tools can guide and accelerate the classic planning methods.
 
 More about my [research.html research]  and [P_MAS_TG.html software], also [https://github.com/MengGuo GitHub] and [https://vimeo.com/mengguo Vimeo] page.
 
+We are constantly looking for Interns, Industrial PhDs, PhD Sabbaticals to join BCAI, see [BCAI openings https://www.bosch-ai.com/were-hiring/]
+
 == News
 ~~~
-{2018}
-- Oct. 29-31: Attended [http://www.robot-learning.org 2nd Conference on Robot Learning (CoRL)] 2018 at ETH, Zurich.
-- May 1: Joined [https://www.bosch-ai.com Bosch Center for Artificial Intelligence (BCAI)] as a research scientist, specialized in Reinforcement Learning and AI-based Planning.  
-- Mar. 13-16: Participated in [http://www.eu-robotics.net/robotics_forum/ ERF2018] at Tampere Finland. 
-- Mar. 14: Received [https://en.wikipedia.org/wiki/Georges_Giralt_PhD_Award *EuRobotics George Giralt PhD Award 2017 - Finalist*] in 
-recognition of my PhD thesis work.
-- Feb. 12-16: Visited [https://pal-robotics.com/en/home/ PAL robotics], Barcelona, Spain.
+{2019}
+- Oct. 30 - Nov. 1: Attended [http://www.robot-learning.org 3rd Conference on Robot Learning (CoRL)] 2019 at Osaka, Japan. Present two recent papers on planning and robot learning.
+- June 22-26: Attended [http://rss2019.informatik.uni-freiburg.de/ Robotics: Science and Systems (RSS)] 2019 at University of Freiburg, Germany. Bosch booth with live demo.
 ~~~
 
     
