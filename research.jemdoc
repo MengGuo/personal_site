@@ -20,8 +20,8 @@
 
 ~~~
 {Conference Papers}
-. *Optimizing Sequences of Probabilistic Manipulation Skills Learned from Demonstration*. \n Lukas Schwenkel, Meng Guo, Mathias B{{&uuml}}rger. 3rd Conference on Robot Learning (CoRL), Osaka, Japan, 2019.
-. *Predictive Safety Network for Resource-constrained Multi-agent Systems*. \n Meng Guo, Mathias B{{&uuml}}rger. 3rd Conference on Robot Learning (CoRL), Osaka, Japan, 2019.
+. [https://drive.google.com/file/d/1hvRAJxwfJLpTR4qEVcshHX9PUa9dUPqV/view *Optimizing Sequences of Probabilistic Manipulation Skills Learned from Demonstration*.] \n Lukas Schwenkel, Meng Guo, Mathias B{{&uuml}}rger. 3rd Conference on Robot Learning (CoRL), Osaka, Japan, 2019.
+. [https://drive.google.com/file/d/1T4Xw2sEDXMn0mZp7_4Jw5QGpVU5W2NGz/view *Predictive Safety Network for Resource-constrained Multi-agent Systems*.] \n Meng Guo, Mathias B{{&uuml}}rger. 3rd Conference on Robot Learning (CoRL), Osaka, Japan, 2019.
 . [https://lcas.lincoln.ac.uk/wp/wp-content/uploads/2019/07/All_RSS2019-TIG_Spotlight_compressed.pdf *Fast Learning and Sequencing of Object-centric Manipulation Skills*.] \n Leonel Rozo, Andras Kupcsik, Meng Guo, Marco Todescato, Philipp Schillinger, Nicolai Waniek, Markus Giftthaler, Mathias B{{&uuml}}rger. Workshop in Robotics: Science and systems (RSS), Freiburg, Germany, 2019.
 . [https://aaai.org/ojs/index.php/AAAI/article/view/4080 *Bounded Suboptimal Search with Learned Heuristics for Multi-Agent Systems*.] \n Markus Spies, Marco Todescato, Hannes Becker, Patrick Kesper, Nicolai Waniek, Meng Guo. Thirty-Third AAAI Conference on Artificial Intelligence (AAAI), Hawaii, USA, 2019.
 . [https://ieeexplore.ieee.org/abstract/document/8460793 *Human-in-the-Loop Mixed-Initiative Control under Temporal Tasks*.] \n Meng Guo, Sofie Andersson, Dimos V. Dimarogonas. IEEE International Conference on Robotics and Automation (ICRA). Brisbane, Australia, May 2018. [https://arxiv.org/pdf/1802.06839.pdf \[PDF\]] [https://vimeo.com/232727691 \[Sim Video\]] [https://vimeo.com/230487800 \[Exp Video\]] [https://github.com/MengGuo/mix_initiative \[SourceCode\]]
