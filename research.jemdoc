@@ -5,11 +5,10 @@
 == Publications
 ~~~
 {Journal Papers}
-. [https://ieeexplore.ieee.org/abstract/document/8943945 *Coupled Multi-Robot Systems Under Linear Temporal Logic and Signal Temporal Logic Tasks*].\n Lars Lindemann, Jakub Nowak, Lukas Schönbächler, Meng Guo, Jana Tumova, Dimos V Dimarogonas. IEEE Transactions on Control Systems Technology (TCST), 2019.
+. [https://ieeexplore.ieee.org/abstract/document/8943945 *Coupled Multi-Robot Systems Under Linear Temporal Logic and Signal Temporal Logic Tasks*].\n Lars Lindemann, Jakub Nowak, Lukas Sch{{&ouml}}nb{{&auml}}chler, Meng Guo, Jana Tumova, Dimos V Dimarogonas. IEEE Transactions on Control Systems Technology (TCST), 2019.
 . [https://arxiv.org/pdf/1706.00765.pdf *Temporal Logic Task Planning and Intermittent Connectivity Control of Mobile Robot Networks*].\n Yiannis Kantaros, Meng Guo, and Michael M. Zavlanos. IEEE Transactions on Automatic Control (TAC), 2018.
 . [https://rd.springer.com/chapter/10.1007/978-3-319-78449-6_12 *Distributed Hybrid Control Synthesis for Multi-Agent Systems from High-Level*].\n Meng Guo, Dimitris Boskos, Jana Tumova, Dimos V. Dimarogonas. Control Subject to Computational and Communication Constraints. Springer, 475-241, 2018.
 . [https://arxiv.org/pdf/1706.00765.pdf *Temporal Logic Task Planning and Intermittent Connectivity Control of Mobile Robot Networks*].\n Yiannis Kantaros, Meng Guo, and Michael M. Zavlanos. IEEE Transactions on Automatic Control (TAC), 2018.
->>>>>>> Stashed changes
 . [https://ieeexplore.ieee.org/document/8361450/ *Multi-Robot Data Gathering Under Buffer Constraints  and Intermittent Communication*].\n Meng Guo and Michael M. Zavlanos. IEEE Transactions on Robotics (TRO), 34(4): 1082-1097, Aug 2018. [https://arxiv.org/pdf/1706.02092.pdf \[PDF\]] [https://vimeo.com/233548160 \[Sim Videos\]] [https://vimeo.com/233548160 \[Exp Videos\]] [https://github.com/MengGuo/interm_data_gather \[SourceCode1\]] [https://github.com/MengGuo/Py_iRobot_OptiTrack \[SourceCode2\]]
 . [https://ieeexplore.ieee.org/document/8272366/ *Probabilistic Motion Planning under Temporal Tasks and Soft Constraints*].\n Meng Guo and Michael M. Zavlanos. IEEE Transactions on Automatic Control (TAC), 63(12): 4051-4066, Dec 2018.  [https://arxiv.org/pdf/1706.05209.pdf \[PDF\]] [https://vimeo.com/169438447 \[Sim Videos\]] [https://vimeo.com/180983006 \[Exp Videos\]] [https://github.com/MengGuo/P_MDP_TG \[SourceCode\]]
 . [http://ieeexplore.ieee.org/document/7778995/ *Task and Motion Coordination for Heterogeneous Multi-agent Systems with Loosely-coupled Local Tasks*].\n Meng Guo and Dimos V. Dimarogonas. IEEE Transactions on Automation Science and Engineering (T-ASE), 4(2): 797-808, Apr 2017.  [papers/tase17.pdf \[PDF\]] [https://vimeo.com/148774433 \[Video1\]] [https://vimeo.com/148774898 \[Video2\]]
@@ -23,6 +22,7 @@
 
 ~~~
 {Conference Papers}
+. [https://arxiv.org/pdf/2008.10471.pdf *Learning and Sequencing of Object-Centric Manipulation Skills for Industrial Tasks*.]\n Leonel Rozo, Meng Guo, Andras G Kupcsik, Marco Todescato, Philipp Schillinger, Markus Giftthaler, Matthias Ochs, Markus Spies, Nicolai Waniek, Patrick Kesper, Mathias B{{&uuml}}erger. IEEE/RSJ International Conference on Intelligient Robots and Systems (IROS), 2020. To appear.
 . [https://drive.google.com/file/d/1hvRAJxwfJLpTR4qEVcshHX9PUa9dUPqV/view *Optimizing Sequences of Probabilistic Manipulation Skills Learned from Demonstration*.] \n Lukas Schwenkel, Meng Guo, Mathias B{{&uuml}}rger. 3rd Conference on Robot Learning (CoRL), Osaka, Japan, 2019.
 . [https://drive.google.com/file/d/1T4Xw2sEDXMn0mZp7_4Jw5QGpVU5W2NGz/view *Predictive Safety Network for Resource-constrained Multi-agent Systems*.] \n Meng Guo, Mathias B{{&uuml}}rger. 3rd Conference on Robot Learning (CoRL), Osaka, Japan, 2019.
 . [https://lcas.lincoln.ac.uk/wp/wp-content/uploads/2019/07/All_RSS2019-TIG_Spotlight_compressed.pdf *Fast Learning and Sequencing of Object-centric Manipulation Skills*.] \n Leonel Rozo, Andras Kupcsik, Meng Guo, Marco Todescato, Philipp Schillinger, Nicolai Waniek, Markus Giftthaler, Mathias B{{&uuml}}rger. Workshop in Robotics: Science and systems (RSS), Freiburg, Germany, 2019.
