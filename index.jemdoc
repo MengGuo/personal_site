@@ -17,7 +17,9 @@ E-mail:[Meng.Guo2@de.bosch.com Meng.Guo2@de.bosch.com]\n
 My general research interest is task and motion planning for robots, particularly in two domains:
 (1) distributed and hybrid control of interconnected multi-robot systems under complex goals; (2) skill learning and planning of robotic manipulators.
 
-It is an interdisciplinary area between continuous motion control and discrete planning, under various constraints such as timing or resource limits and geometric or dynamic properties. Currently, I investigate how deep learning tools can guide and accelerate the classic planning methods.
+It is an interdisciplinary area between continuous motion control and discrete planning, under various constraints such as timing 
+or resource limits and geometric or dynamic properties. 
+Currently, I investigate how to combine data-driven methods with model-based formulations to imporove data efficiency and online performance.
 
 More about my [research.html research]  and [P_MAS_TG.html software], also [https://github.com/MengGuo GitHub] and [https://vimeo.com/mengguo Vimeo] page.
 
@@ -26,7 +28,8 @@ We are constantly looking for Interns, Industrial PhDs, PhD Sabbaticals to join 
 == News
 ~~~
 {2021}
-- We have an industrial PhD position open on ``Hybrid and Geometric Optimization for Robotics", see [https://www.bosch.de/karriere/job/REF89268M-phd-hybrid-and-geometric-optimization-for-robotics here]
+- We have an industrial PhD position open on ``Hybrid and Geometric Optimization for Robotics", 
+see [https://www.bosch.de/karriere/job/REF89268M-phd-hybrid-and-geometric-optimization-for-robotics here]
 ~~~
 
     
