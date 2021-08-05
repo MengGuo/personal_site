@@ -1,0 +1,8 @@
+@inproceedings{guo2011quantized,
+  title={Quantized cooperative control using relative state measurements},
+  author={Guo, Meng and Dimarogonas, Dimos V},
+  booktitle={2011 50th IEEE Conference on Decision and Control and European Control Conference},
+  pages={5601--5606},
+  year={2011},
+  organization={IEEE}
+}

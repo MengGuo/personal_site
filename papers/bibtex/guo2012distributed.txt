@@ -1,0 +1,8 @@
+@inproceedings{guo2012distributed,
+  title={Distributed real-time fault detection and isolation for cooperative multi-agent systems},
+  author={Guo, Meng and Dimarogonas, Dimos V and Johansson, Karl Henrik},
+  booktitle={2012 American Control Conference (ACC)},
+  pages={5270--5275},
+  year={2012},
+  organization={IEEE}
+}
