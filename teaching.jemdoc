@@ -2,9 +2,29 @@
 = Meng's Teaching
 
 ~~~
+{2021}
+-  Supervision for intern student Simon Lang (University of Stuttgart). Topic on
+*Optimize Dense Descriptors for Skills Learned from Demonstration*.
+~~~
+
+~~~
+{2020}
+-  Supervision for intern student [https://www.ias.informatik.tu-darmstadt.de/Team/AnThaiLe An Thai Le] (University of Stuttgart). Topic on
+*Learning Forceful Manipulation Skills from Multi-modal Human Demonstrations*. [IROS21 paper]
+-  Supervision for intern student [https://de.linkedin.com/in/muhamed-begovic Muhamed Begovic] (University of Stuttgart). Topic on
+*Learning Multi-branching SKills from Demonstration*. 
+~~~
+
+~~~
+{2019}
+-  Supervision for intern student [https://de.linkedin.com/in/li-yuan-hsu-18bb1b99 Liyuan Hsu] (University of Freiburg). Topic on
+*Efficient and Explainable SKill Coordination for Object Manipulation*.
+~~~
+
+~~~
 {2018}
 -  Supervision for intern student [https://www.ist.uni-stuttgart.de/institute/team/Schwenkel/ Lukas Schwenkel] (University of Stuttgart). Topic on
-*Optimizing Sequences of Probabilistic Manipulation Skills Learned from Demonstration*.
+*Optimizing Sequences of Probabilistic Manipulation Skills Learned from Demonstration*. [CoRL19 paper]
 ~~~
 
 ~~~
