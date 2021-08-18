@@ -3,7 +3,7 @@
 
 [https://github.com/MengGuo *GitHub*]
 
-== Multi-agent Systems under LTL Tasks
+== Multi Robots under LTL Tasks
 - Planner for multi-agent systems under LTL tasks. \n
   [P_MAS_TG.html *P_MAS_TG*]
 - Planner for single MDP under LTL tasks. \n
@@ -16,4 +16,4 @@
   [mix_initiative.html *mix_initiative*]
 
 
-== Task and Motion Planning for Manipulation
+== Task and Motion Planning for Manipulators
