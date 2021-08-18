@@ -1,0 +1,10 @@
+@article{guo2013consensus,
+  title={Consensus with quantized relative state measurements},
+  author={Guo, Meng and Dimarogonas, Dimos V},
+  journal={Automatica},
+  volume={49},
+  number={8},
+  pages={2531--2537},
+  year={2013},
+  publisher={Elsevier}
+}

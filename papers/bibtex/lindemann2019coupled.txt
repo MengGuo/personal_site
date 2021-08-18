@@ -1,0 +1,10 @@
+@article{lindemann2019coupled,
+  title={Coupled multi-robot systems under linear temporal logic and signal temporal logic tasks},
+  author={Lindemann, Lars and Nowak, Jakub and Sch{\"o}nb{\"a}chler, Lukas and Guo, Meng and Tumova, Jana and Dimarogonas, Dimos V},
+  journal={IEEE Transactions on Control Systems Technology},
+  volume={29},
+  number={2},
+  pages={858--865},
+  year={2019},
+  publisher={IEEE}
+}

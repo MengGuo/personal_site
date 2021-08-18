@@ -1,0 +1,8 @@
+@inproceedings{guo2013revising,
+  title={Revising motion planning under linear temporal logic specifications in partially known workspaces},
+  author={Guo, Meng and Johansson, Karl H and Dimarogonas, Dimos V},
+  booktitle={2013 IEEE International Conference on Robotics and Automation},
+  pages={5025--5032},
+  year={2013},
+  organization={IEEE}
+}

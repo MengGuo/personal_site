@@ -1,0 +1,8 @@
+@inproceedings{guo2016hybrid2,
+  title={Hybrid control of multi-robot systems using embedded graph grammars},
+  author={Guo, Meng and Egerstedt, Magnus and Dimarogonas, Dimos V},
+  booktitle={2016 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={5242--5247},
+  year={2016},
+  organization={IEEE}
+}

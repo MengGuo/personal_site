@@ -1,0 +1,7 @@
+@inproceedings{baran2021ros,
+  title={A ROS Package for Human-In-the-Loop Planning and Control under Linear Temporal Logic Tasks},
+  author={Robin Loic Baran, Xiao Tan, Peter Varnai, Pian Yu, Sofie Ahlberg, Meng Guo, Wenceslao Shaw Cortez, Dimos V. Dimarogonas.},
+  booktitle={2021 IEEE International Conference on Automation Science and Engineering (CASE)},
+  year={2021},
+  organization={IEEE}
+}

@@ -1,0 +1,8 @@
+@inproceedings{guo2015bottom,
+  title={Bottom-up motion and task coordination for loosely-coupled multi-agent systems with dependent local tasks},
+  author={Guo, Meng and Dimarogonas, Dimos V},
+  booktitle={2015 IEEE International Conference on Automation Science and Engineering (CASE)},
+  pages={348--355},
+  year={2015},
+  organization={IEEE}
+}

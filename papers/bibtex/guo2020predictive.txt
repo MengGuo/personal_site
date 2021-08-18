@@ -1,0 +1,8 @@
+@inproceedings{guo2020predictive,
+  title={Predictive Safety Network for Resource-constrained Multi-agent Systems},
+  author={Guo, Meng and B{\"u}rger, Mathias},
+  booktitle={Conference on Robot Learning},
+  pages={283--292},
+  year={2020},
+  organization={PMLR}
+}

@@ -1,0 +1,10 @@
+@article{kantaros2019temporal,
+  title={Temporal logic task planning and intermittent connectivity control of mobile robot networks},
+  author={Kantaros, Yiannis and Guo, Meng and Zavlanos, Michael M},
+  journal={IEEE Transactions on Automatic Control},
+  volume={64},
+  number={10},
+  pages={4105--4120},
+  year={2019},
+  publisher={IEEE}
+}

@@ -1,0 +1,10 @@
+@article{guo2016communication,
+  title={Communication-free multi-agent control under local temporal tasks and relative-distance constraints},
+  author={Guo, Meng and Tumova, Jana and Dimarogonas, Dimos V},
+  journal={IEEE Transactions on Automatic Control},
+  volume={61},
+  number={12},
+  pages={3948--3962},
+  year={2016},
+  publisher={IEEE}
+}

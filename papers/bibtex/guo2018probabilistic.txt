@@ -1,0 +1,10 @@
+@article{guo2018probabilistic,
+  title={Probabilistic motion planning under temporal tasks and soft constraints},
+  author={Guo, Meng and Zavlanos, Michael M},
+  journal={IEEE Transactions on Automatic Control},
+  volume={63},
+  number={12},
+  pages={4051--4066},
+  year={2018},
+  publisher={IEEE}
+}

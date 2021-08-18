@@ -1,0 +1,8 @@
+@inproceedings{guo2017distributed,
+  title={Distributed data gathering with buffer constraints and intermittent communication},
+  author={Guo, Meng and Zavlanos, Michael M},
+  booktitle={2017 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={279--284},
+  year={2017},
+  organization={IEEE}
+}

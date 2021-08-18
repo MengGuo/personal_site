@@ -1,0 +1,10 @@
+@article{guo2016task,
+  title={Task and motion coordination for heterogeneous multiagent systems with loosely coupled local tasks},
+  author={Guo, Meng and Dimarogonas, Dimos V},
+  journal={IEEE Transactions on Automation Science and Engineering},
+  volume={14},
+  number={2},
+  pages={797--808},
+  year={2016},
+  publisher={IEEE}
+}

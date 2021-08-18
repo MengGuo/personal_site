@@ -1,0 +1,10 @@
+@article{guo2016hybrid,
+  title={Hybrid control of multiagent systems with contingent temporal tasks and prescribed formation constraints},
+  author={Guo, Meng and Bechlioulis, Charalampos P and Kyriakopoulos, Kostas J and Dimarogonas, Dimos V},
+  journal={IEEE Transactions on Control of Network Systems},
+  volume={4},
+  number={4},
+  pages={781--792},
+  year={2016},
+  publisher={IEEE}
+}

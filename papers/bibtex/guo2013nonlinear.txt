@@ -1,0 +1,10 @@
+@article{guo2013nonlinear,
+  title={Nonlinear consensus via continuous, sampled, and aperiodic updates},
+  author={Guo, Meng and Dimarogonas, Dimos V},
+  journal={International Journal of Control},
+  volume={86},
+  number={4},
+  pages={567--578},
+  year={2013},
+  publisher={Taylor \& Francis}
+}

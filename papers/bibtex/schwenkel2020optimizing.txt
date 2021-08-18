@@ -1,0 +1,8 @@
+@inproceedings{schwenkel2020optimizing,
+  title={Optimizing sequences of probabilistic manipulation skills learned from demonstration},
+  author={Schwenkel, Lukas and Guo, Meng and B{\"u}rger, Mathias},
+  booktitle={Conference on Robot Learning},
+  pages={273--282},
+  year={2020},
+  organization={PMLR}
+}

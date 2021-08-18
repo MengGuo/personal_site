@@ -1,0 +1,8 @@
+@inproceedings{rozo2020learning,
+  title={Learning and sequencing of object-centric manipulation skills for industrial tasks},
+  author={Rozo, Leonel and Guo, Meng and Kupcsik, Andras G and Todescato, Marco and Schillinger, Philipp and Giftthaler, Markus and Ochs, Matthias and Spies, Markus and Waniek, Nicolai and Kesper, Patrick and others},
+  booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={9072--9079},
+  year={2020},
+  organization={IEEE}
+}
