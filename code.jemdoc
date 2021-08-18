@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{code.html}
 = Meng's Software
 
-[https://github.com/MengGuo GitHub]
+[https://github.com/MengGuo *GitHub*]
 
 == Multi-agent Systems under LTL Tasks
 - Planner for multi-agent systems under LTL tasks. \n

@@ -35,7 +35,7 @@
 . *A ROS Package for Human-In-the-Loop Planning and Control under Linear Temporal Logic Tasks*.\n Robin Loic Baran, Xiao Tan, Peter Varnai, Pian Yu, Sofie Ahlberg, Meng Guo, Wenceslao Shaw Cortez, Dimos V. Dimarogonas.
 IEEE International Conference on Automation Science and Engineering (CASE), Lyon, France, 2021.
 [papers/bibtex/baran2021ros.txt \[Bibtex\]]
-. [https://ieeexplore.ieee.org/document/9341570 *Learning and Sequencing of Object-Centric Manipulation Skills for Industrial Tasks*.]\n Leonel Rozo*, Meng Guo*, Andras G Kupcsik*, Marco Todescato, Philipp Schillinger, Markus Giftthaler, Matthias Ochs, Markus Spies, Nicolai Waniek, Patrick Kesper, Mathias B{{&uuml}}erger. IEEE/RSJ International Conference on Intelligient Robots and Systems (IROS), Las Vegas, USA, 2020.
+. [https://ieeexplore.ieee.org/document/9341570 *Learning and Sequencing of Object-Centric Manipulation Skills for Industrial Tasks*.]\n Leonel Rozo, Meng Guo*, Andras G Kupcsik, Marco Todescato, Philipp Schillinger, Markus Giftthaler, Matthias Ochs, Markus Spies, Nicolai Waniek, Patrick Kesper, Mathias B{{&uuml}}erger. IEEE/RSJ International Conference on Intelligient Robots and Systems (IROS), Las Vegas, USA, 2020.
 [papers/bibtex/rozo2020learning.txt \[Bibtex\]] [papers/pdf/rozo2020learning.pdf \[PDF\]]
 . [http://proceedings.mlr.press/v100/schwenkel20a.html *Optimizing Sequences of Probabilistic Manipulation Skills Learned from Demonstration*.] \n Lukas Schwenkel, Meng Guo*, Mathias B{{&uuml}}rger. Conference on Robot Learning (CoRL), Osaka, Japan, 2019.
 [papers/bibtex/schwenkel2020optimizing.txt \[Bibtex\]] [papers/pdf/schwenkel2020optimizing.pdf \[PDF\]] [. \[Video\]] [http://proceedings.mlr.press/v100/schwenkel20a/schwenkel20a-supp.zip \[Supplementary\]]
@@ -49,7 +49,7 @@ Meng Guo, Sofie Andersson, Dimos V. Dimarogonas. IEEE International Conference o
 [papers/bibtex/guo2018human.txt \[Bibtex\]] [papers/pdf/guo2018human.pdf \[PDF\]] [https://vimeo.com/232727691 \[SimVideo\]] [https://vimeo.com/230487800 \[ExpVideo\]] [https://github.com/MengGuo/mix_initiative \[SourceCode\]]
 . [https://ieeexplore.ieee.org/abstract/document/8264271 *Temporal Task Planning in Wirelessly Connected Environments with Unknown Channel Quality*.] \n Meng Guo and Michael M. Zavlanos. IEEE Conference on Decision and Control (CDC). Melbourne, Australia, 2017. 
 [papers/bibtex/guo2017temporal.txt \[Bibtex\]] [papers/pdf/guo2017temporal.pdf \[PDF\]] [https://vimeo.com/205452793 \[Video\]][https://github.com/MengGuo/ac_ltl_wsn.git \[SourceCode\]]
-. [https://ieeexplore.ieee.org/abstract/document/7989036 *Distributed Data Gathering with Buffer Constraints and Intermittent Communication*.] \n Meng Guo and Michael M. Zavlanos. IEEE International Conference on Robotics and Automation (ICRA). Singapore, 2017. 
+. [https://ieeexplore.ieee.org/abstract/document/7989036 *Distributed Data Gathering with Buffer Constraints and Intermittent Communication*.] \n Meng Guo and Michael M. Zavlanos. IEEE International Conference on Robotics and Automation (ICRA). Singapore, 2017. \n
 *Best Paper Award on Multi-Robots Systems - Finalist*. 
 [papers/bibtex/guo2017distributed.txt \[Bibtex\]] [papers/pdf/guo2017distributed.pdf \[PDF\]]
 [https://vimeo.com/157940708 \[Video\]]. 
