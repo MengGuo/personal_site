@@ -1,0 +1,8 @@
+@incollection{guo2018distributed,
+  title={Distributed Hybrid Control Synthesis for Multi-Agent Systems from High-Level Specifications},
+  author={Guo, Meng and Boskos, Dimitris and Tumova, Jana and Dimarogonas, Dimos V},
+  booktitle={Control Subject to Computational and Communication Constraints},
+  pages={241--260},
+  year={2018},
+  publisher={Springer}
+}

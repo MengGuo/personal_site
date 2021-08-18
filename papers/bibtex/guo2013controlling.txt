@@ -1,0 +1,10 @@
+@article{guo2013controlling,
+  title={Controlling the relative agent motion in multi-agent formation stabilization},
+  author={Guo, Meng and Zavlanos, Michael M and Dimarogonas, Dimos V},
+  journal={IEEE Transactions on Automatic Control},
+  volume={59},
+  number={3},
+  pages={820--826},
+  year={2013},
+  publisher={IEEE}
+}
