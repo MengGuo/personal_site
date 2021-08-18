@@ -1,0 +1,8 @@
+@inproceedings{guo2018human,
+  title={Human-in-the-loop mixed-initiative control under temporal tasks},
+  author={Guo, Meng and Andersson, Sofie and Dimarogonas, Dimos V},
+  booktitle={2018 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={6395--6400},
+  year={2018},
+  organization={IEEE}
+}

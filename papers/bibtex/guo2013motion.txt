@@ -1,0 +1,8 @@
+@inproceedings{guo2013motion,
+  title={Motion and action planning under LTL specifications using navigation functions and action description language},
+  author={Guo, Meng and Johansson, Karl H and Dimarogonas, Dimos V},
+  booktitle={2013 IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  pages={240--245},
+  year={2013},
+  organization={IEEE}
+}

@@ -1,0 +1,9 @@
+@inproceedings{spies2019bounded,
+  title={Bounded suboptimal search with learned heuristics for multi-agent systems},
+  author={Spies, Markus and Todescato, Marco and Becker, Hannes and Kesper, Patrick and Waniek, Nicolai and Guo, Meng},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={33},
+  number={01},
+  pages={2387--2394},
+  year={2019}
+}

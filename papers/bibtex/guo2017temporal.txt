@@ -1,0 +1,8 @@
+@inproceedings{guo2017temporal,
+  title={Temporal task planning in wirelessly connected environments with unknown channel quality},
+  author={Guo, Meng and Zavlanos, Michael M},
+  booktitle={2017 IEEE 56th Annual Conference on Decision and Control (CDC)},
+  pages={4161--4168},
+  year={2017},
+  organization={IEEE}
+}

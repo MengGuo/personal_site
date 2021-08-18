@@ -1,0 +1,8 @@
+@inproceedings{guo2013reconfiguration,
+  title={Reconfiguration in motion planning of single-and multi-agent systems under infeasible local LTL specifications},
+  author={Guo, Meng and Dimarogonas, Dimos V},
+  booktitle={52nd IEEE Conference on Decision and Control},
+  pages={2758--2763},
+  year={2013},
+  organization={IEEE}
+}

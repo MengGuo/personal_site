@@ -1,0 +1,8 @@
+@inproceedings{guo2014distributed,
+  title={Distributed plan reconfiguration via knowledge transfer in multi-agent systems under local LTL specifications},
+  author={Guo, Meng and Dimarogonas, Dimos V},
+  booktitle={2014 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={4304--4309},
+  year={2014},
+  organization={IEEE}
+}

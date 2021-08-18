@@ -1,0 +1,8 @@
+@inproceedings{guo2015hybrid,
+  title={Hybrid control of multi-agent systems under local temporal tasks and relative-distance constraints},
+  author={Guo, Meng and Tumova, Jana and Dimarogonas, Dimos V},
+  booktitle={2015 54th IEEE Conference on Decision and Control (CDC)},
+  pages={1701--1706},
+  year={2015},
+  organization={IEEE}
+}

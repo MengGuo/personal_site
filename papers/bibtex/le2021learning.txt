@@ -1,0 +1,7 @@
+@inproceedings{le2021learning,
+  title={Learning Forceful Manipulation Skills from Multi-modal Human Demonstrations},
+  author={An T. Le and Meng Guo and Niels van Duijkeren and Leonel Rozo and Robert Krug and Andras G. Kupcsik and Mathias B\"urger},
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year={2021},
+  organization={IEEE}
+}

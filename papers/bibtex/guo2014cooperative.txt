@@ -1,0 +1,8 @@
+@inproceedings{guo2014cooperative,
+  title={Cooperative decentralized multi-agent control under local LTL tasks and connectivity constraints},
+  author={Guo, Meng and Tumova, Jana and Dimarogonas, Dimos V},
+  booktitle={53rd IEEE conference on decision and control},
+  pages={75--80},
+  year={2014},
+  organization={IEEE}
+}
