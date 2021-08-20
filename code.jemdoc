@@ -1,19 +1,250 @@
 # jemdoc: menu{MENU}{code.html}
-= Meng's Software
+= Meng's Code
 
 [https://github.com/MengGuo *GitHub*]
 
-== Multi Robots under LTL Tasks
-- Planner for multi-agent systems under LTL tasks. \n
-  [P_MAS_TG.html *P_MAS_TG*]
-- Planner for single MDP under LTL tasks. \n
-  [P_MDP_TG.html *P_MDP_TG*]
-- ROS environment for multiple iRobots with OptiTrack localization. \n
-  [Py_iRobot_OptiTrack.html *Py_iRobot_OptiTrack*]
-- Python implementation of reciprocal velocity obstacle (RVO) for multi-agent Systems. \n
-  [RVO_Py_MAS.html *RVO_Py_MAS*]
-- Human-in-the-loop mix initiative control under temporal tasks. \n
-  [mix_initiative.html *mix_initiative*]
 
 
-== Task and Motion Planning for Manipulators
+== *P_MAS_TG*
+-  Planner for Multi-Agent System under Temporal Goals
+-  [https://github.com/MengGuo/P_MAS_TG.git *Download*] at GitHub.
+-  Comments and contributions are most welcome!
+-  Description: \n
+this package contains implementation for plan synthesis algorithms given a finite transition system (as the agent motion model) and a Linear temporal logic formula (as the agent task). It outputs the static plan as a sequence of agent motion and action, required to fulfill the task. 
+- Features: \n
+-- Allow both general and co-safe LTL task formulas.
+-- Handle both motion and action models.
+-- Allow soft and hard task specifications.
+-- NetworkX structure for FTS, Buchi and Product automata.
+-- Static or on-the-fly construction of product automaton.
+-- Easy integration with motion control, sensing and communication modules.
+-- Can be used to generate `.dat` for MatLAB to load Buchi and product automata model. See [https://github.com/MengGuo/P_MAS_TG/blob/master/Intro/Examples/to_matlab/square_world.py square_world.py].
+~~~
+== Application One 
+- Follow the [https://github.com/MengGuo/P-MAS-TG/blob/master/Example.py Example.py]
+- Applied to two agents simultaneously.
+- Motion and action plan for flexible task specifications. 
+- Simulation and demonstration. [https://www.youtube.com/watch?v=a75iwD5dFYY \[Video 1\]] [https://www.youtube.com/watch?v=WJRJI_dCdHE \[Video 2\]]
+~~~
+
+~~~
+{}{img_center}{images/nor.png}{simulation and demonstration for nominal scenario}{700}{}{}
+~~~
+
+~~~
+== Application Two
+- Multiple agents with independent local tasks coexist in a partially-known workspace. 
+\n
+-- Local exchange of workspace features based on specific task specifications. 
+-- Real-time plan adaptation to ensure safety.
+-- Gradual plan improvement for task performance. 
+-- Simulation and demonstration. [papers/ICRA14.pdf \[Detail\]] [https://www.youtube.com/watch?v=leTuzy3TIhI \[Video 1\]] [https://www.youtube.com/watch?v=eWviu8We-vk \[Video 2\]]
+~~~
+
+~~~
+{}{img_center}{images/indep.png}{simulation and demonstration for nominal scenario}{700}{}{}
+~~~
+
+~~~
+== Application Three
+- Multiple agents with dependent local tasks due to collaborative actions. 
+\n
+-- Dependency-Cluster to reduce computation complexity. [papers/CDC13.pdf \[Detail\]]
+-- Product-free solution by real-time message exchange. [papers/CASE15.pdf \[Detail\]] [https://vimeo.com/142983863 \[Video\]]
+-- Agent failure detection and recovery. [papers/CASE15.pdf \[Detail\]] [https://vimeo.com/142984081 \[Video\]]
+~~~
+
+~~~
+{}{img_center}{images/multi.jpg}{simulation and demonstration for dependent tasks}{700}{}{}
+~~~
+
+~~~
+== Application Four
+- Multiple agents with local tasks and relative-motion constraints.
+\n
+-- Network connectivity constraint. 
+-- Relative-distance constraint with collision avoidance. [https://vimeo.com/136210841 \[Simulation\]] [https://vimeo.com/137872185 \[Demo\]]
+~~~
+
+~~~
+{}{img_center}{images/gt.png}{simulation and demonstration for EGGs}{700}{}{}
+~~~
+
+~~~
+== Application Five
+- Multiple agents with contingent service and formation tasks.
+\n
+-- Service request as a short-term task provided by one agent to another. 
+-- Formation request as the relative deployment requirement with predefined transient response. [https://vimeo.com/138463775 \[Video\]] 
+~~~
+
+~~~
+{}{img_center}{images/ct.jpg}{Graph Grammers}{700}{}{}
+~~~
+
+~~~
+== Application Six
+- Heterogeneous groups of homogeneous agents
+\n
+-- Depended local tasks due to collaborative actions
+-- Real-time coordination among heterogeneous groups [https://vimeo.com/148774433 \[Video\]]
+-- On-line task swapping to increase plan execution efficiency [https://vimeo.com/148774898 \[Video\]]
+~~~
+
+~~~
+{}{img_center}{images/collaborate.jpg}{Collaboration}{700}{}{}
+~~~
+
+
+== *P_MDP_TG*
+-  Planner for Markov Decision Process under Temporal Goals
+-  [https://github.com/MengGuo/P_MDP_TG.git *Download*] at GitHub
+-  Comments and contributions are most welcome!
+-  Description: \n
+this package contains the implementation for policy synthesis algorithms given a probabilistically-labeled Markov Decision Process (MDP) (as the robot motion model) and a Linear Temporal Logic (LTL) formula (as the robot task). It outputs a stationary and finite-memory policy consists of plan prefix and plan suffix, such that the controlled robot behavior fulfills the task with a given lower-bounded risk and minimizes the expected total cost.
+- Features: \n 
+-- Allows probabilistic labels on MDP states.
+-- Tunable trade-off between risk and expected total cost in the plan prefix.
+-- Linear programs for solving constrained stochastic shortest path (SSP).
+-- Optimization over both plan prefix and suffix.
+-- Relaxed policy generation for cases where no accepting end components (AECs) exist.
+-- Interface between LTL formula, Buchi Automaton, Deterministic Robin Automaton and NetworkX graph objects.
+-- Computing maximal accepting end components (MAEC) of MDPs.
+
+~~~
+== Application One 
+- Follow the [https://github.com/MengGuo/P_MDP_TG/blob/master/case_study.py case_study.py]
+- Total cost optimization over plan prefix and suffix.
+- With tunable risk paramter.
+- Simulation. [https://vimeo.com/174351505 \[Video 1\]] [https://vimeo.com/175143095 \[Video 2\]]
+~~~
+
+~~~
+{}{img_center}{images/risk.png}{simulation for risk and cost optimization}{700}{}{}
+~~~
+
+
+~~~
+== Application Two
+- Optimal policy generated off-line via this package.
+- Total cost optimization over plan prefix and suffix, with tunable risk paramter.
+- Executed in real-time via [Py_iRobot_OptiTrack.html *Py_iRobot_OptiTrack*]
+- Follow the [https://github.com/MengGuo/Py_iRobot_OptiTrack/blob/master/mdp_tg/src/plan_execution.py plan_execution.py]
+- Demonstration. [https://vimeo.com/180983006 \[Video 1\]] [https://vimeo.com/180985419 \[Video 2\]] [https://vimeo.com/180987471 \[Video 3\]]
+~~~
+
+~~~
+{}{img_center}{images/mdp_tg.png}{Control of MDP}{700}{}{}
+~~~
+
+
+== [https://github.com/MengGuo/RVO_Py_MAS *RVO_Py_MAS*]
+-  Python Implementation of Reciprocal Velocity Obstacle (RVO) for Multi-agent Systems
+-  [https://github.com/MengGuo/RVO_Py_MAS *Download*] at GitHub
+-  Comments and contributions are most welcome!
+-  Check out [https://vimeo.com/185405407 \[Video1\]], [https://vimeo.com/185408368 \[Video2\]].
+-  Description: \n
+This package contains a *plug-and-play* Python package for collision-avoidance in multi-agent system, based on reciprocal velocity obstacles ([https://www.cs.unc.edu/~geom/RVO/icra2008.pdf RVO]) and hybrid reciprocal velocity obstacles ([https://www.cs.unc.edu/~geom/RVO/icra2008.pdf HRVO]).
+- Features: \n
+-- Takes a 2D workspace with any number of non-overlaping circular or square obstacles
+-- Any number of dynamic agents with non-zero volume.
+-- Allow the choice of VO, RVO, HRVO.
+-- *Direct plug-and-play* and *fully integrate-able  with your control objective*, i.e., the output velocity is a minimal modification of the desired velocity.
+-- Scalable and fast, see examples below. 
+
+
+~~~
+{}{img_center}{images/snapshots.png}{RVO and HRVO}{800}{}{}
+~~~
+
+
+== *HIL_Mix_Initiative*
+-  Human-in-the-loop mix initiative control under temporal tasks
+-  [https://github.com/MengGuo/mix_initiativeb
+ *Download*] at GitHub
+-  Comments and contributions are most welcome!
+-  Description: \n
+This package contains the implementation of the mix-initiative control of a single robot under temporal tasks. The human operator can directly modify the navigation input of the robot and assign new tasks to the robot during run time. The workspace is assumed to be only partially-known and possibly dynamic. More importantly, via this interaction, the robot can learn the human preference for the parameters used in the plan synthesis.
+- Features: \n 
+-- Human operator can influence the ``cmd_vel" control velocities *directly* whenever needed: 
+--- to guide the robot through unknown area of the workspace,
+--- to show the preferred path.
+-- Safety is *ensured for all time* by the mix-initiative controller, for all possible human inputs. 
+-- Human can assign *contingent short-term tasks* during run time, which the robot will accommodate within the given deadline.
+-- Given the past inputs from the human, the robot could *learn the preferred value of the parameters used in the plan synthesis*, with inverse reinforcement learning (*IRL*) algorithms. 
+
+~~~
+== Simulation
+- Follow the [https://github.com/MengGuo/mix_initiative/blob/master/hil_mix_control/src/hil_mix_planner_tiago.py hil_mix_planner_tiago.py] to simulate [http://wiki.ros.org/Robots/TIAGo TIAGo robot]
+- Human-in-the-loop simulation.
+- [https://vimeo.com/230487800 \[Video 1\]] [https://vimeo.com/232727691 \[Video 2\]]
+~~~
+
+~~~
+{}{img_center}{images/traj_1.png}{Trajectory}{700}{}{}
+~~~
+
+~~~
+{}{img_center}{images/traj.png}{Trajectory}{700}{}{}
+~~~
+
+~~~
+{}{img_center}{images/v.png}{input}{700}{}{}
+~~~
+
+
+~~~
+== Experiment
+- Follow the [https://github.com/MengGuo/mix_initiative/blob/master/hil_mix_control/src/hil_mix_planner_turtlebot.py hil_mix_planner_turtlebot.py] to control the [http://wiki.ros.org/Robots/TurtleBot turtlebot] in an office environment.
+- Human-in-the-loop experiment. 
+- Demonstration. [https://vimeo.com/230487800 \[Video\]] 
+~~~
+
+~~~
+{}{img_center}{images/exp.png}{exp}{700}{}{}
+~~~
+
+== [Py_iRobot_OptiTrack.html *Py_iRobot_OptiTrack*]
+-  Python Interface for Controlling iRobots with OptiTrack
+-  [https://github.com/MengGuo/Py_iRobot_OptiTrack *Download*] at GitHub
+-  Comments and contributions are most welcome!
+-  Description: \n
+this package contains the Python interface used at the RAMA lab of Prof. Zavlanos, Duke University. The hardware structure consists of
+-- one Windows PC (W), which connects to all OptiTrack cameras and runs program Motive to calibrate and retrieve data from OptiTrack.
+-- one Ubuntu machine (U), which runs ROS and does the algorithmic computation to compute the control signals for each iRobot.
+-- several iRobots (I), which runs iRobot driver locally, receives control commands from (U) and sends sensory data back to (U).
+- Features: \n 
+-- Retrieve multiple rigid-body data.
+-- Plot real-time positions of all rigid bodies.
+-- Can be easily extended to more complicate motion and task planning scenarios.
+
+
+
+~~~
+== Application One
+- Follow the [https://github.com/MengGuo/Py_iRobot_OptiTrack/blob/master/mdp_tg/src/simple_irobot_control_optitrack.py simple_irobot_control_optitrack.py]
+- Retrieve multiple rigid-body data.
+- Plot real-time positions of all rigid bodies.
+- Simple turn-forward-turn control.
+~~~
+
+~~~
+{}{img_center}{images/combined.png}{Multi-robot simple control}{800}{}{}
+~~~
+
+
+
+
+~~~
+== Application Two
+- Optimal paln generated via [P_MDP_TG.html *P_MDP_TG*]
+- Total cost optimization over plan prefix and suffix, with tunable risk paramter.
+- On-line execution via this package. 
+- Follow the [https://github.com/MengGuo/Py_iRobot_OptiTrack/blob/master/mdp_tg/src/plan_execution.py plan_execution.py]
+- Demonstration. [https://vimeo.com/180983006 \[Video 1\]] [https://vimeo.com/180985419 \[Video 2\]] [https://vimeo.com/180987471 \[Video 3\]]
+~~~
+
+~~~
+{}{img_center}{images/mdp_tg.png}{Control of MDP}{700}{}{}
+~~~
+
