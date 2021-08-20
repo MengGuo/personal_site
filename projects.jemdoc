@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{projects.html}
+= Meng's Projects
+
+
+== Efficient and Explainable Skill Coordination for Object Manipulation
+~~~
+Abstact:
+
+~~~
+
+~~~
+{}{img_center}{images/gtn.png}{Coordination of manipulation skills}{700}{}{}
+~~~
+
+References: [. \[TRO2021\]] [papers/pdf/rozo2020learning.pdf \[IROS2020\]] [papers/pdf/schwenkel2020optimizing.pdf \[CoRL2019\]]
