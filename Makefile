@@ -6,7 +6,13 @@ build:
 	python jemdoc.py code.jemdoc
 
 
-git-add: 
-	git add *.html *.css
-	git add papers/*
-	git add images/*
+checkout: 
+	git checkout source *.html *.css
+	git checkout source papers/pdf/* papers/bibtex/*
+	git checkout source images/*
+
+
+push:
+	git add *
+	git commit -m 'update'
+	git push
