@@ -7,7 +7,7 @@ build:
 
 
 checkout: 
-	git checkout source *.html *.css Makefile
+	git checkout source *.html *.css Makefile MENU
 	git checkout source papers/pdf papers/bibtex
 	git checkout source images
 
