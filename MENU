@@ -1,7 +1,6 @@
 Bio
     Home                [index.html]
-    Biography           [bio.html]    
-    Education           [education.html]
+    Biography           [bio.html]
     Teaching            [teaching.html]
 
 
@@ -11,21 +10,13 @@ Research
 
 
 Software
-    P_MAS_TG            [P_MAS_TG.html]
-    P_MDP_TG            [P_MDP_TG.html]	
-    Py_iRobot_OptiTrack [Py_iRobot_OptiTrack.html]
-    RVO_Py_MAS          [RVO_Py_MAS.html]
-
-
-Other Sites
-    GitHub [https://github.com/MengGuo]
-    Vimeo  [https://vimeo.com/mengguo]
+    Code                   [code.html]
+    GitHub                 [https://github.com/MengGuo]
 
 
 Goodies
-    LTL2BA         [http://www.lsv.ens-cachan.fr/~gastin/ltl2ba/]
-    Poly2tri       [https://pypi.python.org/pypi/poly2tri]
-    Gurobi         [https://www.gurobi.com/]
-    LTL2dstar      [http://www.ltl2dstar.de]
-    Jemdoc         [http://jemdoc.jaboc.net]
     Ipe		   [http://ipe.otfried.org/]
+    Emacs          [https://www.gnu.org/software/emacs/]
+    Tmux           [https://github.com/tmux/tmux/wiki]
+    MobaXterm      [https://mobaxterm.mobatek.net/]
+    OR tools       [https://developers.google.com/optimization]
