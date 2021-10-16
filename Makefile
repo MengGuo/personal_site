@@ -7,9 +7,9 @@ build:
 
 
 checkout: 
-	git checkout source *.html *.css
-	git checkout source papers/pdf/* papers/bibtex/*
-	git checkout source images/*
+	git checkout source *.html *.css Makefile
+	git checkout source papers/pdf papers/bibtex
+	git checkout source images
 
 
 push:
