@@ -1,0 +1,7 @@
+@inproceedings{guo2022human,
+  title={Human-in-the-Loop Mixed-Initiative Control under Temporal Tasks},
+  author={Guo, Meng and B{{&uuml}}rger, Mathias},
+  booktitle={2022 IEEE International Conference on Robotics and Automation (ICRA)},
+  year={2022},
+  organization={IEEE}
+}
