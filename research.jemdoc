@@ -32,7 +32,7 @@
 
 == Conference Papers
 ~~~
-. *Interactive Human-in-the-loop Coordination of Manipulation Skills Learned from Demonstration*. \n 
+. [https://arxiv.org/abs/2203.00210 *Interactive Human-in-the-loop Coordination of Manipulation Skills Learned from Demonstration*.] \n 
 Meng Guo, Mathias B{{&uuml}}rger. IEEE International Conference on Robotics and Automation (ICRA). Philadelphia, USA, 2022. 
 [papers/bibtex/guo2022human.txt \[Bibtex\]] [papers/pdf/guo2022human.pdf \[PDF\]] [. \[Video\]]
 . *Learning Forceful Manipulation Skills from Multi-Modal Human Demonstrations*.\n An Thai Le, Meng Guo*, Niels van Duijkeren, Leonel Rozo, Robert Krug, Andras Kupcsik, Mathias  B{{&uuml}}erger. IEEE/RSJ International Conference on Intelligient Robots and Systems (IROS), Prague, Czech Republic, 2021. 
