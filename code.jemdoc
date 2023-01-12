@@ -24,7 +24,7 @@ this package contains implementation for plan synthesis algorithms given a finit
 ~~~
 
 ~~~
-{}{img_center}{images/nor.png}{simulation and demonstration for nominal scenario}{700}{}{}
+{}{img_left}{images/nor.png}{simulation and demonstration for nominal scenario}{700}{}{}
 ~~~
 
 ~~~
@@ -38,7 +38,7 @@ this package contains implementation for plan synthesis algorithms given a finit
 ~~~
 
 ~~~
-{}{img_center}{images/indep.png}{simulation and demonstration for nominal scenario}{700}{}{}
+{}{img_left}{images/indep.png}{simulation and demonstration for nominal scenario}{700}{}{}
 ~~~
 
 ~~~
@@ -51,7 +51,7 @@ this package contains implementation for plan synthesis algorithms given a finit
 ~~~
 
 ~~~
-{}{img_center}{images/multi.jpg}{simulation and demonstration for dependent tasks}{700}{}{}
+{}{img_left}{images/multi.jpg}{simulation and demonstration for dependent tasks}{700}{}{}
 ~~~
 
 ~~~
@@ -63,7 +63,7 @@ this package contains implementation for plan synthesis algorithms given a finit
 ~~~
 
 ~~~
-{}{img_center}{images/gt.png}{simulation and demonstration for EGGs}{700}{}{}
+{}{img_left}{images/gt.png}{simulation and demonstration for EGGs}{700}{}{}
 ~~~
 
 ~~~
@@ -75,7 +75,7 @@ this package contains implementation for plan synthesis algorithms given a finit
 ~~~
 
 ~~~
-{}{img_center}{images/ct.jpg}{Graph Grammers}{700}{}{}
+{}{img_left}{images/ct.jpg}{Graph Grammers}{700}{}{}
 ~~~
 
 ~~~
@@ -88,7 +88,7 @@ this package contains implementation for plan synthesis algorithms given a finit
 ~~~
 
 ~~~
-{}{img_center}{images/collaborate.jpg}{Collaboration}{700}{}{}
+{}{img_left}{images/collaborate.jpg}{Collaboration}{700}{}{}
 ~~~
 
 
@@ -116,7 +116,7 @@ this package contains the implementation for policy synthesis algorithms given a
 ~~~
 
 ~~~
-{}{img_center}{images/risk.png}{simulation for risk and cost optimization}{700}{}{}
+{}{img_left}{images/risk.png}{simulation for risk and cost optimization}{700}{}{}
 ~~~
 
 
@@ -130,7 +130,7 @@ this package contains the implementation for policy synthesis algorithms given a
 ~~~
 
 ~~~
-{}{img_center}{images/mdp_tg.png}{Control of MDP}{700}{}{}
+{}{img_left}{images/mdp_tg.png}{Control of MDP}{700}{}{}
 ~~~
 
 
@@ -150,7 +150,7 @@ This package contains a *plug-and-play* Python package for collision-avoidance i
 
 
 ~~~
-{}{img_center}{images/snapshots.png}{RVO and HRVO}{800}{}{}
+{}{img_left}{images/snapshots.png}{RVO and HRVO}{800}{}{}
 ~~~
 
 
@@ -177,15 +177,15 @@ This package contains the implementation of the mix-initiative control of a sing
 ~~~
 
 ~~~
-{}{img_center}{images/traj_1.png}{Trajectory}{700}{}{}
+{}{img_left}{images/traj_1.png}{Trajectory}{700}{}{}
 ~~~
 
 ~~~
-{}{img_center}{images/traj.png}{Trajectory}{700}{}{}
+{}{img_left}{images/traj.png}{Trajectory}{700}{}{}
 ~~~
 
 ~~~
-{}{img_center}{images/v.png}{input}{700}{}{}
+{}{img_left}{images/v.png}{input}{700}{}{}
 ~~~
 
 
@@ -197,7 +197,7 @@ This package contains the implementation of the mix-initiative control of a sing
 ~~~
 
 ~~~
-{}{img_center}{images/exp.png}{exp}{700}{}{}
+{}{img_left}{images/exp.png}{exp}{700}{}{}
 ~~~
 
 == [Py_iRobot_OptiTrack.html *Py_iRobot_OptiTrack*]
@@ -225,7 +225,7 @@ this package contains the Python interface used at the RAMA lab of Prof. Zavlano
 ~~~
 
 ~~~
-{}{img_center}{images/combined.png}{Multi-robot simple control}{800}{}{}
+{}{img_left}{images/combined.png}{Multi-robot simple control}{800}{}{}
 ~~~
 
 
@@ -241,6 +241,6 @@ this package contains the Python interface used at the RAMA lab of Prof. Zavlano
 ~~~
 
 ~~~
-{}{img_center}{images/mdp_tg.png}{Control of MDP}{700}{}{}
+{}{img_left}{images/mdp_tg.png}{Control of MDP}{700}{}{}
 ~~~
 

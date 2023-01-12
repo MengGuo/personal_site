@@ -3,7 +3,7 @@
 
 == Journal Papers
 ~~~
-. [https://ieeexplore.ieee.org/abstract/document/9552221/ *Geometric Task Networks: Learning Efficient and Explainable Skill Coordination for Object Manipulation*]. \n Meng Guo, Mathias B{{&uuml}}rger. IEEE Transactions on Robotics (TRO), 2021. [papers/bibtex/guo2021geometric.txt \[Bibtex\]] [papers/pdf/guo2021geometric.pdf \[PDF\]] [. \[Video\]] [. \[Supplementary\]]\n
+. [https://ieeexplore.ieee.org/abstract/document/9552221/ *Geometric Task Networks: Learning Efficient and Explainable Skill Coordination for Object Manipulation*]. \n Meng Guo, Mathias B{{&uuml}}rger. IEEE Transactions on Robotics (TRO), 38(3): 1723-1734, 2022. [papers/bibtex/guo2021geometric.txt \[Bibtex\]] [papers/pdf/guo2021geometric.pdf \[PDF\]] [. \[Video\]] [. \[Supplementary\]]\n
 *Selected for presentation at ICRA2022*
 . [https://ieeexplore.ieee.org/abstract/document/8943945 *Coupled Multi-Robot Systems Under Linear Temporal Logic and Signal Temporal Logic Tasks*].\n Lars Lindemann, Jakub Nowak, Lukas Sch{{&ouml}}nb{{&auml}}chler, Meng Guo, Jana Tumova, Dimos V Dimarogonas. IEEE Transactions on Control Systems Technology (TCST), 29(2): 858-865, Dec 2019.
 [papers/bibtex/lindemann2019coupled.txt \[Bibtex\]] [papers/pdf/lindemann2019coupled.pdf \[PDF\]]
@@ -32,10 +32,11 @@
 
 == Conference Papers
 ~~~
+. *Online Planning of Uncertain MDPs under Temporal Tasks and Safe-Return Constraints*.\n Yuyang Zhang, Meng Guo. IEEE Conference on Decision and Control (CDC), Cancun, Mexico, 2022.
 . [https://arxiv.org/abs/2203.00210 *Interactive Human-in-the-loop Coordination of Manipulation Skills Learned from Demonstration*.] \n 
 Meng Guo, Mathias B{{&uuml}}rger. IEEE International Conference on Robotics and Automation (ICRA). Philadelphia, USA, 2022. 
 [papers/bibtex/guo2022human.txt \[Bibtex\]] [papers/pdf/guo2022human.pdf \[PDF\]] [. \[Video\]]
-. *Learning Forceful Manipulation Skills from Multi-Modal Human Demonstrations*.\n An Thai Le, Meng Guo*, Niels van Duijkeren, Leonel Rozo, Robert Krug, Andras Kupcsik, Mathias  B{{&uuml}}erger. IEEE/RSJ International Conference on Intelligient Robots and Systems (IROS), Prague, Czech Republic, 2021. 
+. [https://ieeexplore.ieee.org/document/9636828 *Learning Forceful Manipulation Skills from Multi-Modal Human Demonstrations*].\n An Thai Le, Meng Guo*, Niels van Duijkeren, Leonel Rozo, Robert Krug, Andras Kupcsik, Mathias  B{{&uuml}}erger. IEEE/RSJ International Conference on Intelligient Robots and Systems (IROS), Prague, Czech Republic, 2021. 
 [papers/bibtex/le2021learning.txt \[Bibtex\]] [papers/pdf/le2021learning.pdf \[PDF\]] [. \[Video\]]
 . [https://ieeexplore.ieee.org/document/9551648/ *A ROS Package for Human-In-the-Loop Planning and Control under Linear Temporal Logic Tasks*].\n Robin Loic Baran, Xiao Tan, Peter Varnai, Pian Yu, Sofie Ahlberg, Meng Guo, Wenceslao Shaw Cortez, Dimos V. Dimarogonas.
 IEEE International Conference on Automation Science and Engineering (CASE), Lyon, France, 2021.
@@ -85,7 +86,9 @@ Meng Guo, Karl H. Johansson and Dimos V. Dimarogonas. IEEE/RSJ International Con
 
 == Patents
 ~~~
-. *Safeguarding resources of physical entites in a shared environment*. \n Meng Guo, Mathias B{{&uuml}}rger. EU-US-CN Patent.
-. [https://patentimages.storage.googleapis.com/84/29/8e/0b83d02aaa3e5b/US20210122036A1.pdf *Method and device for training manipulation skills of a robot system*.] \n Meng Guo, Mathias B{{&uuml}}rger. EU-US-CN-JP Patent.
-. [https://patentimages.storage.googleapis.com/54/9d/0c/972983e00a4d14/US20200398427A1.pdf *Method and system for robot manipulation planning*.] \n Andras Gabor Kupcsik, Leonel Rozo, Marco Todescato, Markus Spies, Markus Giftthaler, Mathias B{{&uuml}}rger, Meng Guo, Nicolai Waniek, Patrick Kesper, Philipp Schillinger. EU-US-CN Patent.
+. *Method and device for operating a machine*\n
+A.G Kupcsik, L Rozo, M Guo. US Patent App. 17/355, 961.
+. *Safeguarding resources of physical entites in a shared environment*. \n M. Guo, M. B{{&uuml}}rger. EU-US-CN Patent. App. 17/273, 129.
+. [https://patentimages.storage.googleapis.com/84/29/8e/0b83d02aaa3e5b/US20210122036A1.pdf *Method and device for training manipulation skills of a robot system*.] \n M. Guo, M. B{{&uuml}}rger. EU-US-CN-JP Patent.
+. [https://patentimages.storage.googleapis.com/54/9d/0c/972983e00a4d14/US20200398427A1.pdf *Method and system for robot manipulation planning*.] \n A.G. Kupcsik, L. Rozo, M. Todescato, M. Spies, M. Giftthaler, M. B{{&uuml}}rger, M. Guo, N. Waniek, P. Kesper, P. Schillinger. EU-US-CN Patent.
 ~~~

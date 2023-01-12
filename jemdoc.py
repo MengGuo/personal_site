@@ -26,21 +26,21 @@ import sys
 import os
 import re
 import time
-import StringIO
+import io
 from subprocess import *
 import tempfile
 
 def info():
-  print __doc__
-  print 'Platform: ' + sys.platform + '.'
-  print 'Python: %s, located at %s.' % (sys.version[:5], sys.executable)
-  print 'Equation support:',
+  print(__doc__)
+  print('Platform: ' + sys.platform + '.')
+  print('Python: %s, located at %s.' % (sys.version[:5], sys.executable))
+  print('Equation support:', end=' ')
   (supported, message) = testeqsupport()
   if supported:
-    print 'yes.'
+    print('yes.')
   else:
-    print 'no.'
-  print message
+    print('no.')
+  print(message)
 
 def testeqsupport():
   supported = True
@@ -92,7 +92,7 @@ class controlstruct(object):
     self.inf = self.otherfiles.pop(0)
 
 def showhelp():
-  a = """Usage: jemdoc [OPTIONS] [SOURCEFILE] 
+  a = """Usage: jemdoc [OPTIONS] [SOURCEFILE]
   Produces html markup from a jemdoc SOURCEFILE.
 
   Most of the time you can use jemdoc without any additional flags.
@@ -113,7 +113,7 @@ def showhelp():
   overwritten by including them in a configuration file, and running,
   for example,
 
-    jemdoc -c mywebsite.conf index.jemdoc 
+    jemdoc -c mywebsite.conf index.jemdoc
 
   You can view version and installation details with
 
@@ -127,7 +127,7 @@ def showhelp():
     else:
       b += l
 
-  print b
+  print(b)
 
 def standardconf():
   a = """[firstbit]
@@ -137,10 +137,10 @@ def standardconf():
   <head>
   <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-  
+
   [defaultcss]
   <link rel="stylesheet" href="jemdoc.css" type="text/css" />
-  
+
   [windowtitle]
   # used in header for window title.
   <title>|</title>
@@ -150,22 +150,22 @@ def standardconf():
 
   [fwtitleend]
   </div>
-  
+
   [doctitle]
   # used at top of document.
   <div id="toptitle">
   <h1>|</h1>
-  
+
   [subtitle]
   <div id="subtitle">|</div>
-  
+
   [doctitleend]
   </div>
-  
+
   [bodystart]
   </head>
   <body>
-  
+
   [analytics]
   <script type="text/javascript">
   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -176,16 +176,16 @@ def standardconf():
       var pageTracker = _gat._getTracker("|");
       pageTracker._trackPageview();
   } catch(err) {}</script>
-  
+
   [menustart]
   <table summary="Table for page layout." id="tlayout">
   <tr valign="top">
   <td id="layout-menu">
-  
+
   [menuend]
   </td>
   <td id="layout-content">
-  
+
   [menucategory]
   <div class="menu-category">|</div>
 
@@ -197,62 +197,62 @@ def standardconf():
 
   [specificjs]
   <script src="|.js" type="text/javascript"></script>
-  
+
   [currentmenuitem]
   <div class="menu-item"><a href="|1" class="current">|2</a></div>
-  
+
   [nomenu]
   <div id="layout-content">
-  
+
   [menulastbit]
   </td>
   </tr>
   </table>
-  
+
   [nomenulastbit]
   </div>
-  
+
   [bodyend]
   </body>
   </html>
-  
+
   [infoblock]
   <div class="infoblock">
-  
+
   [codeblock]
   <div class="codeblock">
-  
+
   [blocktitle]
   <div class="blocktitle">|</div>
-  
+
   [infoblockcontent]
   <div class="blockcontent">
-  
+
   [codeblockcontent]
   <div class="blockcontent"><pre>
-  
+
   [codeblockend]
   </pre></div></div>
-  
+
   [codeblockcontenttt]
   <div class="blockcontent"><tt class="tthl">
-  
+
   [codeblockendtt]
   </tt></div></div>
-  
+
   [infoblockend]
   </div></div>
-  
+
   [footerstart]
   <div id="footer">
   <div id="footer-text">
-  
+
   [footerend]
   </div>
   </div>
-  
+
   [lastupdated]
-  Page generated |. Theme based on <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+  Page generated |, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 
   [sourcelink]
   (<a href="|">source</a>)
@@ -281,7 +281,7 @@ def raisejandal(msg, line=0):
   raise JandalError(s)
 
 def readnoncomment(f):
-  l = f.readline()
+  l = f.readline().decode(encoding='utf-8')
   if l == '':
     return l
   elif l[0] == '#': # jem: be a little more generous with the comments we accept?
@@ -293,7 +293,7 @@ def parseconf(cns):
   syntax = {}
   warn = False # jem. make configurable?
   # manually add the defaults as a file handle.
-  fs = [StringIO.StringIO(standardconf())]
+  fs = [io.BytesIO(bytes(standardconf(), encoding='utf-8'))]
   for sname in cns:
     fs.append(open(sname, 'rb'))
 
@@ -307,7 +307,7 @@ def parseconf(cns):
 
         s = ''
         l = readnoncomment(f)
-        while l not in ('\n', ''):
+        while l not in ('\r', '\n', ''):
           s += l
           l = readnoncomment(f)
 
@@ -381,7 +381,7 @@ def hb(f, tag, content1, content2=None):
 def pc(f, ditchcomments=True):
   """Peeks at next character in the file."""
   # Should only be used to look at the first character of a new line.
-  c = f.inf.read(1)
+  c = f.inf.read(1).decode(encoding='utf-8')
   if c: # only undo forward movement if we're not at the end.
     if ditchcomments and c == '#':
       l = nl(f)
@@ -417,7 +417,7 @@ def doincludes(f, l):
 
 def nl(f, withcount=False, codemode=False):
   """Get input file line."""
-  s = f.inf.readline()
+  s = f.inf.readline().decode(encoding='utf-8')
   if not s and f.otherfiles:
     f.nextfile()
     return nl(f, withcount, codemode)
@@ -460,10 +460,10 @@ def np(f, withcount=False, eatblanks=True):
   else:
     s = nl(f)
 
-  while pc(f) not in ('\n', '-', '.', ':', '', '=', '~', '{', '\\(', '\\)'):
+  while pc(f) not in ('\r', '\n', '-', '.', ':', '', '=', '~', '{', '\\(', '\\)'):
     s += nl(f)
 
-  while eatblanks and pc(f) == '\n':
+  while eatblanks and pc(f) in ('\n', '\r'):
     nl(f) # burn blank line.
 
   # in both cases, ditch the trailing \n.
@@ -531,8 +531,8 @@ def replaceequations(b, f):
         # Check that the tools we need exist.
         (supported, message) = testeqsupport()
         if not supported:
-          print 'WARNING: equation support disabled.'
-          print message
+          print('WARNING: equation support disabled.')
+          print(message)
           f.eqsupport = False
           return b
 
@@ -552,6 +552,7 @@ def replaceequations(b, f):
       eqtext = allreplace(eq)
       eqtext = eqtext.replace('\\', '')
       eqtext = eqtext.replace('\n', ' ')
+      eqtext = eqtext.replace('\r', ' ')
 
       # Double braces will cause problems with escaping of image tag.
       eqtext = eqtext.replace('{{', 'DOUBLEOPENBRACE')
@@ -822,18 +823,6 @@ def gethl(lang):
     d['error'] = ['\w*Error',]
     d['commentuntilend'] = '#'
     d['strings'] = True
-  elif lang in ['perl']:
-    d['statement'] = ['if', 'unless', 'while', 'until', 'for', 
-            'foreach', 'when', 'elsif', 'else']
-    d['builtin'] = ['my','our','local','state',
-            'return','last','next','redo','goto','break',
-            'open', 'close', 'print', 'sprintf', 'glob',
-            'use', 'no', 'my', 'local', 'our', 'system']
-    d['special'] = ['abs','atan2','cos','exp','hex',
-            'int','log','oct','rand', 'sin','sqrt','sran']
-    d['error'] = ['\w*Error',]
-    d['commentuntilend'] = '#'
-    d['strings'] = True
   elif lang in ['c', 'c++', 'cpp']:
     d['statement'] = ['if', 'else', 'printf', 'return', 'for']
     d['builtin'] = ['static', 'typedef', 'int', 'float', 'double', 'void',
@@ -957,7 +946,7 @@ def geneq(f, eq, dpi, wl, outname):
       if os.path.exists(eqname) and eqname in eqdepths:
         return (eqdepths[eqname], eqname)
     except IOError:
-      print 'eqdepthcache read failed.'
+      print('eqdepthcache read failed.')
 
   # Open tex file.
   tempdir = tempfile.gettempdir()
@@ -967,14 +956,14 @@ def geneq(f, eq, dpi, wl, outname):
 
   preamble = '\documentclass{article}\n'
   for p in f.eqpackages:
-    preamble += '\usepackage{%s}\n' % p
+    preamble += '\\usepackage{%s}\n' % p
   for p in f.texlines:
     # Replace \{ and \} in p with { and }.
     # XXX hack.
     preamble += re.sub(r'\\(?=[{}])', '', p + '\n')
   preamble += '\pagestyle{empty}\n\\begin{document}\n'
   g.write(preamble)
-  
+
   # Write the equation itself.
   if wl:
     g.write('\\[%s\\]' % eq)
@@ -994,7 +983,7 @@ def geneq(f, eq, dpi, wl, outname):
     rc = p.wait()
     if rc != 0:
       for l in p.stdout.readlines():
-        print '  ' + l.rstrip()
+        print('  ' + l.rstrip())
       exts.remove('.tex')
       raise Exception('latex error')
 
@@ -1004,7 +993,7 @@ def geneq(f, eq, dpi, wl, outname):
     p = Popen(dvicmd, shell=True, stdout=PIPE, stderr=PIPE)
     rc = p.wait()
     if rc != 0:
-      print p.stderr.readlines()
+      print(p.stderr.readlines())
       raise Exception('dvipng error')
     depth = int(p.stdout.readlines()[-1].split('=')[-1])
   finally:
@@ -1021,7 +1010,7 @@ def geneq(f, eq, dpi, wl, outname):
       dc.write(eqname + ' ' + str(depth) + '\n')
       dc.close()
     except IOError:
-      print 'eqdepthcache update failed.'
+      print('eqdepthcache update failed.')
   return (depth, eqname)
 
 def dashlist(f, ordered=False):
@@ -1161,7 +1150,7 @@ def codeblock(f, g):
   if raw:
     return
   elif ext_prog:
-    print 'filtering through %s...' % ext_prog
+    print('filtering through %s...' % ext_prog)
 
     output,_ = Popen(ext_prog, shell=True, stdin=PIPE,
                      stdout=PIPE).communicate(buff)
@@ -1181,7 +1170,7 @@ def inserttitle(f, t):
     hb(f.outf, f.conf['doctitle'], t)
 
     # Look for a subtitle.
-    if pc(f) != '\n':
+    if pc(f) not in ('\n', '\r'):
       hb(f.outf, f.conf['subtitle'], br(np(f), f))
 
     hb(f.outf, f.conf['doctitleend'], t)
@@ -1194,14 +1183,14 @@ def procfile(f):
   showfooter = True
   showsourcelink = False
   showlastupdated = True
-  showlastupdatedtime = False
+  showlastupdatedtime = True
   nodefaultcss = False
   fwtitle = False
   css = []
   js = []
   title = None
   while pc(f, False) == '#':
-    l = f.inf.readline()
+    l = f.inf.readline().decode(encoding='utf-8')
     f.linenum += 1
     if doincludes(f, l[1:]):
       continue
@@ -1342,7 +1331,6 @@ def procfile(f):
 
   infoblock = False
   imgblock = False
-  imgcenterblock = False
   tableblock = False
   while 1: # wait for EOF.
     p = pc(f)
@@ -1389,7 +1377,7 @@ def procfile(f):
     elif p == '#':
       l = nl(f)
 
-    elif p == '\n':
+    elif p in ('\n', '\r'):
       nl(f)
 
     # look for blocks.
@@ -1403,11 +1391,6 @@ def procfile(f):
       elif imgblock:
         out(f.outf, '</td></tr></table>\n')
         imgblock = False
-        nl(f)
-        continue
-      elif imgcenterblock:
-        out(f.outf, '</center>\n</td></tr></table></center>\n')
-        imgcenterblock = False
         nl(f)
         continue
       elif tableblock:
@@ -1430,7 +1413,7 @@ def procfile(f):
         if len(g) in (0, 1): # info block.
           out(f.outf, f.conf['infoblock'])
           infoblock = True
-          
+
           if len(g) == 1: # info block.
             hb(f.outf, f.conf['blocktitle'], g[0])
 
@@ -1457,7 +1440,7 @@ def procfile(f):
           # handles
           # {}{img_left}{source}{alttext}{width}{height}{linktarget}.
           g += ['']*(7 - len(g))
-          
+
           if g[4].isdigit():
             g[4] += 'px'
 
@@ -1478,32 +1461,6 @@ def procfile(f):
             out(f.outf, '</a>')
           out(f.outf, '&nbsp;</td>\n<td align="left">')
           imgblock = True
-
-        elif len(g) >= 4 and g[1] == 'img_center':
-          # handles
-          # {}{img_center}{source}{alttext}{width}{height}{linktarget}.
-          g += ['']*(7 - len(g))
-          
-          if g[4].isdigit():
-            g[4] += 'px'
-
-          if g[5].isdigit():
-            g[5] += 'px'
-
-          out(f.outf, '<center><table class="imgtable"><tr><td>\n')
-          if g[6]:
-            out(f.outf, '<a href="%s">' % g[6])
-          out(f.outf, '<img src="%s"' % g[2])
-          out(f.outf, ' alt="%s"' % g[3])
-          if g[4]:
-            out(f.outf, ' width="%s"' % g[4])
-          if g[5]:
-            out(f.outf, ' height="%s"' % g[5])
-          out(f.outf, ' />')
-          if g[6]:
-            out(f.outf, '</a>')
-          out(f.outf, '&nbsp;</td><tr/>\n<tr><td><center>')
-          imgcenterblock = True
 
         else:
           raise JandalError("couldn't handle block", f.linenum)
@@ -1546,7 +1503,7 @@ def main():
     showhelp()
     raise SystemExit
   if sys.argv[1] == '--show-config':
-    print standardconf()
+    print(standardconf())
     raise SystemExit
   if sys.argv[1] == '--version':
     info()
@@ -1596,8 +1553,8 @@ def main():
     else:
       thisout = outname
 
-    infile = open(inname, 'rUb')
-    outfile = open(thisout, 'w')
+    infile = open(inname, 'rb')
+    outfile = open(thisout, 'w', encoding='utf-8')
 
     f = controlstruct(infile, outfile, conf, inname)
     procfile(f)
