@@ -1,0 +1,9 @@
+@INPROCEEDINGS{guo2022online,
+  author={Zhang, Yuyang and Guo, Meng},
+  booktitle={2022 IEEE 61st Conference on Decision and Control (CDC)},
+  title={Online Planning of Uncertain MDPs under Temporal Tasks and Safe-Return Constraints},
+  year={2022},
+  volume={},
+  number={},
+  pages={4918-4923},
+  doi={10.1109/CDC51059.2022.9993378}}

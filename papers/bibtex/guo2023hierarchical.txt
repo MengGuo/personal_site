@@ -1,0 +1,7 @@
+@article{guo2023hierarchical,
+  title={Hierarchical Motion Planning under Probabilistic Temporal Tasks and Safe-Return Constraints},
+  author={Guo, Meng and Liao, Tianjun and Wang, Junjie and Li, Zhongkui},
+  journal={IEEE Transactions on Automatic Control},
+  year={2023},
+  publisher={IEEE}
+}
