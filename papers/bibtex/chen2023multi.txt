@@ -1,0 +1,6 @@
+@ARTICLE{chen2023multi,
+  author={Chen, Yuda and Wang, Chenghan and Guo, Meng and  Li, Zhongkui},
+  journal={IEEE Robotics and Automation Letters (RA-L)},
+  title={Multi-Robot Trajectory Planning with Feasibility Guarantee and Deadlock Resolution: An Obstacle-Dense Environment},
+  year={2023},
+  }
