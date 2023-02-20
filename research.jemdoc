@@ -3,8 +3,11 @@
 
 == Journal Papers
 ~~~
-. *Hierarchical Motion Planning under Probabilistic Temporal Tasks and Safe-Return Constraints*.\n Meng Guo, Tianjun Liao, Junjie Wang and Zhongkui Li. IEEE Transactions on Automatic Control (TAC), 2023. To appear.
+. [https://ieeexplore.ieee.org/document/10044248 *Hierarchical Motion Planning under Probabilistic Temporal Tasks and Safe-Return Constraints*].\n Meng Guo, Tianjun Liao, Junjie Wang and Zhongkui Li. IEEE Transactions on Automatic Control (TAC), 2023.
 [papers/bibtex/guo2023hierarchical.txt \[Bibtex\]] [papers/pdf/guo2023hierarchical.pdf \[PDF\]]
+. [ *Multi-Robot Trajectory Planning with
+Feasibility Guarantee and Deadlock Resolution: An Obstacle-Dense
+Environment*]. \n Yuda Chen, Chenghan Wang, Meng Guo, Zhongkui Li. IEEE Robotics and Automation Letters (RA-L), 2023. [papers/bibtex/chen2023multi.txt \[Bibtex\]] [papers/pdf/chen2023multi.pdf \[PDF\]] [https://youtu.be/Er7v9zQx784 \[Video\]]
 . [https://ieeexplore.ieee.org/abstract/document/9552221/ *Geometric Task Networks: Learning Efficient and Explainable Skill Coordination for Object Manipulation*]. \n Meng Guo, Mathias B{{&uuml}}rger. IEEE Transactions on Robotics (TRO), 38(3): 1723-1734, 2022. [papers/bibtex/guo2021geometric.txt \[Bibtex\]] [papers/pdf/guo2021geometric.pdf \[PDF\]] [. \[Video\]] [papers/pdf/guo2021geometric_supplementary.pdf \[Supplementary\]]\n
 *Selected for presentation at ICRA2022*
 . [https://ieeexplore.ieee.org/abstract/document/8943945 *Coupled Multi-Robot Systems Under Linear Temporal Logic and Signal Temporal Logic Tasks*].\n Lars Lindemann, Jakub Nowak, Lukas Sch{{&ouml}}nb{{&auml}}chler, Meng Guo, Jana Tumova, Dimos V Dimarogonas. IEEE Transactions on Control Systems Technology (TCST), 29(2): 858-865, Dec 2019.
