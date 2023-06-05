@@ -1,0 +1,6 @@
+@article{rozo2023bike,
+  title={The e-Bike Motor Assembly: Towards Advanced Robotic Manipulation for Flexible Manufacturing},
+  author={Rozo, Leonel and Kupcsik, Andras G and Schillinger, Philipp and Guo, Meng and Krug, Robert and van Duijkeren, Niels and Spies, Markus and Kesper, Patrick and Hoppe, Sabrina and Ziesche, Hanna and others},
+  journal={arXiv preprint arXiv:2304.10595},
+  year={2023}
+}

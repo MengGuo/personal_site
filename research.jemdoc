@@ -1,6 +1,20 @@
 # jemdoc: menu{MENU}{research.html}
 = Meng's Publication
 
+== ArXiv Papers
+~~~
+. [https://arxiv.org/pdf/2305.15729 *Accelerated K-Serial Stable Coalition for Dynamic Capture and Resource Defense*].\n Junfeng Chen, Zili Tang, Meng Guo. 2023.
+[papers/bibtex/chen2023accelerated.txt \[Bibtex\]] [https://arxiv.org/pdf/2305.15729 \[PDF\]]
+. [https://arxiv.org/pdf/2305.12860 *Combinatorial-hybrid Optimization for Multi-agent Systems under Collaborative Tasks*].\n Zili Tang, Junfeng Chen, Meng Guo. 2023.
+[papers/bibtex/tang2023combinatorial.txt \[Bibtex\]] [https://arxiv.org/pdf/2305.12860 \[PDF\]]
+. [https://arxiv.org/pdf/2304.10595 *The e-Bike Motor Assembly: Towards Advanced Robotic Manipulation for Flexible Manufacturing*].\n Leonel Rozo, Andras G Kupcsik, Philipp Schillinger, Meng Guo, Robert Krug, Niels van Duijkeren, Markus Spies, Patrick Kesper, Sabrina Hoppe, Hanna Ziesche, Mathias Bürger, Kai O Arras. 2023.
+[papers/bibtex/rozo2023ebike.txt \[Bibtex\]] [https://arxiv.org/pdf/2304.10595 \[PDF\]]
+. [https://arxiv.org/pdf/2208.07756 *Time Minimization and Online Synchronization for Multi-agent Systems under Collaborative Temporal Tasks*].\n Zesen Liu, Meng Guo, Zhongkui Li. 2023.
+[papers/bibtex/liu2023time.txt \[Bibtex\]] [https://arxiv.org/pdf/2208.07756 \[PDF\]]
+. [https://arxiv.org/pdf/2202.06071 *Recursive Feasibility and Deadlock Resolution in MPC-based Multi-robot Trajectory Generation*].\n Yuda Chen, Meng Guo, Zhongkui Li. 2022.
+[papers/bibtex/chen2022recursive.txt \[Bibtex\]] [https://arxiv.org/pdf/2202.06071 \[PDF\]]
+~~~
+
 == Journal Papers
 ~~~
 . [https://ieeexplore.ieee.org/document/10044248 *Hierarchical Motion Planning under Probabilistic Temporal Tasks and Safe-Return Constraints*].\n Meng Guo, Tianjun Liao, Junjie Wang and Zhongkui Li. IEEE Transactions on Automatic Control (TAC), 2023.
@@ -92,9 +106,23 @@ Meng Guo, Karl H. Johansson and Dimos V. Dimarogonas. IEEE/RSJ International Con
 
 == Patents
 ~~~
-. *Method and device for operating a machine*\n
-A.G Kupcsik, L Rozo, M Guo. US Patent App. 17/355, 961.
-. *Safeguarding resources of physical entites in a shared environment*. \n M. Guo, M. B{{&uuml}}rger. EU-US-CN Patent. App. 17/273, 129.
+. [https://patents.google.com/patent/US20230141855A1/en *Device and method for controlling a robot device*]\n
+M. Guo, M. B{{&uuml}}rger. US Patent App. 18/047, 358.
+. [https://patents.google.com/patent/US20230107993A1/en *Device and method for controlling a robot*]\n
+A. Kupcsik, M. Guo.  US Patent App. 17/935, 879.
+. [https://patents.google.com/patent/US11590651B2/en *Method and device for training manipulation skills of a robot system*]\n
+M. Guo, M. B{{&uuml}}rger. US Patent App. 11/590, 651.
+. [https://patentimages.storage.googleapis.com/ae/96/ad/a7da13350ddf28/US20220371194A1.pdf *Method for controlling a robotic device*]\n
+N. Duijkeren, A. Kupcsik, L. Rozo, M. Buerger, M. Guo, R. Krug. US Patent App. 17/661, 045.
+. [https://patentimages.storage.googleapis.com/9f/1f/f9/27f62396976647/US11498212.pdf *Method for controlling a robotic device and robot control unit*]\n
+A. Kupcsik, L. Rozo, M. Todescato, M. Spies, M. Giftthaler, M. B{{&uuml}}rger, M. Guo, N. Waniek, P. Kesper, P. Schillinger. US Patent App. 11/498, 212.
+. [https://patentimages.storage.googleapis.com/37/b5/6b/c2a69436e8f0a1/US20220143831A1.pdf *Method for controlling a robotic device and robot control unit*]\n
+A. Kupcsik, L. Rozo, M. Guo, P. Kesper, P. Schillinger. US Patent App. 17/453, 240.
+. [https://patentimages.storage.googleapis.com/78/0b/2c/5348c91b5154fd/US20220105625A1.pdf *Device and method for controlling a robotic device*]\n
+M. Guo, M. B{{&uuml}}rger. US Patent App. 17/449, 143.
+. [https://patentimages.storage.googleapis.com/50/b4/74/de5b2b83118ba7/US20210402606A1.pdf *Method and device for operating a machine*]\n
+A. Kupcsik, L Rozo, M Guo. US Patent App. 17/355, 961.
+. [https://patentimages.storage.googleapis.com/11/d1/b3/d6e16fb48bc831/US20210325862A1.pdf *Safeguarding resources of physical entites in a shared environment*]. \n M. Guo, M. B{{&uuml}}rger. EU-US-CN Patent. App. 17/273, 129.
 . [https://patentimages.storage.googleapis.com/84/29/8e/0b83d02aaa3e5b/US20210122036A1.pdf *Method and device for training manipulation skills of a robot system*.] \n M. Guo, M. B{{&uuml}}rger. EU-US-CN-JP Patent.
-. [https://patentimages.storage.googleapis.com/54/9d/0c/972983e00a4d14/US20200398427A1.pdf *Method and system for robot manipulation planning*.] \n A.G. Kupcsik, L. Rozo, M. Todescato, M. Spies, M. Giftthaler, M. B{{&uuml}}rger, M. Guo, N. Waniek, P. Kesper, P. Schillinger. EU-US-CN Patent.
+. [https://patentimages.storage.googleapis.com/54/9d/0c/972983e00a4d14/US20200398427A1.pdf *Method and system for robot manipulation planning*.] \n A. Kupcsik, L. Rozo, M. Todescato, M. Spies, M. Giftthaler, M. B{{&uuml}}rger, M. Guo, N. Waniek, P. Kesper, P. Schillinger. EU-US-CN Patent.
 ~~~
