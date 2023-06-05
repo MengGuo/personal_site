@@ -1,0 +1,6 @@
+@article{liu2022time,
+  title={Time Minimization and Online Synchronization for Multi-agent Systems under Collaborative Temporal Tasks},
+  author={Liu, Zesen and Guo, Meng and Li, Zhongkui},
+  journal={arXiv preprint arXiv:2208.07756},
+  year={2022}
+}

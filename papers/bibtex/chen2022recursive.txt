@@ -1,0 +1,6 @@
+@article{chen2022recursive,
+  title={Recursive Feasibility and Deadlock Resolution in MPC-based Multi-robot Trajectory Generation},
+  author={Chen, Yuda and Guo, Meng and Li, Zhongkui},
+  journal={arXiv preprint arXiv:2202.06071},
+  year={2022}
+}
