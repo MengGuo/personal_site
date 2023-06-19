@@ -1,0 +1,6 @@
+@article{wang2023hybrid,
+  title={Hybrid and Oriented Harmonic Potentials for Safe Task Execution in Unknown Environment},
+  author={Wang, Shuaikang and Guo, Meng},
+  journal={arXiv preprint arXiv:2306.07537},
+  year={2023}
+}
