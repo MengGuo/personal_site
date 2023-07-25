@@ -7,8 +7,6 @@
 [papers/bibtex/wang2023hybrid.txt \[Bibtex\]] [https://arxiv.org/pdf/2306.07537 \[PDF\]]
 . [https://arxiv.org/pdf/2305.15729 *Accelerated K-Serial Stable Coalition for Dynamic Capture and Resource Defense*].\n Junfeng Chen, Zili Tang, Meng Guo. 2023.
 [papers/bibtex/chen2023accelerated.txt \[Bibtex\]] [https://arxiv.org/pdf/2305.15729 \[PDF\]]
-. [https://arxiv.org/pdf/2305.12860 *Combinatorial-hybrid Optimization for Multi-agent Systems under Collaborative Tasks*].\n Zili Tang, Junfeng Chen, Meng Guo. 2023.
-[papers/bibtex/tang2023combinatorial.txt \[Bibtex\]] [https://arxiv.org/pdf/2305.12860 \[PDF\]]
 . [https://arxiv.org/pdf/2304.10595 *The e-Bike Motor Assembly: Towards Advanced Robotic Manipulation for Flexible Manufacturing*].\n Leonel Rozo, Andras G Kupcsik, Philipp Schillinger, Meng Guo, Robert Krug, Niels van Duijkeren, Markus Spies, Patrick Kesper, Sabrina Hoppe, Hanna Ziesche, Mathias Bürger, Kai O Arras. 2023.
 [papers/bibtex/rozo2023ebike.txt \[Bibtex\]] [https://arxiv.org/pdf/2304.10595 \[PDF\]]
 . [https://arxiv.org/pdf/2208.07756 *Time Minimization and Online Synchronization for Multi-agent Systems under Collaborative Temporal Tasks*].\n Zesen Liu, Meng Guo, Zhongkui Li. 2023.
@@ -53,6 +51,10 @@ Environment*]. \n Yuda Chen, Chenghan Wang, Meng Guo, Zhongkui Li. IEEE Robotics
 
 == Conference Papers
 ~~~
+. [https://arxiv.org/pdf/2305.12860 *Combinatorial-hybrid Optimization for Multi-agent Systems under Collaborative Tasks*].\n Zili Tang, Junfeng Chen, Meng Guo. IEEE Conference on Decision and Control (CDC), Singapore, 2023. To appear.
+[papers/bibtex/tang2023combinatorial.txt \[Bibtex\]] [https://arxiv.org/pdf/2305.12860 \[PDF\]]
+. *Multi-agent Coordination Under Temporal Logic Tasks and Team-Wise Intermittent Communication*.\n Junjie Wang, Meng Guo, Zhongkui Li. IEEE Conference on Decision and Control (CDC), Singapore, 2023. To appear
+[. \[Bibtex\]] [. \[PDF\]]
 . [https://ieeexplore.ieee.org/document/9993378 *Online Planning of Uncertain MDPs under Temporal Tasks and Safe-Return Constraints*].\n Yuyang Zhang, Meng Guo. IEEE Conference on Decision and Control (CDC), Cancun, Mexico, 2022.
 [papers/bibtex/guo2022online.txt \[Bibtex\]] [papers/pdf/guo2022online.pdf \[PDF\]]
 . [https://ieeexplore.ieee.org/document/9811813 *Interactive Human-in-the-loop Coordination of Manipulation Skills Learned from Demonstration*.] \n 
