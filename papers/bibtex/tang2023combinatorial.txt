@@ -1,6 +1,7 @@
 @article{tang2023combinatorial,
   title={Combinatorial-hybrid Optimization for Multi-agent Systems under Collaborative Tasks},
   author={Tang, Zili and Chen, Junfeng and Guo, Meng},
-  journal={arXiv preprint arXiv:2305.12860},
-  year={2023}
+  booktitle={IEEE Conference on Decision and Control (CDC)},
+  year={2023},
+   organization={IEEE}
 }

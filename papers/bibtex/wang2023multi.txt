@@ -1,0 +1,7 @@
+@article{wang2023multi,
+  title={Multi-agent Coordination Under Temporal Logic Tasks and Team-Wise Intermittent Communication},
+  author={Junjie Wang, Meng Guo and Zhongkui Li},
+  booktitle={IEEE Conference on Decision and Control (CDC)},
+  year={2023},
+  organization={IEEE}
+}
