@@ -1,0 +1,6 @@
+@article{liu2023tackling,
+  title={Tackling the Curse of Dimensionality in Large-scale Multi-agent LTL Task Planning via Poset Product},
+  author={Liu, Zesen and Guo, Meng and Li, Zhongkui},
+  journal={arXiv preprint arXiv:2308.11373},
+  year={2023}
+}

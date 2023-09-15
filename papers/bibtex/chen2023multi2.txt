@@ -1,0 +1,6 @@
+@article{chen2023multi2,
+  title={Multi-UAV Deployment in Obstacle-Cluttered Environments with LOS Connectivity},
+  author={Chen, Yuda and Guo, Meng},
+  journal={arXiv preprint arXiv:2308.12117},
+  year={2023}
+}
