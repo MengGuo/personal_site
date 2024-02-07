@@ -1,30 +1,17 @@
 # jemdoc: menu{MENU}{research.html}
 = Meng's Publication
 
-== ArXiv Papers
-~~~
-. [http://arxiv.org/abs/2309.08322 *Uncertainty-bounded Active Monitoring of Unknown Dynamic Targets in Road-networks with Minimum Fleet*].\n Shuaikang Wang, Yiannis Kantaros, Meng Guo. 2023.
-[. \[Bibtex\]] [http://arxiv.org/abs/2309.08322 \[PDF\]]
-. [https://arxiv.org/pdf/2306.07537 *Hybrid and Oriented Harmonic Potentials for Safe Task Execution in Unknown Environment*].\n Shuaikang Wang, Meng Guo. 2023.
-[papers/bibtex/wang2023hybrid.txt \[Bibtex\]] [https://arxiv.org/pdf/2306.07537 \[PDF\]]
-. [http://arxiv.org/abs/2308.12117 *Multi-UAV Deployment in Obstacle-Cluttered Environments with LOS Connectivity*].\n Yuda Chen and Meng Guo. 2023.
-[papers/bibtex/chen2023multi2.txt \[Bibtex\]] [http://arxiv.org/abs/2308.12117 \[PDF\]]
-. [http://arxiv.org/abs/2308.11373 *Tackling the Curse of Dimensionality in Large-scale Multi-agent LTL Task Planning via Poset Product*].\n Zesen Liu, Meng Guo and Zhongkui Li. 2023.
-[papers/bibtex/liu2023tackling.txt \[Bibtex\]] [http://arxiv.org/abs/2308.11373 \[PDF\]]
-. [https://arxiv.org/pdf/2202.06071 *Recursive Feasibility and Deadlock Resolution in MPC-based Multi-robot Trajectory Generation*].\n Yuda Chen, Meng Guo, Zhongkui Li. 2022.
-[papers/bibtex/chen2022recursive.txt \[Bibtex\]] [https://arxiv.org/pdf/2202.06071 \[PDF\]]
-~~~
 
 == Journal Papers
 ~~~
-. [https://ieeexplore.ieee.org/document/10323165 *Accelerated K-Serial Stable Coalition for Dynamic Capture and Resource Defense*].\n Junfeng Chen, Zili Tang, Meng Guo. IEEE Robotics and Automation Letters (*RA-L*), 9(1): 443-450, 2024. [papers/bibtex/chen2023accelerated.txt \[Bibtex\]] [https://arxiv.org/pdf/2305.15729 \[PDF\]]
-. [https://arxiv.org/pdf/2208.07756 *Time Minimization and Online Synchronization for Multi-agent Systems under Collaborative Temporal Tasks*].\n Zesen Liu, Meng Guo, Zhongkui Li. *Automatica*, 2023. To appear. [papers/bibtex/liu2023time.txt \[Bibtex\]] [https://arxiv.org/pdf/2208.07756 \[PDF\]]
+. [https://ieeexplore.ieee.org/document/10323165 *Accelerated K-Serial Stable Coalition for Dynamic Capture and Resource Defense*].\n Junfeng Chen, Zili Tang, Meng Guo. IEEE Robotics and Automation Letters (*RA-L*), 9(1): 443-450, 2024. [papers/bibtex/chen2023accelerated.txt \[Bibtex\]] [https://arxiv.org/pdf/2305.15729 \[PDF\]] [videos/chen2023accelerated.mp4 \[Video\]]
+. [https://arxiv.org/pdf/2208.07756 *Time Minimization and Online Synchronization for Multi-agent Systems under Collaborative Temporal Tasks*].\n Zesen Liu, Meng Guo, Zhongkui Li. *Automatica*, 159:111377, 2024. [papers/bibtex/liu2023time.txt \[Bibtex\]] [https://arxiv.org/pdf/2208.07756 \[PDF\]]
 . [https://www.sciencedirect.com/science/article/pii/S0736584523001126 *The e-Bike Motor Assembly: Towards Advanced Robotic Manipulation for Flexible Manufacturing*].\n Leonel Rozo, Andras G Kupcsik, Philipp Schillinger, Meng Guo, Robert Krug, Niels van Duijkeren, Markus Spies, Patrick Kesper, Sabrina Hoppe, Hanna Ziesche, Mathias B{{&uuml}}rger, Kai O Arras. Robotics and Computer-Integrated Manufacturing (*RCIM*), 2023. [papers/bibtex/rozo2023ebike.txt \[Bibtex\]] [https://arxiv.org/pdf/2304.10595 \[PDF\]]
 . [https://ieeexplore.ieee.org/document/10044248 *Hierarchical Motion Planning under Probabilistic Temporal Tasks and Safe-Return Constraints*].\n Meng Guo, Tianjun Liao, Junjie Wang and Zhongkui Li. IEEE Transactions on Automatic Control (*TAC*), 2023.
 [papers/bibtex/guo2023hierarchical.txt \[Bibtex\]] [papers/pdf/guo2023hierarchical.pdf \[PDF\]]
 . [ *Multi-Robot Trajectory Planning with
 Feasibility Guarantee and Deadlock Resolution: An Obstacle-Dense
-Environment*]. \n Yuda Chen, Chenghan Wang, Meng Guo, Zhongkui Li. IEEE Robotics and Automation Letters (*RA-L*), 2023. [papers/bibtex/chen2023multi.txt \[Bibtex\]] [papers/pdf/chen2023multi.pdf \[PDF\]] [https://youtu.be/Er7v9zQx784 \[Video\]]
+Environment*]. \n Yuda Chen, Chenghan Wang, Meng Guo, Zhongkui Li. IEEE Robotics and Automation Letters (*RA-L*), 2023. [papers/bibtex/chen2023multi.txt \[Bibtex\]] [papers/pdf/chen2023multi.pdf \[PDF\]] [videos/chen2023multi.mp4 \[Video\]]
 . [https://ieeexplore.ieee.org/abstract/document/9552221/ *Geometric Task Networks: Learning Efficient and Explainable Skill Coordination for Object Manipulation*]. \n Meng Guo, Mathias B{{&uuml}}rger. IEEE Transactions on Robotics (*TRO*), 38(3): 1723-1734, 2022. [papers/bibtex/guo2021geometric.txt \[Bibtex\]] [papers/pdf/guo2021geometric.pdf \[PDF\]] [. \[Video\]] [papers/pdf/guo2021geometric_supplementary.pdf \[Supplementary\]]\n
 *Selected for presentation at ICRA2022*
 . [https://ieeexplore.ieee.org/abstract/document/8943945 *Coupled Multi-Robot Systems Under Linear Temporal Logic and Signal Temporal Logic Tasks*].\n Lars Lindemann, Jakub Nowak, Lukas Sch{{&ouml}}nb{{&auml}}chler, Meng Guo, Jana Tumova, Dimos V Dimarogonas. IEEE Transactions on Control Systems Technology (*TCST*), 29(2): 858-865, Dec 2019.
@@ -54,11 +41,14 @@ Environment*]. \n Yuda Chen, Chenghan Wang, Meng Guo, Zhongkui Li. IEEE Robotics
 
 == Conference Papers
 ~~~
-. [https://arxiv.org/pdf/2305.12860 *Combinatorial-hybrid Optimization for Multi-agent Systems under Collaborative Tasks*].\n Zili Tang, Junfeng Chen, Meng Guo. IEEE Conference on Decision and Control (*CDC*), Singapore, 2023. To appear.
+. [http://arxiv.org/abs/2309.08322 *Uncertainty-bounded Active Monitoring of Unknown Dynamic Targets in Road-networks with Minimum Fleet*].\n
+Shuaikang Wang, Yiannis Kantaros, Meng Guo. IEEE International Conference on Robotics and Automation (*ICRA*). Yokohama, Japan, 2024. To appear.
+[papers/bibtex/wang2024uncertain.txt \[Bibtex\]] [http://arxiv.org/abs/2309.08322 \[PDF\]] [videos/wang2024uncertain.mp4 \[Video\]]
+. [https://arxiv.org/pdf/2305.12860 *Combinatorial-hybrid Optimization for Multi-agent Systems under Collaborative Tasks*].\n Zili Tang, Junfeng Chen, Meng Guo. IEEE Conference on Decision and Control (*CDC*), Singapore, 2023.
 [papers/bibtex/tang2023combinatorial.txt \[Bibtex\]] [https://arxiv.org/pdf/2305.12860 \[PDF\]]
 . [http://arxiv.org/abs/2308.14042
  *Multi-agent Coordination Under Temporal Logic Tasks and Team-Wise Intermittent Communication*].\n
- Junjie Wang, Meng Guo, Zhongkui Li. IEEE Conference on Decision and Control (*CDC*), Singapore, 2023. To appear
+ Junjie Wang, Meng Guo, Zhongkui Li. IEEE Conference on Decision and Control (*CDC*), Singapore, 2023.
 [papers/bibtex/wang2023multi.txt \[Bibtex\]] [papers/pdf/wang2023multi.pdf \[PDF\]]
 . [https://ieeexplore.ieee.org/document/9993378 *Online Planning of Uncertain MDPs under Temporal Tasks and Safe-Return Constraints*].\n Yuyang Zhang, Meng Guo. IEEE Conference on Decision and Control (*CDC*), Cancun, Mexico, 2022.
 [papers/bibtex/guo2022online.txt \[Bibtex\]] [papers/pdf/guo2022online.pdf \[PDF\]]
@@ -105,6 +95,20 @@ Meng Guo, Karl H. Johansson and Dimos V. Dimarogonas. IEEE/RSJ International Con
 .  [http://ieeexplore.ieee.org/abstract/document/6315178/ *Distributed Real-time Fault Detection and Isolation For Cooperative Multi-agent Systems*.]\n Meng Guo, Dimos V. Dimarogonas and Karl H. Johansson. American Control Conference (*ACC*), Montreal, Canada, 2012.  [papers/bibtex/guo2012distributed.txt \[BibTex\]] [papers/pdf/guo2012distributed.pdf \[PDF\]]
 .  [http://ieeexplore.ieee.org/abstract/document/6161064/ *Quantized Cooperative Control Using Relative State Measurements*.] \n Meng Guo and Dimos V. Dimarogonas. IEEE Conference on Decision and Control and European Control Conference (*CDC*), Orlando, USA, 2011.  [papers/bibtex/guo2011quantized.txt \[BibTex\]][papers/pdf/guo2011quantized.pdf \[PDF\]]
 ~~~
+
+
+== ArXiv Papers
+~~~
+. [https://arxiv.org/pdf/2306.07537 *Hybrid and Oriented Harmonic Potentials for Safe Task Execution in Unknown Environment*].\n Shuaikang Wang, Meng Guo. 2023.
+[papers/bibtex/wang2023hybrid.txt \[Bibtex\]] [https://arxiv.org/pdf/2306.07537 \[PDF\]]
+. [http://arxiv.org/abs/2308.12117 *Multi-UAV Deployment in Obstacle-Cluttered Environments with LOS Connectivity*].\n Yuda Chen and Meng Guo. 2023.
+[papers/bibtex/chen2023multi2.txt \[Bibtex\]] [http://arxiv.org/abs/2308.12117 \[PDF\]]
+. [http://arxiv.org/abs/2308.11373 *Tackling the Curse of Dimensionality in Large-scale Multi-agent LTL Task Planning via Poset Product*].\n Zesen Liu, Meng Guo and Zhongkui Li. 2023.
+[papers/bibtex/liu2023tackling.txt \[Bibtex\]] [http://arxiv.org/abs/2308.11373 \[PDF\]]
+. [https://arxiv.org/pdf/2202.06071 *Recursive Feasibility and Deadlock Resolution in MPC-based Multi-robot Trajectory Generation*].\n Yuda Chen, Meng Guo, Zhongkui Li. 2022.
+[papers/bibtex/chen2022recursive.txt \[Bibtex\]] [https://arxiv.org/pdf/2202.06071 \[PDF\]]
+~~~
+
 
 == Theses
 ~~~

@@ -19,21 +19,14 @@ My general research interest is task and motion planning for robots, particularl
 
 It is an interdisciplinary area between continuous motion control and discrete planning, under various constraints such as timing 
 or resource limits and geometric or dynamic properties. 
-Currently, I investigate how to combine data-driven methods with model-based formulations to imporove data efficiency and online performance.
+Currently, I investigate how to combine data-driven methods with model-based formulations to improve data efficiency and online performance.
 
-More about my [research.html research]  and [code.html software], also [https://github.com/MengGuo GitHub] and [https://vimeo.com/mengguo Vimeo] page.
+More about my [research.html research] and [https://github.com/MengGuo GitHub] page.
 
 We are constantly looking for Summer interns, Bachelor thesis, PhD candidates, PostDocs to join CoE, PKU.
 
 == News
 ~~~
-{2023}
-- Aug 29: Checkout our system paper on [https://arxiv.org/pdf/2304.10595 *Advanced Robotic Manipulation for Flexible Manufacturing*].
-- July 4: Congrats on the graduation of Zili Tang and Shuaikang Wang! Checkout their theses.
-    -- Zili Tang, *Combinatorial-hybrid Optimization for Multi-agent Systems under Collaborative Tasks*. [papers/pdf/tang23thesis.pdf \[PDF\]]
-    -- Shuaikang Wang, *Robot Task and Motion Planning Based on Artificial Potential Field*. [papers/pdf/wang23thesis.pdf \[PDF\]]
-- June 15: Program/Audit Committee for [https://cdc2023.ieeecss.org CDC23].
-- May 26: Speaker at [https://life-long-learning-with-human-help-l3h2.github.io ICRA23 Workshop Life-Long Learning with Human Help (L3H2)].
-- Jan. 15: Welcome to apply the [https://www.coe.pku.edu.cn/announcements/college/11842.html BoYa PostDoc scholarship] at CoE, PKU.
-- Jan. 3: Recipient of the Distinguished Young Scholars of the National Natural Science Foundation of China (Overseas).
+{2024}
+- Jan. 30: Checkout our ICRA24 paper on [http://arxiv.org/abs/2309.08322 *Uncertainty-bounded Active Monitoring of Unknown Dynamic Targets in Road-networks with Minimum Fleet*].
 ~~~
