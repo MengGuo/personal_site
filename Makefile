@@ -10,6 +10,7 @@ checkout:
 	git checkout source *.html *.css Makefile MENU
 	git checkout source papers/pdf papers/bibtex
 	git checkout source images
+	git checkout source videos
 
 
 push:
