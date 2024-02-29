@@ -12,7 +12,7 @@
 . [ *Multi-Robot Trajectory Planning with
 Feasibility Guarantee and Deadlock Resolution: An Obstacle-Dense
 Environment*]. \n Yuda Chen, Chenghan Wang, Meng Guo, Zhongkui Li. IEEE Robotics and Automation Letters (*RA-L*), 2023. [papers/bibtex/chen2023multi.txt \[Bibtex\]] [papers/pdf/chen2023multi.pdf \[PDF\]] [videos/chen2023multi.mp4 \[Video\]]
-. [https://ieeexplore.ieee.org/abstract/document/9552221/ *Geometric Task Networks: Learning Efficient and Explainable Skill Coordination for Object Manipulation*]. \n Meng Guo, Mathias B{{&uuml}}rger. IEEE Transactions on Robotics (*TRO*), 38(3): 1723-1734, 2022. [papers/bibtex/guo2021geometric.txt \[Bibtex\]] [papers/pdf/guo2021geometric.pdf \[PDF\]] [. \[Video\]] [papers/pdf/guo2021geometric_supplementary.pdf \[Supplementary\]]\n
+. [https://ieeexplore.ieee.org/abstract/document/9552221/ *Geometric Task Networks: Learning Efficient and Explainable Skill Coordination for Object Manipulation*]. \n Meng Guo, Mathias B{{&uuml}}rger. IEEE Transactions on Robotics (*TRO*), 38(3): 1723-1734, 2022. [papers/bibtex/guo2021geometric.txt \[Bibtex\]] [papers/pdf/guo2021geometric.pdf \[PDF\]] [videos/guo2021geometric.mp4 \[Video\]] [papers/pdf/guo2021geometric_supplementary.pdf \[Supplementary\]]\n
 *Selected for presentation at ICRA2022*
 . [https://ieeexplore.ieee.org/abstract/document/8943945 *Coupled Multi-Robot Systems Under Linear Temporal Logic and Signal Temporal Logic Tasks*].\n Lars Lindemann, Jakub Nowak, Lukas Sch{{&ouml}}nb{{&auml}}chler, Meng Guo, Jana Tumova, Dimos V Dimarogonas. IEEE Transactions on Control Systems Technology (*TCST*), 29(2): 858-865, Dec 2019.
 [papers/bibtex/lindemann2019coupled.txt \[Bibtex\]] [papers/pdf/lindemann2019coupled.pdf \[PDF\]]
@@ -100,7 +100,7 @@ Meng Guo, Karl H. Johansson and Dimos V. Dimarogonas. IEEE/RSJ International Con
 == ArXiv Papers
 ~~~
 . [https://arxiv.org/pdf/2306.07537 *Hybrid and Oriented Harmonic Potentials for Safe Task Execution in Unknown Environment*].\n Shuaikang Wang, Meng Guo. 2023.
-[papers/bibtex/wang2023hybrid.txt \[Bibtex\]] [https://arxiv.org/pdf/2306.07537 \[PDF\]]
+[papers/bibtex/wang2023hybrid.txt \[Bibtex\]] [https://arxiv.org/pdf/2306.07537 \[PDF\]] [videos/wang2023hybrid.mp4 \[Video\]]
 . [http://arxiv.org/abs/2308.12117 *Multi-UAV Deployment in Obstacle-Cluttered Environments with LOS Connectivity*].\n Yuda Chen and Meng Guo. 2023.
 [papers/bibtex/chen2023multi2.txt \[Bibtex\]] [http://arxiv.org/abs/2308.12117 \[PDF\]]
 . [http://arxiv.org/abs/2308.11373 *Tackling the Curse of Dimensionality in Large-scale Multi-agent LTL Task Planning via Poset Product*].\n Zesen Liu, Meng Guo and Zhongkui Li. 2023.
