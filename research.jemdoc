@@ -5,6 +5,8 @@
 == Journal Papers
 ~~~
 . [https://ieeexplore.ieee.org/document/10323165 *Accelerated K-Serial Stable Coalition for Dynamic Capture and Resource Defense*].\n Junfeng Chen, Zili Tang, Meng Guo. IEEE Robotics and Automation Letters (*RA-L*), 9(1): 443-450, 2024. [papers/bibtex/chen2023accelerated.txt \[Bibtex\]] [https://arxiv.org/pdf/2305.15729 \[PDF\]] [videos/chen2023accelerated.mp4 \[Video\]]
+. [https://spj.science.org/doi/10.34133/research.0337 *Fast and Adaptive Multi-agent Planning under Collaborative Temporal Logic Tasks via Poset Products*].\n Zesen Liu, Meng Guo, Weimin Bao and Zhongkui Li. Research, 2023.
+[papers/bibtex/liu2023tackling.txt \[Bibtex\]] [https://spj.science.org/doi/10.34133/research.0337 \[PDF\]]
 . [https://arxiv.org/pdf/2208.07756 *Time Minimization and Online Synchronization for Multi-agent Systems under Collaborative Temporal Tasks*].\n Zesen Liu, Meng Guo, Zhongkui Li. *Automatica*, 159:111377, 2024. [papers/bibtex/liu2023time.txt \[Bibtex\]] [https://arxiv.org/pdf/2208.07756 \[PDF\]]
 . [https://www.sciencedirect.com/science/article/pii/S0736584523001126 *The e-Bike Motor Assembly: Towards Advanced Robotic Manipulation for Flexible Manufacturing*].\n Leonel Rozo, Andras G Kupcsik, Philipp Schillinger, Meng Guo, Robert Krug, Niels van Duijkeren, Markus Spies, Patrick Kesper, Sabrina Hoppe, Hanna Ziesche, Mathias B{{&uuml}}rger, Kai O Arras. Robotics and Computer-Integrated Manufacturing (*RCIM*), 2023. [papers/bibtex/rozo2023ebike.txt \[Bibtex\]] [https://arxiv.org/pdf/2304.10595 \[PDF\]]
 . [https://ieeexplore.ieee.org/document/10044248 *Hierarchical Motion Planning under Probabilistic Temporal Tasks and Safe-Return Constraints*].\n Meng Guo, Tianjun Liao, Junjie Wang and Zhongkui Li. IEEE Transactions on Automatic Control (*TAC*), 2023.
@@ -103,8 +105,6 @@ Meng Guo, Karl H. Johansson and Dimos V. Dimarogonas. IEEE/RSJ International Con
 [papers/bibtex/wang2023hybrid.txt \[Bibtex\]] [https://arxiv.org/pdf/2306.07537 \[PDF\]] [videos/wang2023hybrid.mp4 \[Video\]]
 . [http://arxiv.org/abs/2308.12117 *Multi-UAV Deployment in Obstacle-Cluttered Environments with LOS Connectivity*].\n Yuda Chen and Meng Guo. 2023.
 [papers/bibtex/chen2023multi2.txt \[Bibtex\]] [http://arxiv.org/abs/2308.12117 \[PDF\]]
-. [http://arxiv.org/abs/2308.11373 *Tackling the Curse of Dimensionality in Large-scale Multi-agent LTL Task Planning via Poset Product*].\n Zesen Liu, Meng Guo and Zhongkui Li. 2023.
-[papers/bibtex/liu2023tackling.txt \[Bibtex\]] [http://arxiv.org/abs/2308.11373 \[PDF\]]
 . [https://arxiv.org/pdf/2202.06071 *Recursive Feasibility and Deadlock Resolution in MPC-based Multi-robot Trajectory Generation*].\n Yuda Chen, Meng Guo, Zhongkui Li. 2022.
 [papers/bibtex/chen2022recursive.txt \[Bibtex\]] [https://arxiv.org/pdf/2202.06071 \[PDF\]]
 ~~~
