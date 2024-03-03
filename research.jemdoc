@@ -5,15 +5,15 @@
 == Journal Papers
 ~~~
 . [https://ieeexplore.ieee.org/document/10323165 *Accelerated K-Serial Stable Coalition for Dynamic Capture and Resource Defense*].\n Junfeng Chen, Zili Tang, Meng Guo. IEEE Robotics and Automation Letters (*RA-L*), 9(1): 443-450, 2024. [papers/bibtex/chen2023accelerated.txt \[Bibtex\]] [https://arxiv.org/pdf/2305.15729 \[PDF\]] [videos/chen2023accelerated.mp4 \[Video\]]
-. [https://spj.science.org/doi/10.34133/research.0337 *Fast and Adaptive Multi-agent Planning under Collaborative Temporal Logic Tasks via Poset Products*].\n Zesen Liu, Meng Guo, Weimin Bao and Zhongkui Li. *Research*, 2023.
+. [https://spj.science.org/doi/10.34133/research.0337 *Fast and Adaptive Multi-agent Planning under Collaborative Temporal Logic Tasks via Poset Products*].\n Zesen Liu, Meng Guo, Weimin Bao and Zhongkui Li. *Research*, 2024.
 [papers/bibtex/liu2023tackling.txt \[Bibtex\]] [https://spj.science.org/doi/10.34133/research.0337 \[PDF\]]
 . [https://arxiv.org/pdf/2208.07756 *Time Minimization and Online Synchronization for Multi-agent Systems under Collaborative Temporal Tasks*].\n Zesen Liu, Meng Guo, Zhongkui Li. *Automatica*, 159:111377, 2024. [papers/bibtex/liu2023time.txt \[Bibtex\]] [https://arxiv.org/pdf/2208.07756 \[PDF\]]
-. [https://www.sciencedirect.com/science/article/pii/S0736584523001126 *The e-Bike Motor Assembly: Towards Advanced Robotic Manipulation for Flexible Manufacturing*].\n Leonel Rozo, Andras G Kupcsik, Philipp Schillinger, Meng Guo, Robert Krug, Niels van Duijkeren, Markus Spies, Patrick Kesper, Sabrina Hoppe, Hanna Ziesche, Mathias B{{&uuml}}rger, Kai O Arras. Robotics and Computer-Integrated Manufacturing (*RCIM*), 2023. [papers/bibtex/rozo2023ebike.txt \[Bibtex\]] [https://arxiv.org/pdf/2304.10595 \[PDF\]]
-. [https://ieeexplore.ieee.org/document/10044248 *Hierarchical Motion Planning under Probabilistic Temporal Tasks and Safe-Return Constraints*].\n Meng Guo, Tianjun Liao, Junjie Wang and Zhongkui Li. IEEE Transactions on Automatic Control (*TAC*), 2023.
+. [https://www.sciencedirect.com/science/article/pii/S0736584523001126 *The e-Bike Motor Assembly: Towards Advanced Robotic Manipulation for Flexible Manufacturing*].\n Leonel Rozo, Andras G Kupcsik, Philipp Schillinger, Meng Guo, Robert Krug, Niels van Duijkeren, Markus Spies, Patrick Kesper, Sabrina Hoppe, Hanna Ziesche, Mathias B{{&uuml}}rger, Kai O Arras. Robotics and Computer-Integrated Manufacturing (*RCIM*), 85:102637, 2024. [papers/bibtex/rozo2023ebike.txt \[Bibtex\]] [https://arxiv.org/pdf/2304.10595 \[PDF\]]
+. [https://ieeexplore.ieee.org/document/10044248 *Hierarchical Motion Planning under Probabilistic Temporal Tasks and Safe-Return Constraints*].\n Meng Guo, Tianjun Liao, Junjie Wang and Zhongkui Li. IEEE Transactions on Automatic Control (*TAC*), 68(11): 6727-6742, 2023.
 [papers/bibtex/guo2023hierarchical.txt \[Bibtex\]] [papers/pdf/guo2023hierarchical.pdf \[PDF\]]
 . [ *Multi-Robot Trajectory Planning with
 Feasibility Guarantee and Deadlock Resolution: An Obstacle-Dense
-Environment*]. \n Yuda Chen, Chenghan Wang, Meng Guo, Zhongkui Li. IEEE Robotics and Automation Letters (*RA-L*), 2023. [papers/bibtex/chen2023multi.txt \[Bibtex\]] [papers/pdf/chen2023multi.pdf \[PDF\]] [videos/chen2023multi.mp4 \[Video\]]
+Environment*]. \n Yuda Chen, Chenghan Wang, Meng Guo, Zhongkui Li. IEEE Robotics and Automation Letters (*RA-L*), 8(4): 2197-2204, 2023. [papers/bibtex/chen2023multi.txt \[Bibtex\]] [papers/pdf/chen2023multi.pdf \[PDF\]] [videos/chen2023multi.mp4 \[Video\]]
 . [https://ieeexplore.ieee.org/abstract/document/9552221/ *Geometric Task Networks: Learning Efficient and Explainable Skill Coordination for Object Manipulation*]. \n Meng Guo, Mathias B{{&uuml}}rger. IEEE Transactions on Robotics (*TRO*), 38(3): 1723-1734, 2022. [papers/bibtex/guo2021geometric.txt \[Bibtex\]] [papers/pdf/guo2021geometric.pdf \[PDF\]] [videos/guo2021geometric.mp4 \[Video\]] [papers/pdf/guo2021geometric_supplementary.pdf \[Supplementary\]]\n
 *Selected for presentation at ICRA2022*
 . [https://ieeexplore.ieee.org/abstract/document/8943945 *Coupled Multi-Robot Systems Under Linear Temporal Logic and Signal Temporal Logic Tasks*].\n Lars Lindemann, Jakub Nowak, Lukas Sch{{&ouml}}nb{{&auml}}chler, Meng Guo, Jana Tumova, Dimos V Dimarogonas. IEEE Transactions on Control Systems Technology (*TCST*), 29(2): 858-865, Dec 2019.
@@ -44,7 +44,7 @@ Environment*]. \n Yuda Chen, Chenghan Wang, Meng Guo, Zhongkui Li. IEEE Robotics
 == Conference Papers
 ~~~
 . [http://arxiv.org/abs/2309.08322 *Uncertainty-bounded Active Monitoring of Unknown Dynamic Targets in Road-networks with Minimum Fleet*].\n
-Shuaikang Wang, Yiannis Kantaros, Meng Guo. IEEE International Conference on Robotics and Automation (*ICRA*). Yokohama, Japan, 2024. To appear.
+Shuaikang Wang, Yiannis Kantaros, Meng Guo. IEEE International Conference on Robotics and Automation (*ICRA*). Yokohama, Japan, 2024.
 [papers/bibtex/wang2024uncertain.txt \[Bibtex\]] [http://arxiv.org/abs/2309.08322 \[PDF\]] [videos/wang2024uncertain.mp4 \[Video\]]
 . [https://arxiv.org/pdf/2305.12860 *Combinatorial-hybrid Optimization for Multi-agent Systems under Collaborative Tasks*].\n Zili Tang, Junfeng Chen, Meng Guo. IEEE Conference on Decision and Control (*CDC*), Singapore, 2023.
 [papers/bibtex/tang2023combinatorial.txt \[Bibtex\]] [https://arxiv.org/pdf/2305.12860 \[PDF\]]
