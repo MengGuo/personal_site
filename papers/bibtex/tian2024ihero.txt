@@ -1,0 +1,7 @@
+@inproceedings{tian2024ihero,
+  title={iHERO: Interactive Human-oriented Exploration and Supervision Under Scarce Communication},
+  author={Zhuoli Tian, Yuyang Zhang, Jinsheng Wei and Meng Guo},
+  booktitle={Robotics: Science and systems (*RSS*), Delft, Netherlands},
+  year={2024},
+  organization={IEEE}
+}

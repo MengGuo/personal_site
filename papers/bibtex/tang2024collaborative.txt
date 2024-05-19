@@ -1,0 +1,7 @@
+@inproceedings{tang2024collaborative,
+  title={Collaborative Planar Pushing of Polytopic Objects with Multiple Robots in Complex Scenes},
+  author={Zili Tang and Yuming Feng and Meng Guo},
+  booktitle={Robotics: Science and systems (*RSS*), Delft, Netherlands},
+  year={2024},
+  organization={IEEE}
+}
