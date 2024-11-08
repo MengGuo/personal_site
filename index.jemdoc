@@ -28,10 +28,10 @@ We are constantly looking for Summer interns, Bachelor thesis, PhD candidates, P
 == News
 ~~~
 {2024}
-- Nov. 8: Checkout lastest work on [https://shuaikang-wang.github.io/HarmonicTree/ *Hybrid and Oriented Harmonic Potentials for Safe Task Execution in Unknown Environment*] on Automatica.
+- Nov. 8: Checkout lastest work on [https://shuaikang-wang.github.io/HarmonicTree/ *Hybrid and Oriented Harmonic Potentials for Safe Task Execution in Unknown Environment*] on *Automatica*. [https://arxiv.org/pdf/2306.07537 \[PDF\]][https://shuaikang-wang.github.io/HarmonicTree/ \[Website\]]
 - May. 14: Two [https://roboticsconference.org RSS24] papers accepted:
-       -- [https://arxiv.org/abs/2405.12571 *iHERO: Interactive Human-oriented Exploration and Supervision Under Scarce Communication*] [papers/pdf/tian2024ihero.pdf \[PDF\]] [videos/tang2024collaborative.mp4 \[Video\]] [https://zl-tian.github.io/iHERO/ \[Website\]]
-       -- [https://arxiv.org/abs/2405.07908 *Collaborative Planar Pushing of Polytopic Objects with Multiple Robots in Complex Scenes*] [papers/pdf/tang2024collaborative.pdf \[PDF\]] [videos/tian2024ihero.mp4 \[Video\]] [https://zilitang.github.io/Collaborative-Pushing \[Website\]]
+       -- [https://arxiv.org/abs/2405.12571 *iHERO: Interactive Human-oriented Exploration and Supervision Under Scarce Communication*] [papers/pdf/tian2024ihero.pdf \[PDF\]] [videos/tian2024ihero.mp4 \[Video\]] [https://zl-tian.github.io/iHERO/ \[Website\]]
+       -- [https://arxiv.org/abs/2405.07908 *Collaborative Planar Pushing of Polytopic Objects with Multiple Robots in Complex Scenes*] [papers/pdf/tang2024collaborative.pdf \[PDF\]] [videos/tang2024collaborative.mp4 \[Video\]] [https://zilitang.github.io/Collaborative-Pushing \[Website\]]
 - May. 12: Gonna have a strong presence at [https://2024.ieee-icra.org ICRA24]:
        -- Spotlight talk and poster at [https://hermes-workshop.com/2024.html\#program HERMES] workshop.
        -- Best paper finalist talk at *TuCA2-CC.4* for [https://ras.papercept.net/conferences/conferences/ICRA24/program/ICRA24_ContentListWeb_1.html\#tuca2-cc_04 Multi-Robots Systems].
