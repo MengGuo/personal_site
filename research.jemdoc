@@ -4,6 +4,9 @@
 
 == Journal Papers
 ~~~
+. [https://arxiv.org/pdf/2306.07537 *Hybrid and Oriented Harmonic Potentials for Safe Task Execution in Unknown Environment*].\n Shuaikang Wang, Meng Guo. *Automatica*, 2024. To appear.
+[https://shuaikang-wang.github.io/HarmonicTree/ \[Website\]]
+[papers/bibtex/wang2023hybrid.txt \[Bibtex\]] [https://arxiv.org/pdf/2306.07537 \[PDF\]] [videos/wang2023hybrid.mp4 \[Video\]]
 . [https://ieeexplore.ieee.org/document/10508038 *Recursive Feasibility and Deadlock Resolution in MPC-based Multi-robot Trajectory Generation*].\n Yuda Chen, Meng Guo, Zhongkui Li. IEEE Transactions on Automatic Control (*TAC*), 2024.
 [papers/bibtex/chen2024recursive.txt \[Bibtex\]] [papers/chen2024recursive.pdf \[PDF\]]
 . [https://ieeexplore.ieee.org/document/10323165 *Accelerated K-Serial Stable Coalition for Dynamic Capture and Resource Defense*].\n Junfeng Chen, Zili Tang, Meng Guo. IEEE Robotics and Automation Letters (*RA-L*), 9(1): 443-450, 2024. [papers/bibtex/chen2023accelerated.txt \[Bibtex\]] [https://arxiv.org/pdf/2305.15729 \[PDF\]] [videos/chen2023accelerated.mp4 \[Video\]]\n
@@ -112,8 +115,6 @@ Meng Guo, Karl H. Johansson and Dimos V. Dimarogonas. IEEE/RSJ International Con
 
 == ArXiv Papers
 ~~~
-. [https://arxiv.org/pdf/2306.07537 *Hybrid and Oriented Harmonic Potentials for Safe Task Execution in Unknown Environment*].\n Shuaikang Wang, Meng Guo. 2023.
-[papers/bibtex/wang2023hybrid.txt \[Bibtex\]] [https://arxiv.org/pdf/2306.07537 \[PDF\]] [videos/wang2023hybrid.mp4 \[Video\]]
 . [http://arxiv.org/abs/2308.12117 *Multi-UAV Deployment in Obstacle-Cluttered Environments with LOS Connectivity*].\n Yuda Chen and Meng Guo. 2023.
 [papers/bibtex/chen2023multi2.txt \[Bibtex\]] [http://arxiv.org/abs/2308.12117 \[PDF\]]
 ~~~
