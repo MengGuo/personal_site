@@ -30,6 +30,20 @@ I was born in December 1988 at [http://en.wikipedia.org/wiki/Dangyang Hubei, Chi
 
 == Past News
 ~~~
+{2024}
+- Nov. 8: Checkout lastest work on [https://www.sciencedirect.com/science/article/pii/S0005109824005983 *Hybrid and Oriented Harmonic Potentials for Safe Task Execution in Unknown Environment*] on *Automatica*. [papers/pdf/wang2024hybrid.pdf \[PDF\]][https://shuaikang-wang.github.io/HarmonicTree/ \[Website\]]
+- May. 14: Two [https://roboticsconference.org RSS24] papers accepted:
+       -- [https://arxiv.org/abs/2405.12571 *iHERO: Interactive Human-oriented Exploration and Supervision Under Scarce Communication*] [papers/pdf/tian2024ihero.pdf \[PDF\]] [videos/tian2024ihero.mp4 \[Video\]] [https://zl-tian.github.io/iHERO/ \[Website\]]
+       -- [https://arxiv.org/abs/2405.07908 *Collaborative Planar Pushing of Polytopic Objects with Multiple Robots in Complex Scenes*] [papers/pdf/tang2024collaborative.pdf \[PDF\]] [videos/tang2024collaborative.mp4 \[Video\]] [https://zilitang.github.io/Collaborative-Pushing \[Website\]]
+- May. 12: Gonna have a strong presence at [https://2024.ieee-icra.org ICRA24]:
+       -- Spotlight talk and poster at [https://hermes-workshop.com/2024.html\#program HERMES] workshop.
+       -- Best paper finalist talk at *TuCA2-CC.4* for [https://ras.papercept.net/conferences/conferences/ICRA24/program/ICRA24_ContentListWeb_1.html\#tuca2-cc_04 Multi-Robots Systems].
+       -- RAL oral presentation at *WeCT4-CC.5* for [https://ras.papercept.net/conferences/conferences/ICRA24/program/ICRA24_ContentListWeb_2.html\#wect4-cc_05 Distributed Robot Systems].
+       -- Flash talk and poster at [https://hauertlab.com/breaking-swarm-stereotypes-workshop-icra-2024/ Breaking Swarm Stereotypes] workshop.
+- Apr. 8: Checkout our ECC24 workshop on [https://tmc-x.github.io *Task and Motion Coordination under Geometric, Dynamic and Temporal Constraints (TMC+X)*].
+- Jan. 30: Checkout our ICRA24 paper on [http://arxiv.org/abs/2309.08322 *Uncertainty-bounded Active Monitoring of Unknown Dynamic Targets in Road-networks with Minimum Fleet*].
+~~~
+~~~
 {2023}
 - Aug 29: Checkout our system paper on [https://arxiv.org/pdf/2304.10595 *Advanced Robotic Manipulation for Flexible Manufacturing*].
 - July 4: Congrats on the graduation of Zili Tang and Shuaikang Wang! Checkout their theses.
