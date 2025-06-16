@@ -54,6 +54,15 @@ Environment*]. \n Yuda Chen, Chenghan Wang, Meng Guo, Zhongkui Li. IEEE Robotics
 
 == Conference Papers
 ~~~
+. [ *LOMORO: Long-term Monitoring of Dynamic Targets with Minimum Robotic Fleet under Resource Constraints*].\n
+  Mingke Lu, Shuaikang Wang, Meng Guo. IEEE/RSJ International Conference on Intelligient Robots and Systems (*IROS*). Hangzhou, China, 2025.
+. [ *Multi-UAV Deployment in Obstacle-Cluttered Environments with LOS Connectivity*].\n
+  Yuda Chen, Shuaikang Wang, Jie Li, Meng Guo. IEEE/RSJ International Conference on Intelligient Robots and Systems (*IROS*). Hangzhou, China, 2025.
+. [ *DEXTER-LLM: Dynamic and Explainable Coordination of
+       Multi-Robot Systems in Unknown Environments via Large Language Models*].\n
+  Yuxiao Zhu, Junfeng Chen, Xintong Zhang, Meng Guo\*, Zhongkui Li. IEEE/RSJ International Conference on Intelligient Robots and Systems (*IROS*). Hangzhou, China, 2025.
+. [ *Homotopy-aware Multi-agent Navigation via Distributed Model Predictive Control*].\n
+  Haoze Dong, Meng Guo, Chengyi He, Zhongkui Li. IEEE/RSJ International Conference on Intelligient Robots and Systems (*IROS*). Hangzhou, China, 2025.
 . [ *FlyKites: Human-centric Interactive Exploration and Assistance under Limited Communication*].\n
   Yuyang Zhang, Zhuoli Tian, Jinsheng Wei and Meng Guo. IEEE International Conference on Robotics and Automation (*ICRA*). Atlanta, USA, 2025.
 . [ *HULK: Large-scale Hierarchical Coordination under Continual and Uncertain Temporal Tasks*].\n
@@ -120,13 +129,6 @@ Meng Guo, Karl H. Johansson and Dimos V. Dimarogonas. IEEE/RSJ International Con
 [papers/bibtex/guo2013revising.txt \[Bibtex\]] [papers/pdf/guo2013revising.pdf \[PDF\]]
 .  [http://ieeexplore.ieee.org/abstract/document/6315178/ *Distributed Real-time Fault Detection and Isolation For Cooperative Multi-agent Systems*.]\n Meng Guo, Dimos V. Dimarogonas and Karl H. Johansson. American Control Conference (*ACC*), Montreal, Canada, 2012.  [papers/bibtex/guo2012distributed.txt \[BibTex\]] [papers/pdf/guo2012distributed.pdf \[PDF\]]
 .  [http://ieeexplore.ieee.org/abstract/document/6161064/ *Quantized Cooperative Control Using Relative State Measurements*.] \n Meng Guo and Dimos V. Dimarogonas. IEEE Conference on Decision and Control and European Control Conference (*CDC*), Orlando, USA, 2011.  [papers/bibtex/guo2011quantized.txt \[BibTex\]][papers/pdf/guo2011quantized.pdf \[PDF\]]
-~~~
-
-
-== ArXiv Papers
-~~~
-. [http://arxiv.org/abs/2308.12117 *Multi-UAV Deployment in Obstacle-Cluttered Environments with LOS Connectivity*].\n Yuda Chen and Meng Guo. 2023.
-[papers/bibtex/chen2023multi2.txt \[Bibtex\]] [http://arxiv.org/abs/2308.12117 \[PDF\]]
 ~~~
 
 
