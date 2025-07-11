@@ -4,9 +4,14 @@
 
 == Journal Papers
 ~~~
+. [ *Customize Harmonic Potential Fields via Hybrid Optimization over Homotopic Paths*].\n
+Shuaikang Wang, Tiecheng Guo, Meng Guo. IEEE Robotics and Automation Letters (*RA-L*), 2025. [papers/bibtex/wang2025customize.txt \[Bibtex\]] [papers/pdf/wang2025customize.pdf \[PDF\]] [https://shuaikang-wang.github.io/CustFields \[Website\]]\n
+*Selected for presentation at ICRA2025*
 . [https://www.sciencedirect.com/science/article/pii/S0005109824005983 *Hybrid and Oriented Harmonic Potentials for Safe Task Execution in Unknown Environment*].\n Shuaikang Wang and Meng Guo. *Automatica*, 173:112105, 2025.
 [https://shuaikang-wang.github.io/HarmonicTree/ \[Website\]]
 [papers/bibtex/wang2023hybrid.txt \[Bibtex\]] [papers/pdf/wang2024hybrid.pdf \[PDF\]] [videos/wang2023hybrid.mp4 \[Video\]]
+. [ *Robust Visual Servoing under Human Supervision for Assembly Tasks*.]\n
+Victor Nan Fernandez-Ayala, Jorge Silva, Meng Guo and Dimos V. Dimarogonas. European Journal of Control (*EJC*), 2025.  [papers/bibtex/fernandez2025robust.txt \[BibTex\]] [papers/pdf/fernandez2025robust.pdf \[PDF\]] 
 . [https://ieeexplore.ieee.org/abstract/document/10937075 *Distributed and Reactive Controller Synthesis for Multi-agent Systems under Finite Horizon Temporal Logic Tasks*].\n Yuchong Huang, Ning Xu, Meng Guo, Jie Li and Lincheng Shen. IEEE Transactions on Automation Science and Engineering (*T-ASE*), 2025.  [papers/bibtex/huang2025distributed.txt \[Bibtex\]] [papers/pdf/huang2025distributed.pdf \[PDF\]]
 . [https://www.sciengine.com/SSI/doi/10.1360/SSI-2024-0105 *Collaborative Planning of Formal Tasks Based on Action Chains*].\n
 Zesen Liu, Zhongkui Li, Meng Guo. *SCIENTIA SINICA Informationis*, 54(11): 2623–2641, 2024.
@@ -67,8 +72,6 @@ Environment*]. \n Yuda Chen, Chenghan Wang, Meng Guo, Zhongkui Li. IEEE Robotics
   Yuyang Zhang, Zhuoli Tian, Jinsheng Wei and Meng Guo. IEEE International Conference on Robotics and Automation (*ICRA*). Atlanta, USA, 2025.
 . [ *HULK: Large-scale Hierarchical Coordination under Continual and Uncertain Temporal Tasks*].\n
   Qingyuan Luo, Jie Li and Meng Guo. IEEE International Conference on Robotics and Automation (*ICRA*). Atlanta, USA, 2025.
-. [ *Robust Visual Servoing under Human Supervision for Assembly Tasks*.]\n
-Victor Nan Fernandez-Ayala, Jorge Silva, Meng Guo and Dimos V. Dimarogonas. European Control Conference (*ECC*), Thessaloniki, Greece, 2025.  [papers/bibtex/fernandez2025robust.txt \[BibTex\]] [papers/pdf/fernandez2025robust.pdf \[PDF\]] 
 . [http://arxiv.org/abs/2405.07908 *Collaborative Planar Pushing of Polytopic Objects with Multiple Robots in Complex Scenes*].\n
 Zili Tang, Yuming Feng, Meng Guo. Robotics: Science and systems (*RSS*), Delft, Netherlands, 2024.
 [papers/bibtex/tang2024collaborative.txt \[Bibtex\]] [papers/pdf/tang2024collaborative.pdf \[PDF\]] [videos/tang2024collaborative.mp4 \[Video\]] [https://zilitang.github.io/Collaborative-Pushing \[Website\]]\n
