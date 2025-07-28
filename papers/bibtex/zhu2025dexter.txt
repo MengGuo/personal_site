@@ -1,0 +1,7 @@
+@inproceedings{zhu2025dexter,
+  title={{DEXTER-LLM}: Dynamic and Explainable Coordination of Multi-Robot Systems in Unknown Environments via Large Language Models},
+  author={Zhu, Yuxiao and Chen, Junfeng and Zhang, Xintong and Guo, Meng and Li, Zhongkui},
+  booktitle={IEEE/RSJ International Conference on Intelligient Robots and Systems (IROS)},
+  year={2025},
+}
+

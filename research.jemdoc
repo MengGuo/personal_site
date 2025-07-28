@@ -22,7 +22,7 @@ Zesen Liu, Zhongkui Li, Meng Guo. *SCIENTIA SINICA Informationis*, 54(11): 2623â
 *Selected for presentation at ICRA2024*
 . [https://spj.science.org/doi/10.34133/research.0337 *Fast and Adaptive Multi-agent Planning under Collaborative Temporal Logic Tasks via Poset Products*].\n Zesen Liu, Meng Guo, Weimin Bao and Zhongkui Li. *Research*, 7:0337, 2024.
 [papers/bibtex/liu2023tackling.txt \[Bibtex\]] [papers/pdf/liu2024time.pdf \[PDF\]]
-. [https://arxiv.org/pdf/2208.07756 *Time Minimization and Online Synchronization for Multi-agent Systems under Collaborative Temporal Tasks*].\n Zesen Liu, Meng Guo, Zhongkui Li. *Automatica*, 159:111377, 2024. [papers/bibtex/liu2023time.txt \[Bibtex\]] [papers/pdf/liu2024time.pdf \[PDF\]]
+. [https://www.sciencedirect.com/science/article/pii/S0005109823005435 *Time Minimization and Online Synchronization for Multi-agent Systems under Collaborative Temporal Tasks*].\n Zesen Liu, Meng Guo, Zhongkui Li. *Automatica*, 159:111377, 2024. [papers/bibtex/liu2023time.txt \[Bibtex\]] [papers/pdf/liu2024time.pdf \[PDF\]]
 . [https://www.sciencedirect.com/science/article/pii/S0736584523001126 *The e-Bike Motor Assembly: Towards Advanced Robotic Manipulation for Flexible Manufacturing*].\n Leonel Rozo, Andras G Kupcsik, Philipp Schillinger, Meng Guo, Robert Krug, Niels van Duijkeren, Markus Spies, Patrick Kesper, Sabrina Hoppe, Hanna Ziesche, Mathias B{{&uuml}}rger, Kai O Arras. Robotics and Computer-Integrated Manufacturing (*RCIM*), 85:102637, 2024. [papers/bibtex/rozo2023ebike.txt \[Bibtex\]] [https://arxiv.org/pdf/2304.10595 \[PDF\]]
 . [https://ieeexplore.ieee.org/document/10044248 *Hierarchical Motion Planning under Probabilistic Temporal Tasks and Safe-Return Constraints*].\n Meng Guo, Tianjun Liao, Junjie Wang and Zhongkui Li. IEEE Transactions on Automatic Control (*TAC*), 68(11): 6727-6742, 2023.
 [papers/bibtex/guo2023hierarchical.txt \[Bibtex\]] [papers/pdf/guo2023hierarchical.pdf \[PDF\]]
@@ -61,24 +61,28 @@ Environment*]. \n Yuda Chen, Chenghan Wang, Meng Guo, Zhongkui Li. IEEE Robotics
 ~~~
 . [ *LOMORO: Long-term Monitoring of Dynamic Targets with Minimum Robotic Fleet under Resource Constraints*].\n
   Mingke Lu, Shuaikang Wang, Meng Guo. IEEE/RSJ International Conference on Intelligient Robots and Systems (*IROS*). Hangzhou, China, 2025.
+  [papers/bibtex/lu2025lomoro.txt \[Bibtex\]]
 . [ *Multi-UAV Deployment in Obstacle-Cluttered Environments with LOS Connectivity*].\n
   Yuda Chen, Shuaikang Wang, Jie Li, Meng Guo. IEEE/RSJ International Conference on Intelligient Robots and Systems (*IROS*). Hangzhou, China, 2025.
-. [ *DEXTER-LLM: Dynamic and Explainable Coordination of
-       Multi-Robot Systems in Unknown Environments via Large Language Models*].\n
+  [papers/bibtex/chen2025multi.txt \[Bibtex\]] [https://github.com/CYDXYYJ/IMPC-MD \[Website\]]
+. [ *DEXTER-LLM: Dynamic and Explainable Coordination of Multi-Robot Systems in Unknown Environments via Large Language Models*].\n
   Yuxiao Zhu, Junfeng Chen, Xintong Zhang, Meng Guo\*, Zhongkui Li. IEEE/RSJ International Conference on Intelligient Robots and Systems (*IROS*). Hangzhou, China, 2025.
+  [papers/bibtex/zhu2025dexter.txt \[Bibtex\]] [https://tcxm.github.io/DEXTER-LLM/ \[Website\]]
 . [ *Homotopy-aware Multi-agent Navigation via Distributed Model Predictive Control*].\n
   Haoze Dong, Meng Guo, Chengyi He, Zhongkui Li. IEEE/RSJ International Conference on Intelligient Robots and Systems (*IROS*). Hangzhou, China, 2025.
 . [ *FlyKites: Human-centric Interactive Exploration and Assistance under Limited Communication*].\n
   Yuyang Zhang, Zhuoli Tian, Jinsheng Wei and Meng Guo. IEEE International Conference on Robotics and Automation (*ICRA*). Atlanta, USA, 2025.
+  [papers/bibtex/zhang2025fly.txt \[Bibtex\]]
 . [ *HULK: Large-scale Hierarchical Coordination under Continual and Uncertain Temporal Tasks*].\n
   Qingyuan Luo, Jie Li and Meng Guo. IEEE International Conference on Robotics and Automation (*ICRA*). Atlanta, USA, 2025.
+  [papers/bibtex/luo2025hulk.txt \[Bibtex\]]
 . [http://arxiv.org/abs/2405.07908 *Collaborative Planar Pushing of Polytopic Objects with Multiple Robots in Complex Scenes*].\n
 Zili Tang, Yuming Feng, Meng Guo. Robotics: Science and systems (*RSS*), Delft, Netherlands, 2024.
 [papers/bibtex/tang2024collaborative.txt \[Bibtex\]] [papers/pdf/tang2024collaborative.pdf \[PDF\]] [videos/tang2024collaborative.mp4 \[Video\]] [https://zilitang.github.io/Collaborative-Pushing \[Website\]]\n
 . [https://arxiv.org/abs/2405.12571 *iHERO: Interactive Human-oriented Exploration and Supervision Under Scarce Communication*].\n
 Zhuoli Tian, Yuyang Zhang, Jinsheng Wei and Meng Guo. Robotics: Science and systems (*RSS*), Delft, Netherlands, 2024.
 [papers/bibtex/tian2024ihero.txt \[Bibtex\]] [papers/pdf/tian2024ihero.pdf \[PDF\]] [videos/tian2024ihero.mp4 \[Video\]] [https://zl-tian.github.io/iHERO/ \[Website\]]\n
-. [http://arxiv.org/abs/2309.08322 *Uncertainty-bounded Active Monitoring of Unknown Dynamic Targets in Road-networks with Minimum Fleet*].\n
+. [https://ieeexplore.ieee.org/document/10610495/ *Uncertainty-bounded Active Monitoring of Unknown Dynamic Targets in Road-networks with Minimum Fleet*].\n
 Shuaikang Wang, Yiannis Kantaros, Meng Guo. IEEE International Conference on Robotics and Automation (*ICRA*). Yokohama, Japan, 2024.
 [papers/bibtex/wang2024uncertain.txt \[Bibtex\]] [papers/pdf/wang2024uncertain.pdf \[PDF\]] [videos/wang2024uncertain.mp4 \[Video\]]\n
 *Best Paper Award on Multi-Robots Systems - Finalist* 

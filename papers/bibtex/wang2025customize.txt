@@ -1,0 +1,6 @@
+@article{wang2025customize,
+  title={Customize Harmonic Potential Fields via Hybrid Optimization over Homotopic Paths},
+  author={Wang, Shuaikang and Guo, Tiecheng and Guo, Meng},
+  journal={IEEE Robotics and Automation Letters (RA-L)},
+  year={2025}
+}

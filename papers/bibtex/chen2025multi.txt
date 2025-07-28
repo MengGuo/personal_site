@@ -1,0 +1,6 @@
+@inproceedings{chen2025multi,
+  title={Multi-UAV Deployment in Obstacle-Cluttered Environments with LOS Connectivity},
+  author={Chen, Yuda and Wang, Shuaikang and Li, Jie and Guo, Meng},
+  booktitle={IEEE/RSJ International Conference on Intelligient Robots and Systems (IROS)},
+  year={2025},
+}
