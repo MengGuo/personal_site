@@ -1,0 +1,6 @@
+@inproceedings{wang2023uncertain,
+  title={Uncertainty-bounded Active Monitoring of Unknown Dynamic Targets in Road-networks with Minimum Fleet},
+  author={Wang, Shuaikang and Kantaros, Yiannis and Guo, Meng},
+  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+  year={2023},
+}

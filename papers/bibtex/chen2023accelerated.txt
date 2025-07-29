@@ -1,6 +1,6 @@
 @article{chen2023accelerated,
   title={Accelerated K-Serial Stable Coalition for Dynamic Capture and Resource Defense},
   author={Chen, Junfeng and Tang, Zili and Guo, Meng},
-  journal={arXiv preprint arXiv:2305.15729},
+  journal={IEEE Robotics and Automation Letters (RA-L)},
   year={2023}
 }

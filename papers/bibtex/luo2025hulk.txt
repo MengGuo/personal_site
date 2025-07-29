@@ -1,0 +1,6 @@
+@inproceedings{luo2025hulk,
+  title={{HULK}: Large-scale Hierarchical Coordination under Continual and Uncertain Temporal Tasks},
+  author={Luo, Qingyuan and Li, Jie and Guo, Meng},
+  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+  year={2025},
+}

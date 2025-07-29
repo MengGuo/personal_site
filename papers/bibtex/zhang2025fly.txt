@@ -1,0 +1,6 @@
+@inproceedings{zhang2025fly,
+  title={{FlyKites}: Human-centric Interactive Exploration and Assistance under Limited Communication},
+  author={Zhang, Yuyang and Tian, Zhuoli and Wei Jinsheng and Guo, Meng},
+  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+  year={2025},
+}

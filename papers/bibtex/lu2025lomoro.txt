@@ -1,0 +1,6 @@
+@inproceedings{lu2025lomoro,
+  title={{LOMORO}: Long-term Monitoring of Dynamic Targets with Minimum Robotic Fleet under Resource Constraints},
+  author={Lu, Mingke and Wang, Shuaikang and Guo, Meng},
+  booktitle={IEEE/RSJ International Conference on Intelligient Robots and Systems (IROS)},
+  year={2025},
+}
