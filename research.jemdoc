@@ -10,7 +10,7 @@ Shuaikang Wang, Tiecheng Guo, Meng Guo. IEEE Robotics and Automation Letters (*R
 . [https://www.sciencedirect.com/science/article/pii/S0005109824005983 *Hybrid and Oriented Harmonic Potentials for Safe Task Execution in Unknown Environment*].\n Shuaikang Wang and Meng Guo. *Automatica*, 173:112105, 2025.
 [https://shuaikang-wang.github.io/HarmonicTree/ \[Website\]]
 [papers/bibtex/wang2023hybrid.txt \[Bibtex\]] [papers/pdf/wang2024hybrid.pdf \[PDF\]] [videos/wang2023hybrid.mp4 \[Video\]]
-. [ *Robust Visual Servoing under Human Supervision for Assembly Tasks*.]\n
+. [https://doi.org/10.1016/j.ejcon.2025.101312 *Robust Visual Servoing under Human Supervision for Assembly Tasks*.]\n
 Victor Nan Fernandez-Ayala, Jorge Silva, Meng Guo and Dimos V. Dimarogonas. European Journal of Control (*EJC*), 2025.  [papers/bibtex/fernandez2025robust.txt \[BibTex\]] [papers/pdf/fernandez2025robust.pdf \[PDF\]] 
 . [https://ieeexplore.ieee.org/abstract/document/10937075 *Distributed and Reactive Controller Synthesis for Multi-agent Systems under Finite Horizon Temporal Logic Tasks*].\n Yuchong Huang, Ning Xu, Meng Guo, Jie Li and Lincheng Shen. IEEE Transactions on Automation Science and Engineering (*T-ASE*), 2025.  [papers/bibtex/huang2025distributed.txt \[Bibtex\]] [papers/pdf/huang2025distributed.pdf \[PDF\]]
 . [https://www.sciengine.com/SSI/doi/10.1360/SSI-2024-0105 *Collaborative Planning of Formal Tasks Based on Action Chains*].\n
@@ -62,14 +62,15 @@ Environment*]. \n Yuda Chen, Chenghan Wang, Meng Guo, Zhongkui Li. IEEE Robotics
 . [ *LOMORO: Long-term Monitoring of Dynamic Targets with Minimum Robotic Fleet under Resource Constraints*].\n
   Mingke Lu, Shuaikang Wang, Meng Guo. IEEE/RSJ International Conference on Intelligient Robots and Systems (*IROS*). Hangzhou, China, 2025.
   [papers/bibtex/lu2025lomoro.txt \[Bibtex\]]
-. [ *Multi-UAV Deployment in Obstacle-Cluttered Environments with LOS Connectivity*].\n
+. [papers/pdf/chen2025multi.pdf *Multi-UAV Deployment in Obstacle-Cluttered Environments with LOS Connectivity*].\n
   Yuda Chen, Shuaikang Wang, Jie Li, Meng Guo. IEEE/RSJ International Conference on Intelligient Robots and Systems (*IROS*). Hangzhou, China, 2025.
-  [papers/bibtex/chen2025multi.txt \[Bibtex\]] [https://github.com/CYDXYYJ/IMPC-MD \[Website\]]
-. [ *DEXTER-LLM: Dynamic and Explainable Coordination of Multi-Robot Systems in Unknown Environments via Large Language Models*].\n
+  [papers/bibtex/chen2025multi.txt \[Bibtex\]] [papers/pdf/chen2025multi.pdf \[PDF\]] [https://github.com/CYDXYYJ/IMPC-MD \[Website\]]
+. [https://arxiv.org/abs/2508.14387 *DEXTER-LLM: Dynamic and Explainable Coordination of Multi-Robot Systems in Unknown Environments via Large Language Models*].\n
   Yuxiao Zhu, Junfeng Chen, Xintong Zhang, Meng Guo\*, Zhongkui Li. IEEE/RSJ International Conference on Intelligient Robots and Systems (*IROS*). Hangzhou, China, 2025.
   [papers/bibtex/zhu2025dexter.txt \[Bibtex\]] [https://tcxm.github.io/DEXTER-LLM/ \[Website\]]
-. [ *Homotopy-aware Multi-agent Navigation via Distributed Model Predictive Control*].\n
+. [https://arxiv.org/abs/2507.19860 *Homotopy-aware Multi-agent Navigation via Distributed Model Predictive Control*].\n
   Haoze Dong, Meng Guo, Chengyi He, Zhongkui Li. IEEE/RSJ International Conference on Intelligient Robots and Systems (*IROS*). Hangzhou, China, 2025.
+  [https://arxiv.org/abs/2507.19860 \[PDF\]]
 . [ *FlyKites: Human-centric Interactive Exploration and Assistance under Limited Communication*].\n
   Yuyang Zhang, Zhuoli Tian, Jinsheng Wei and Meng Guo. IEEE International Conference on Robotics and Automation (*ICRA*). Atlanta, USA, 2025.
   [papers/bibtex/zhang2025fly.txt \[Bibtex\]]
