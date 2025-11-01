@@ -10,12 +10,12 @@ Shuaikang Wang, Tiecheng Guo, Meng Guo. IEEE Robotics and Automation Letters (*R
 . [https://www.sciencedirect.com/science/article/pii/S0005109824005983 *Hybrid and Oriented Harmonic Potentials for Safe Task Execution in Unknown Environment*].\n Shuaikang Wang and Meng Guo. *Automatica*, 173:112105, 2025.
 [https://shuaikang-wang.github.io/HarmonicTree/ \[Website\]]
 [papers/bibtex/wang2023hybrid.txt \[Bibtex\]] [papers/pdf/wang2024hybrid.pdf \[PDF\]] [videos/wang2023hybrid.mp4 \[Video\]]
-. [. *Formal Logic-based Cooperative Task Planning for Swarm Systems: Survey of Recent Advances and Future Directions*].\n
-Zhongkui Li,  Junjie Wang, Yunyi Zhang, Shuo Zhang, Meng Guo, Zhiyong Sun, ACTA AUTOMATICA SINICA, 2025.
-. [. *Decentralized Task Coordination and Active Sensing for Multi-agent Systems under Team-wise Intermittent Communication*].\n
-Junjie Wang, Qirui Wang, Meng Guo, Xiao Zhang, Zhongkui Li. Science China Technological Sciences (*SCTS*), 2025.
+. [https://doi.org/10.16383/j.aas.c250223 *Formal Logic-based Cooperative Task Planning for Swarm Systems: Survey of Recent Advances and Future Directions*].\n
+Zhongkui Li,  Junjie Wang, Yunyi Zhang, Shuo Zhang, Meng Guo, Zhiyong Sun, *ACTA AUTOMATICA SINICA*,  51(10): 2211-2231, 2025. [https://doi.org/10.16383/j.aas.c250223 \[PDF\]]
+. [https://www.sciengine.com/doi/pdf/D9617B0195CF490C80E6DE111086A219 *Decentralized Task Coordination and Active Sensing for Multi-agent Systems under Team-wise Intermittent Communication*].\n
+Junjie Wang, Qirui Wang, Meng Guo, Xiao Zhang, Zhongkui Li. Science China Technological Sciences (*SCTS*), 2025. [https://www.sciengine.com/doi/pdf/D9617B0195CF490C80E6DE111086A219 \[PDF\]]
 . [https://doi.org/10.1016/j.cja.2025.103823 *Controller synthesis of multi-UAV systems for concurrent satisfaction of temporal logic tasks through parallel decomposition*].\n
-Yuchong Huang, Meng Guo, Jie Li, Lincheng Shen. Chinese Journal of Aeronautics (*CJA*), 2025.
+Yuchong Huang, Meng Guo, Jie Li, Lincheng Shen. Chinese Journal of Aeronautics (*CJA*), 2025. [https://doi.org/10.1016/j.cja.2025.103823 \[PDF\]]
 . [https://doi.org/10.1016/j.ejcon.2025.101312 *Robust Visual Servoing under Human Supervision for Assembly Tasks*.]\n
 Victor Nan Fernandez-Ayala, Jorge Silva, Meng Guo and Dimos V. Dimarogonas. European Journal of Control (*EJC*), 2025.  [papers/bibtex/fernandez2025robust.txt \[BibTex\]] [papers/pdf/fernandez2025robust.pdf \[PDF\]] 
 . [https://ieeexplore.ieee.org/abstract/document/10937075 *Distributed and Reactive Controller Synthesis for Multi-agent Systems under Finite Horizon Temporal Logic Tasks*].\n Yuchong Huang, Ning Xu, Meng Guo, Jie Li and Lincheng Shen. IEEE Transactions on Automation Science and Engineering (*T-ASE*), 2025.  [papers/bibtex/huang2025distributed.txt \[Bibtex\]] [papers/pdf/huang2025distributed.pdf \[PDF\]]
