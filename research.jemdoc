@@ -158,23 +158,46 @@ Meng Guo, Karl H. Johansson and Dimos V. Dimarogonas. IEEE/RSJ International Con
 
 == Patents
 ~~~
-. [https://patents.google.com/patent/US20230141855A1/en *Device and method for controlling a robot device*]\n
-M. Guo, M. B{{&uuml}}rger. US Patent App. 18/047, 358.
-. [https://patents.google.com/patent/US20230107993A1/en *Device and method for controlling a robot*]\n
-A. Kupcsik, M. Guo.  US Patent App. 17/935, 879.
-. [https://patents.google.com/patent/US11590651B2/en *Method and device for training manipulation skills of a robot system*]\n
-M. Guo, M. B{{&uuml}}rger. US Patent App. 11/590, 651.
-. [https://patentimages.storage.googleapis.com/ae/96/ad/a7da13350ddf28/US20220371194A1.pdf *Method for controlling a robotic device*]\n
-N. Duijkeren, A. Kupcsik, L. Rozo, M. Buerger, M. Guo, R. Krug. US Patent App. 17/661, 045.
-. [https://patentimages.storage.googleapis.com/9f/1f/f9/27f62396976647/US11498212.pdf *Method for controlling a robotic device and robot control unit*]\n
-A. Kupcsik, L. Rozo, M. Todescato, M. Spies, M. Giftthaler, M. B{{&uuml}}rger, M. Guo, N. Waniek, P. Kesper, P. Schillinger. US Patent App. 11/498, 212.
-. [https://patentimages.storage.googleapis.com/37/b5/6b/c2a69436e8f0a1/US20220143831A1.pdf *Method for controlling a robotic device and robot control unit*]\n
-A. Kupcsik, L. Rozo, M. Guo, P. Kesper, P. Schillinger. US Patent App. 17/453, 240.
-. [https://patentimages.storage.googleapis.com/78/0b/2c/5348c91b5154fd/US20220105625A1.pdf *Device and method for controlling a robotic device*]\n
-M. Guo, M. B{{&uuml}}rger. US Patent App. 17/449, 143.
-. [https://patentimages.storage.googleapis.com/50/b4/74/de5b2b83118ba7/US20210402606A1.pdf *Method and device for operating a machine*]\n
-A. Kupcsik, L Rozo, M Guo. US Patent App. 17/355, 961.
-. [https://patentimages.storage.googleapis.com/11/d1/b3/d6e16fb48bc831/US20210325862A1.pdf *Safeguarding resources of physical entites in a shared environment*]. \n M. Guo, M. B{{&uuml}}rger. EU-US-CN Patent. App. 17/273, 129.
-. [https://patentimages.storage.googleapis.com/84/29/8e/0b83d02aaa3e5b/US20210122036A1.pdf *Method and device for training manipulation skills of a robot system*.] \n M. Guo, M. B{{&uuml}}rger. EU-US-CN-JP Patent.
-. [https://patentimages.storage.googleapis.com/54/9d/0c/972983e00a4d14/US20200398427A1.pdf *Method and system for robot manipulation planning*.] \n A. Kupcsik, L. Rozo, M. Todescato, M. Spies, M. Giftthaler, M. B{{&uuml}}rger, M. Guo, N. Waniek, P. Kesper, P. Schillinger. EU-US-CN Patent.
+. [https://patents.google.com/patent/ZL202510756565.0/en *多机协同任务规划方法、装置、电子设备及存储介质*]\n
+M. Guo, M. Lu, S. Wang. CN Patent App. ZL2025 1 0756565.0.
+. [https://patents.google.com/patent/ZL202406420679.9/en *一种多机协同探索系统、方法、机器人和人端*]\n
+M. Guo, Y. Zhang, Z. Tian, J. Wei. CN Patent App. ZL2024 1 0642067.9.
+. [https://patents.google.com/patent/ZL20250606456.0/en *一种机器协同工作系统、方法、机器人和人端*]\n
+M. Guo, Y. Zhang, Z. Tian, J. Wei. CN Patent App. ZL2025 1 0606456.0.
+. [https://patents.google.com/patent/ZL20240996049.0/en *基于形式化方法的无人集群动态分配决策方法及系统*]\n
+Z. Li, Z. Liu, M. Guo, Q. Zhao. CN Patent App. ZL2024 1 0996049.0.
+. [https://patents.google.com/patent/DE102019216229B4/en *Apparatus and method for controlling a robotic device*]\n
+M. B{{&uuml}}rger, P. Schillinger, M. Guo. DE Patent DE102019216229B4 (B4).
+. [https://patents.google.com/patent/US12115667B2/en *Device and method for controlling a robotic device*]\n
+M. Guo. US Patent 12,115,667 (B2).
+. [https://patents.google.com/patent/US12208522B2/en *Method for controlling a robot and robot controller*]\n
+M. Guo, M. B{{&uuml}}rger. US Patent 12,208,522 (B2).
+. [https://patents.google.com/patent/US12078984B2/en *Safeguarding resources of physical entities in a shared environment*]\n
+M. B{{&uuml}}rger, M. Guo. US Patent 12,078,984 (B2).
+. [https://patents.google.com/patent/US11498212B2/en *Method and system for robot manipulation planning*]\n
+A. Kupcsik, L. Rozo, M. Todescato, M. Spies, M. Giftthaler, M. B{{&uuml}}rger, M. Guo, N. Waniek, P. Kesper, P. Schillinger. US Patent 11,498,212 (B2).
+. [https://patents.google.com/patent/DE102020212658A1/en *Apparatus and method for controlling a robotic device*]\n
+M. B{{&uuml}}rger, M. Guo. DE Patent App. DE102020212658A1.
+. [https://patents.google.com/patent/JP2021066010A/en *Method and device for training operation skill of robot system*]\n
+M. B{{&uuml}}rger, M. Guo. JP Patent App. JP2021066010A.
+. [https://patents.google.com/patent/DE102020214231A1/en *Method of controlling a robot device and robot controller*]\n
+P. Kesper, A. Kupcsik, L. Rozo, P. Schillinger, M. Guo. DE Patent App. DE102020214231A1.
+. [https://patents.google.com/patent/DE102021204697A1/en *Method of controlling a robotic device*]\n
+M. B{{&uuml}}rger, A. Kupcsik, L. Rozo, N. Van Duijkeren, R. Krug, M. Guo. DE Patent App. DE102021204697A1.
+. [https://patents.google.com/patent/DE102021202340A1/en *Method of controlling a robot to pick and inspect an object and robot control device*]\n
+M. Guo. DE Patent App. DE102021202340A1.
+. [https://patents.google.com/patent/DE102022203410B4/en *Method for controlling a robot device*]\n
+M. Spies, P. Schillinger, S. Alatartsev, M. Guo. DE Patent DE102022203410B4 (B4).
+. [https://patents.google.com/patent/DE102020208169A1/en *Method and device for operating a machine*]\n
+A. Kupcsik, L. Rozo, M. Guo. DE Patent App. DE102020208169A1.
+. [https://patents.google.com/patent/DE102019201045B4/en *Method, device and computer program for determining an action or trajectory of a robot*]\n
+M. Spies, P. Kesper, H. Becker, M. Todescato, N. Waniek, M. Guo. DE Patent DE102019201045B4 (B4).
+. [https://patents.google.com/patent/DE102021211185B4/en *Device and method for controlling a robot*]\n
+A. Kupcsik, M. Guo. DE Patent DE102021211185B4 (B4).
+. [https://patents.google.com/patent/DE102021212494A1/en *Apparatus and method for controlling a robotic device*]\n
+M. B{{&uuml}}rger, M. Guo. DE Patent App. DE102021212494A1.
+. [https://patents.google.com/patent/DE102019207437A1/en *Method and device for planning an assembly process*]\n
+M. Vorderer, T. Betzitza, C. Koo, M. Guo. DE Patent App. DE102019207437A1.
+. [https://patents.google.com/patent/DE102019208921A1/en *Method and device for arranging process stations of a production facility*]\n
+M. Vorderer, T. Betzitza, C. Koo, M. Guo. DE Patent App. DE102019208921A1.
 ~~~
