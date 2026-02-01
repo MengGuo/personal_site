@@ -30,6 +30,29 @@ I was born in December 1988 at [http://en.wikipedia.org/wiki/Dangyang Hubei, Chi
 
 == Past News
 ~~~
+{2025}
+- Nov 21: Checkout our lastest *T-RO* paper: [https://arxiv.org/abs/2511.15995 *PushingBots: Collaborative Pushing via Neural Accelerated Combinatorial Hybrid Optimization*]. Zili Tang, Ying Zhang, Meng Guo. [papers/pdf/tang2025push.pdf \[PDF\]] [videos/tang2025push.mp4 \[Video\]]
+- July 10: Checkout our latest *RA-L* paper: [https://ieeexplore.ieee.org/document/11077382 *Customize Harmonic Potential Fields via Hybrid Optimization over Homotopic Paths*]. Shuaikang Wang, Tiecheng Guo, Meng Guo. [papers/pdf/wang2025customize.pdf \[PDF\]] [https://shuaikang-wang.github.io/CustFields \[Website\]]
+- June 16: Four *IROS25* papers accepted:
+       -- [ *LOMORO: Long-term Monitoring of Dynamic Targets with Minimum Robotic Fleet under Resource Constraints*],
+       Mingke Lu, Shuaikang Wang, Meng Guo.
+       -- [ *Multi-UAV Deployment in Obstacle-Cluttered Environments with LOS Connectivity*],
+       Yuda Chen, Shuaikang Wang, Jie Li, Meng Guo. [https://github.com/CYDXYYJ/IMPC-MD \[Website\]]
+       -- [ *DEXTER-LLM: Dynamic and Explainable Coordination of
+       Multi-Robot Systems in Unknown Environments via Large Language Models*],
+       Yuxiao Zhu, Junfeng Chen, Xintong Zhang, Meng Guo\*, Zhongkui Li. [https://tcxm.github.io/DEXTER-LLM/ \[Website\]]
+       -- [ *Homotopy-aware Multi-agent Navigation via Distributed Model Predictive Control*],
+       Haoze Dong, Meng Guo, Chengyi He, Zhongkui Li.
+- May. 23: *ICRA25 Keynote talk* on [https://2025.ieee-icra.org/program/keynote-sessions/ *Safety & Formal Methods*].
+- Jan. 30: Two *ICRA25* papers accepted:
+        -- [ *FlyKites: Human-centric Interactive Exploration and Assistance under Limited Communication*],
+        Yuyang Zhang, Zhuoli Tian, Jinsheng Wei and Meng Guo.
+        -- [ *HULK: Large-scale Hierarchical Coordination under Continual and Uncertain Temporal Tasks*],
+        Qingyuan Luo, Jie Li and Meng Guo.
+- Jan. 8: Checkout lastest work on [https://www.sciencedirect.com/science/article/pii/S0005109824005983 *Hybrid and Oriented Harmonic Potentials for Safe Task Execution in Unknown Environment*] on *Automatica*. [papers/pdf/wang2024hybrid.pdf \[PDF\]][https://shuaikang-wang.github.io/HarmonicTree/ \[Website\]]
+~~~
+
+~~~
 {2024}
 - Nov. 8: Checkout lastest work on [https://www.sciencedirect.com/science/article/pii/S0005109824005983 *Hybrid and Oriented Harmonic Potentials for Safe Task Execution in Unknown Environment*] on *Automatica*. [papers/pdf/wang2024hybrid.pdf \[PDF\]][https://shuaikang-wang.github.io/HarmonicTree/ \[Website\]]
 - May. 14: Two [https://roboticsconference.org RSS24] papers accepted:
