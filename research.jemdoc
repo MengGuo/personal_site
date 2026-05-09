@@ -94,12 +94,12 @@ Environment*]. \n Yuda Chen, Chenghan Wang, Meng Guo, Zhongkui Li. IEEE Robotics
 . [https://ieeexplore.ieee.org/abstract/document/11246185 *Homotopy-aware Multi-agent Navigation via Distributed Model Predictive Control*].\n
   Haoze Dong, Meng Guo, Chengyi He, Zhongkui Li. IEEE/RSJ International Conference on Intelligent Robots and Systems (*IROS*). Hangzhou, China, 2025.
   [https://arxiv.org/abs/2507.19860 \[PDF\]]
-. [ *FlyKites: Human-centric Interactive Exploration and Assistance under Limited Communication*].\n
+. [https://ieeexplore.ieee.org/document/11128546 *FlyKites: Human-centric Interactive Exploration and Assistance under Limited Communication*].\n
   Yuyang Zhang, Zhuoli Tian, Jinsheng Wei, Meng Guo. IEEE International Conference on Robotics and Automation (*ICRA*). Atlanta, USA, 2025.
-  [papers/bibtex/zhang2025fly.txt \[Bibtex\]]
-. [ *HULK: Large-scale Hierarchical Coordination under Continual and Uncertain Temporal Tasks*].\n
+  [papers/bibtex/zhang2025fly.txt \[Bibtex\]] [papers/pdf/zhang2025fly.pdf \[PDF\]]
+. [https://ieeexplore.ieee.org/document/11127952 *HULK: Large-scale Hierarchical Coordination under Continual and Uncertain Temporal Tasks*].\n
   Qingyuan Luo, Jie Li, Meng Guo. IEEE International Conference on Robotics and Automation (*ICRA*). Atlanta, USA, 2025.
-  [papers/bibtex/luo2025hulk.txt \[Bibtex\]]
+  [papers/bibtex/luo2025hulk.txt \[Bibtex\]] [papers/pdf/luo2025hulk.pdf \[PDF\]]
 . [http://arxiv.org/abs/2405.07908 *Collaborative Planar Pushing of Polytopic Objects with Multiple Robots in Complex Scenes*].\n
 Zili Tang, Yuming Feng, Meng Guo. Robotics: Science and systems (*RSS*), Delft, Netherlands, 2024.
 [papers/bibtex/tang2024collaborative.txt \[Bibtex\]] [papers/pdf/tang2024collaborative.pdf \[PDF\]] [videos/tang2024collaborative.mp4 \[Video\]] [https://zilitang.github.io/Collaborative-Pushing \[Website\]]\n
