@@ -73,6 +73,8 @@ Environment*]. \n Yuda Chen, Chenghan Wang, Meng Guo, Zhongkui Li. IEEE Robotics
 
 == Conference Papers
 ~~~
+. [papers/pdf/guo2026action.pdf *Action ControlNet: A Lightweight Delay-Aware Adapter for Smooth Asynchronous Control in Vision-Language-Action Models*].\n
+Tiecheng Guo, Meng Guo. IEEE International Conference on Automation Science and Engineering (*CASE*). Shenyang, China, 2026. [papers/pdf/guo2026action.pdf \[PDF\]]
 . [https://arxiv.org/pdf/2603.15108 *BodyGuards: Escorting by Multiple Robots in Unknown Environment under Limited Communication*].\n
   Zhuoli Tian, Yanze Bao, Meng Guo. IEEE International Conference on Robotics and Automation (*ICRA*). Vienna, Austria, 2026. [https://arxiv.org/pdf/2603.15108 \[PDF\]] [videos/tian2026body.mp4 \[Video\]]
 . [ *CLOT: Multi-robot Motion Planning via Collaborative Optimal Transport under Signal Temporal Logic Tasks*].\n
@@ -172,14 +174,24 @@ Meng Guo, Karl H. Johansson and Dimos V. Dimarogonas. IEEE/RSJ International Con
 
 == Patents
 ~~~
-. [https://patents.google.com/patent/ZL202510756565.0/en *多机协同任务规划方法、装置、电子设备及存储介质*]\n
+. [https://patents.google.com/patent/CN121783175A/en *一种人机协同工作系统、方法以及存储介质*]\n
+M. Guo, Z. Tian, Y. Bao, Z. Li. CN Patent App. ZL2026 1 0274811.3.
+. [https://patents.google.com/patent/CN120773027B/en *一种动态环境下的多机器人协作方法、系统及电子设备*]\n
+M. Guo, J. Wei, J. Chen, Z. Li. CN Patent App. ZL2025 1 0858031.9.
+. [https://patents.google.com/patent/CN120335454B/en *多机协同任务规划方法、装置、电子设备及存储介质*]\n
 M. Guo, M. Lu, S. Wang. CN Patent App. ZL2025 1 0756565.0.
-. [https://patents.google.com/patent/ZL202406420679.9/en *一种多机协同探索系统、方法、机器人和人端*]\n
-M. Guo, Y. Zhang, Z. Tian, J. Wei. CN Patent App. ZL2024 1 0642067.9.
-. [https://patents.google.com/patent/ZL20250606456.0/en *一种机器协同工作系统、方法、机器人和人端*]\n
+. [https://patents.google.com/patent/CN120128902B/en *一种人机协同工作系统、方法、机器人和人端*]\n
 M. Guo, Y. Zhang, Z. Tian, J. Wei. CN Patent App. ZL2025 1 0606456.0.
-. [https://patents.google.com/patent/ZL20240996049.0/en *基于形式化方法的无人集群动态分配决策方法及系统*]\n
+. [https://patents.google.com/patent/CN120066118B/en *执行多目标类型任务的多无人机目标分配和路径规划方法*]\n
+T. Zhang, Z. Yang, H. Wu, Y. Hu, M. Guo. CN Patent App. ZL2025 1 0144067.0.
+. [https://patents.google.com/patent/CN118863438B/en *基于形式化方法的无人集群动态分配决策方法及系统*]\n
 Z. Li, Z. Liu, M. Guo, Q. Zhao. CN Patent App. ZL2024 1 0996049.0.
+. [https://patents.google.com/patent/CN118219280B/en *一种多机协同探索系统、方法、机器人和人端*]\n
+M. Guo, Y. Zhang, Z. Tian, J. Wei. CN Patent App. ZL2024 1 0642067.9.
+. [https://patents.google.com/patent/CN117931457B/en *基于形式化方法的集群协同任务最短时间决策方法及系统*]\n
+Z. Li, Z. Liu, M. Guo, Q. Zhao. CN Patent App. ZL2024 1 0326648.1.
+. [https://patents.google.com/patent/CN115774455B/en *复杂障碍环境下避免死锁的分布式无人集群轨迹规划方法*]\n
+Z. Li, Y. Chen, C. Wang, M. Guo. CN Patent App. ZL2023 1 0102641.7.
 . [https://patents.google.com/patent/DE102019216229B4/en *Apparatus and method for controlling a robotic device*]\n
 M. B{{&uuml}}rger, P. Schillinger, M. Guo. DE Patent DE102019216229B4 (B4).
 . [https://patents.google.com/patent/US12115667B2/en *Device and method for controlling a robotic device*]\n
