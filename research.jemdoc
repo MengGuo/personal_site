@@ -4,6 +4,9 @@
 
 == Journal Papers
 ~~~
+. [https://arxiv.org/pdf/2607.01029 *AMBUSH: Collaborative Capture in Complex Environments with Neural Acceleration*].\n Junfeng Chen, YinHang Luo, Xinyi Wang, Junrui Li, Meng Guo. IEEE Transactions on Automation Science and Engineering (*TASE*), 2026. To appear.  [papers/bibtex/wang2026hector.txt \[Bibtex\]] [https://arxiv.org/pdf/2607.01029 \[PDF\]] [videos/chen2026ambush.mp4 \[Video\]]\n
+. [. *Homotopy-aware Corridor Generation without Predefined Reference Paths*].\n
+Haoze Dong, Minghan Li, Meng Guo, Zhongkui Li. IEEE Robotics and Automation Letters (*RA-L*), 2026. To appear. [. \[Bibtex\]] [. \[PDF\]] [videos/dong2026homotopy.mp4 \[Video\]]\n
 . [papers/pdf/wang2026hector.pdf *HECTOR: Human-centric Hierarchical Coordination and Supervision of Robotic Fleets under Continual Temporal Tasks*].\n Shen Wang, Yinhang Luo, Jie Li, Meng Guo. IEEE Transactions on Automation Science and Engineering (*TASE*), 2026. To appear.  [papers/bibtex/wang2026hector.txt \[Bibtex\]] [papers/pdf/wang2026hector.pdf \[PDF\]] [videos/wang2026hector.mp4 \[Video\]]\n
 . [https://ieeexplore.ieee.org/abstract/document/11361077 *CoCoPlan: Adaptive Coordination and Communication for Multi-robot Systems in Dynamic and Unknown Environments*].\n
 Xintong Zhang, Junfeng Chen, Yuxiao Zhu, Bing Luo, Meng Guo. IEEE Robotics and Automation Letters (*RA-L*), 11(3):3270-3277, 2026. [papers/bibtex/zhang2025coco.txt \[Bibtex\]] [papers/pdf/zhang2025coco.pdf \[PDF\]] [https://arxiv.org/abs/2601.10116 \[code\]] [videos/zhang2025coco.mp4 \[Video\]]\n
