@@ -1,0 +1,10 @@
+@inproceedings{dong2025homotopy,
+  title={Homotopy-Aware Multi-Agent Navigation via Distributed Model Predictive Control},
+  author={Dong, Haoze and Guo, Meng and He, Chengyi and Li, Zhongkui},
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  address={Hangzhou, China},
+  year={2025},
+  eprint={2507.19860},
+  archivePrefix={arXiv},
+  primaryClass={cs.RO}
+}

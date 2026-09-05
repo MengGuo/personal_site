@@ -4,13 +4,12 @@
 ~~~
 {}{img_left}{images/profile.PNG}{}{200}{214}{}
 Meng Guo (国萌)\n
-Assistant Professor\n
-[https://en.coe.pku.edu.cn/ College of Engineering (CoE))]\n
+Assistant Professor and Ph.D. Supervisor\n
+[https://amr.pku.edu.cn/ School of Advanced Manufacturing and Robotics]\n
 [https://english.pku.edu.cn/ Peking University (PKU)]\n
-No.60 Yannan Yuan\n
-Peking University, Beijing, 100871, China\n
-Cell: +86 176 1027 8859\n
-E-mail:[meng.guo@pku.edu.cn meng.guo@pku.edu.cn]\n
+Beijing 100871, China\n
+E-mail: [meng.guo@pku.edu.cn meng.guo@pku.edu.cn]\n
+[https://amr.pku.edu.cn/jzyg/szdw/G/44c15aa5bd214e709075a5800e69a4c9.htm Official PKU Faculty Profile]\n
 ~~~
 
 == Research Interest
@@ -21,29 +20,23 @@ It is an interdisciplinary area between continuous motion control and discrete p
 or resource limits and geometric or dynamic properties. 
 Currently, I investigate how to combine data-driven methods with model-based formulations to improve data efficiency and online performance.
 
-More about my [research.html research] and [https://github.com/MengGuo GitHub] page.
+See my [research.html publications], [https://scholar.google.se/citations?user=_xrwAAYAAAAJ&hl=en Google Scholar profile], and [https://github.com/MengGuo GitHub repositories].
 
-We are constantly looking for Summer interns, Bachelor thesis, PhD candidates, PostDocs to join CoE, PKU.
+== Openings
+Prospective PhD students, postdoctoral researchers, undergraduate researchers, and summer interns interested in robotics and multi-agent systems are welcome to join us at the School of Advanced Manufacturing and Robotics, Peking University. Please include a CV and a brief description of your research interests when contacting me.
 
 == News
 ~~~
 {2026}
-- Aug. 15: Checkout our lastest *R-AL* paper: [https://arxiv.org/pdf/2608.16853 *FlexWorm: Primitive-augmented Hybrid Contact-motion Planning for Suction-based Multi-segment Deformable Robots*].
-Zili Tang, Tiecheng Guo, Qinyue Zhang, Meng Guo.
-[https://arxiv.org/pdf/2608.16853 \[PDF\]] [videos/tang2026flex.mp4 \[Video\]]
-- July 21: Checkout our lastest *TASE* paper: [https://arxiv.org/pdf/2607.01029 *AMBUSH: Collaborative Capture in Complex Environments with Neural Acceleration*]. Junfeng Chen, YinHang Luo, Xinyi Wang, Junrui Li, Meng Guo. [https://arxiv.org/pdf/2607.01029 \[PDF\]] [videos/chen2026ambush.mp4 \[Video\]]\n
-- Meet us during *ICRA26* at *TuI2I.25, TuI2I.306, TuBT4.3, WeI1I.155, WeI2I.136, WeI2I.369, ThI1I.427*; and Workshops [https://sites.google.com/view/roboarch-icra26 RoboARCH], [https://cr2-icra.github.io CR2], [https://icra2026-planetary-robotics.github.io/ planetary-robotics], [https://mars-eai.github.io/ICRA-SCI-MARS-Webpage/ SCI-MARS].  
-- April 12: Checkout our *TASE* paper  [papers/pdf/wang2026hector.pdf *HECTOR: Human-centric Hierarchical Coordination and Supervision of Robotic Fleets under Continual Temporal Tasks*]. Shen Wang, Yinhang Luo, Jie Li, Meng Guo. [papers/pdf/wang2026hector.pdf \[PDF\]] [videos/wang2026hector.mp4 \[Video\]]\n 
-- Jan. 1: Four *ICRA26* papers accepted:
-       -- [ *BodyGuards: Escorting by Multiple Robots in Unknown Environment under Limited Communication*],
-       Zhuoli Tian, Yanze Bao, Meng Guo.
-       -- [ *CLOT: Multi-robot Motion Planning via Collaborative Optimal Transport under Signal Temporal Logic Tasks*],
-       Ying Zhang, Yunyi Zhang, An Thai Le, Meng Guo.
-       -- [ *UMBRELLA: Uncertainty-aware Multi-robot Reactive Coordination under Dynamic Temporal Logic Tasks*],
-       Qisheng Zhao, Meng Guo, Hengxuan Du, Lars Lindemann, Zhongkui Li.
-       -- [ *Beyond Pairwise Costs: Hyper Graph of Convex Sets for Smoothness-Aware Trajectory Planning*],
-       Yunyi Zhang, Meng Guo, Zhongkui Li.
-- Jan. 1: Checkout our lastest *R-AL* paper: [https://ieeexplore.ieee.org/abstract/document/11361077 *CoCoPlan: Adaptive Coordination and Communication for Multi-robot Systems in Dynamic and Unknown Environments*].
-Xintong Zhang, Junfeng Chen, Yuxiao Zhu, Bing Luo, Meng Guo.
-[papers/bibtex/zhang2025coco.txt \[Bibtex\]] [papers/pdf/zhang2025coco.pdf \[PDF\]] [ \[Website\]] [videos/zhang2025coco.mp4 \[Video\]]
+- Aug. 15: Our *RA-L* paper [https://arxiv.org/abs/2608.16853 *FlexWorm: Primitive-augmented Hybrid Contact-motion Planning for Suction-based Multi-segment Deformable Robots*] was accepted. [papers/bibtex/tang2026flex.txt \[BibTeX\]] [https://arxiv.org/pdf/2608.16853 \[PDF\]] [videos/tang2026flex.mp4 \[Video\]]
+- July 21: Our *TASE* paper [https://arxiv.org/abs/2607.01029 *AMBUSH: Collaborative Capture in Complex Environments with Neural Acceleration*] was accepted. [papers/bibtex/chen2026ambush.txt \[BibTeX\]] [https://arxiv.org/pdf/2607.01029 \[PDF\]] [videos/chen2026ambush.mp4 \[Video\]]\n
+- June: We presented seven papers at *ICRA 2026* and contributed to the [https://sites.google.com/view/roboarch-icra26 RoboARCH], [https://cr2-icra.github.io CR2], [https://icra2026-planetary-robotics.github.io/ Planetary Robotics], and [https://mars-eai.github.io/ICRA-SCI-MARS-Webpage/ SCI-MARS] workshops.
+- April 12: Our *TASE* paper [https://arxiv.org/abs/2604.10892 *HECTOR: Human-centric Hierarchical Coordination and Supervision of Robotic Fleets under Continual Temporal Tasks*] was accepted. [papers/bibtex/wang2026hector.txt \[BibTeX\]] [papers/pdf/wang2026hector.pdf \[PDF\]] [videos/wang2026hector.mp4 \[Video\]]\n 
+- Jan. 1: Four papers were accepted for *ICRA 2026*:
+       -- [https://arxiv.org/abs/2603.15108 *BodyGuards: Escorting by Multiple Robots in Unknown Environment under Limited Communication*]. [papers/bibtex/tian2026body.txt \[BibTeX\]] [https://arxiv.org/pdf/2603.15108 \[PDF\]] [videos/tian2026body.mp4 \[Video\]]
+       -- [papers/pdf/zhang2026clot.pdf *CLOT: Multi-robot Motion Planning via Collaborative Optimal Transport under Signal Temporal Logic Tasks*]. [papers/bibtex/zhang2026clot.txt \[BibTeX\]] [papers/pdf/zhang2026clot.pdf \[PDF\]] [videos/zhang2026clot.mp4 \[Video\]]
+       -- [https://arxiv.org/abs/2603.25395 *UMBRELLA: Uncertainty-aware Multi-robot Reactive Coordination under Dynamic Temporal Logic Tasks*]. [papers/bibtex/zhao2026umbrella.txt \[BibTeX\]] [https://arxiv.org/pdf/2603.25395 \[PDF\]]
+       -- [papers/pdf/zhang2026beyond.pdf *Beyond Pairwise Costs: Hyper Graph of Convex Sets for Smoothness-Aware Trajectory Planning*]. [papers/bibtex/zhang2026beyond.txt \[BibTeX\]] [papers/pdf/zhang2026beyond.pdf \[PDF\]]
+- Jan. 1: Our *RA-L* paper [https://ieeexplore.ieee.org/abstract/document/11361077 *CoCoPlan: Adaptive Coordination and Communication for Multi-robot Systems in Dynamic and Unknown Environments*] was published.
+[papers/bibtex/zhang2025coco.txt \[BibTeX\]] [https://arxiv.org/pdf/2601.10116 \[PDF\]] [videos/zhang2025coco.mp4 \[Video\]]
 ~~~

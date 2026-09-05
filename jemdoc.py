@@ -137,9 +137,10 @@ def standardconf():
   <head>
   <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   [defaultcss]
-  <link rel="stylesheet" href="jemdoc.css" type="text/css" />
+  <link rel="stylesheet" href="jemdoc.css?v=20260905d" type="text/css" />
 
   [windowtitle]
   # used in header for window title.

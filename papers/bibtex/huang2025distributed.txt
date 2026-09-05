@@ -1,0 +1,9 @@
+@article{huang2025distributed,
+  title={Distributed and Reactive Controller Synthesis for Multi-Agent Systems under Finite Horizon Temporal Logic Tasks},
+  author={Huang, Yuchong and Xu, Ning and Guo, Meng and Li, Jie and Shen, Lincheng},
+  journal={IEEE Transactions on Automation Science and Engineering},
+  year={2025},
+  volume={22},
+  pages={13485--13500},
+  url={https://ieeexplore.ieee.org/document/10937075}
+}

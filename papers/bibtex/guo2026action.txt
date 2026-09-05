@@ -1,0 +1,7 @@
+@inproceedings{guo2026action,
+  title={{Action ControlNet}: A Lightweight Delay-Aware Adapter for Smooth Asynchronous Control in Vision-Language-Action Models},
+  author={Guo, Tiecheng and Guo, Meng},
+  booktitle={IEEE International Conference on Automation Science and Engineering (CASE)},
+  address={Shenyang, China},
+  year={2026}
+}

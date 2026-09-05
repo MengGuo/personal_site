@@ -1,0 +1,10 @@
+@inproceedings{zhao2026umbrella,
+  title={{UMBRELLA}: Uncertainty-Aware Multi-Robot Reactive Coordination under Dynamic Temporal Logic Tasks},
+  author={Zhao, Qisheng and Guo, Meng and Du, Hengxuan and Lindemann, Lars and Li, Zhongkui},
+  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+  address={Vienna, Austria},
+  year={2026},
+  eprint={2603.25395},
+  archivePrefix={arXiv},
+  primaryClass={cs.RO}
+}

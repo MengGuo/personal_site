@@ -1,0 +1,11 @@
+@article{wang2026hector,
+  title={{HECTOR}: Human-Centric Hierarchical Coordination and Supervision of Robotic Fleets under Continual Temporal Tasks},
+  author={Wang, Shen and Luo, Yinhang and Li, Jie and Guo, Meng},
+  journal={IEEE Transactions on Automation Science and Engineering},
+  year={2026},
+  note={To appear},
+  eprint={2604.10892},
+  archivePrefix={arXiv},
+  primaryClass={cs.RO},
+  url={https://arxiv.org/abs/2604.10892}
+}

@@ -1,0 +1,10 @@
+@article{chen2026slei3d,
+  title={{SLEI3D}: Simultaneous Exploration and Inspection via Heterogeneous Fleets under Limited Communication},
+  author={Chen, Junfeng and Zhu, Yuxiao and Zhang, Xintong and Luo, Bing and Guo, Meng},
+  journal={IEEE Transactions on Automation Science and Engineering},
+  year={2026},
+  volume={23},
+  pages={2339--2360},
+  doi={10.1109/TASE.2025.3643166},
+  url={https://doi.org/10.1109/TASE.2025.3643166}
+}

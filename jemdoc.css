@@ -369,3 +369,350 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+/* Modern academic theme -------------------------------------------------- */
+
+:root {
+	--navy: #173b57;
+	--navy-dark: #102d43;
+	--pku-red: #8f1d2c;
+	--pku-red-dark: #68131f;
+	--pku-red-soft: #fbf2f4;
+	--text: #263442;
+	--muted: #667481;
+	--line: #dce3e8;
+	--surface: #ffffff;
+	--surface-soft: #f5f7f9;
+	--page: #eef2f5;
+	--font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Arial, sans-serif;
+	--font-ui: "Avenir Next", "Trebuchet MS", "Segoe UI", Arial, sans-serif;
+}
+
+html {
+	background: var(--page);
+}
+
+body {
+	background: var(--page);
+	color: var(--text);
+	font-family: var(--font-body);
+	font-size: 16px;
+	line-height: 1.65;
+	padding: 0;
+}
+
+table#tlayout {
+	width: min(1120px, calc(100% - 48px));
+	min-height: calc(100vh - 48px);
+	margin: 24px auto;
+	background: var(--surface);
+	box-shadow: 0 12px 34px rgba(23, 59, 87, 0.10);
+}
+
+#layout-menu {
+	width: 170px;
+	padding: 1.5rem 1.15rem;
+	background: var(--surface-soft);
+	border: none;
+	border-right: 1px solid var(--line);
+	font-family: var(--font-ui);
+	font-size: 0.95rem;
+}
+
+#layout-content {
+	max-width: 860px;
+	padding: 1.6rem 2.6rem 3rem;
+	color: var(--text);
+	background: var(--surface);
+	overflow-wrap: anywhere;
+}
+
+a,
+a > tt {
+	color: var(--navy);
+	text-decoration: none;
+	text-underline-offset: 0.15em;
+}
+
+a:hover {
+	color: var(--pku-red);
+	border-bottom: none;
+	text-decoration: underline;
+}
+
+#layout-content a {
+	color: #16527a;
+	text-decoration-line: underline;
+	text-decoration-color: rgba(22, 82, 122, 0.42);
+	text-decoration-thickness: 1px;
+	text-underline-offset: 0.18em;
+	transition: color 120ms ease, text-decoration-color 120ms ease;
+}
+
+#layout-content a:visited {
+	color: #294f70;
+}
+
+#layout-content a:hover {
+	color: var(--pku-red);
+	text-decoration-color: var(--pku-red);
+	text-decoration-thickness: 2px;
+}
+
+#layout-content a:focus-visible {
+	outline: 2px solid var(--pku-red);
+	outline-offset: 3px;
+	border-radius: 2px;
+}
+
+#layout-menu .menu-item > a {
+	display: block;
+	margin: 0.12rem 0;
+	padding: 0.42rem 0.62rem;
+	border-radius: 4px;
+	font-family: var(--font-ui);
+	font-size: 0.98rem;
+	font-weight: 700;
+	letter-spacing: 0.005em;
+	line-height: 1.35;
+}
+
+#layout-menu a:link,
+#layout-menu a:visited,
+#layout-menu a:hover {
+	color: var(--navy);
+}
+
+#layout-menu a:hover {
+	color: var(--pku-red);
+	background: #e9edf1;
+}
+
+#layout-menu a.current:link,
+#layout-menu a.current:visited {
+	color: var(--pku-red-dark);
+	background: #f5e8eb;
+	border-bottom: none;
+	box-shadow: inset 3px 0 0 var(--pku-red);
+	font-weight: 800;
+}
+
+#layout-menu a.current:hover {
+	color: var(--pku-red-dark);
+	background: #eed9dd;
+}
+
+#layout-menu div.menu-category {
+	margin-top: 1.2rem;
+	margin-bottom: 0.25rem;
+	padding-bottom: 0.2rem;
+	color: var(--pku-red);
+	border-bottom: 2px solid rgba(143, 29, 44, 0.22);
+	font-family: var(--font-ui);
+	font-size: 0.8rem;
+	font-weight: 900;
+	letter-spacing: 0.09em;
+	text-transform: uppercase;
+}
+
+div.menu-item {
+	padding: 0;
+	text-indent: 0;
+}
+
+div#toptitle {
+	margin-bottom: 1.5rem;
+	padding-bottom: 0.55rem;
+	border-bottom: 3px solid var(--pku-red);
+}
+
+h1,
+h2,
+h3 {
+	color: var(--navy-dark);
+	font-family: var(--font-ui);
+	font-weight: 700;
+	line-height: 1.22;
+	border-bottom-color: var(--line);
+}
+
+h1 {
+	font-size: 2rem;
+	letter-spacing: -0.02em;
+}
+
+h2 {
+	font-size: 1.35rem;
+}
+
+h3 {
+	font-size: 1.1rem;
+}
+
+h2 > span[id] {
+	scroll-margin-top: 1rem;
+}
+
+.research-jump {
+	display: grid;
+	grid-template-columns: repeat(4, minmax(0, 1fr));
+	gap: 0.75rem;
+	margin: 0 0 2rem;
+	background: transparent;
+	border: none;
+	box-shadow: none;
+	font-family: var(--font-ui);
+}
+
+.research-jump a {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 0.5rem;
+	min-width: 0;
+	padding: 0.78rem 0.7rem;
+	color: var(--navy-dark);
+	background: #f7f9fa;
+	border: 1px solid #dce3e8;
+	border-radius: 5px;
+	font-size: 0.93rem;
+	font-weight: 800;
+	line-height: 1.25;
+	text-align: center;
+}
+
+.research-jump a:hover {
+	color: var(--pku-red-dark);
+	background: var(--pku-red-soft);
+	border-color: #d8aeb6;
+	text-decoration: none;
+}
+
+#layout-content .research-jump a,
+#layout-content .research-jump a:visited,
+#layout-content .research-jump a:hover {
+	color: var(--navy-dark);
+	text-decoration: none;
+}
+
+#layout-content .research-jump a:hover {
+	color: var(--pku-red-dark);
+}
+
+p {
+	margin-bottom: 0.9em;
+	line-height: 1.65;
+}
+
+div.blocktitle {
+	color: var(--pku-red);
+}
+
+div.blockcontent {
+	padding: 0.9rem 1.1rem;
+	border: 1px solid var(--line);
+	border-left: 4px solid var(--pku-red);
+	border-radius: 4px;
+}
+
+div.infoblock > div.blockcontent {
+	background: #fafbfc;
+}
+
+div#footer {
+	margin-top: 3rem;
+	padding-top: 0.75rem;
+	color: #8a949d;
+	border-top-color: var(--line);
+	font-size: 0.78rem;
+}
+
+div#footer a {
+	color: #6f8493;
+}
+
+table:not(#tlayout):not(.imgtable),
+table:not(#tlayout):not(.imgtable) td {
+	border-color: var(--line);
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+table.imgtable img {
+	border-radius: 6px;
+	box-shadow: 0 5px 18px rgba(16, 45, 67, 0.14);
+}
+
+@media screen and (max-width: 760px) {
+	body {
+		background: var(--surface);
+	}
+
+	table#tlayout,
+	table#tlayout > tbody,
+	table#tlayout > tbody > tr,
+	table#tlayout > tbody > tr > td {
+		display: block;
+		width: 100%;
+		min-height: 0;
+		margin: 0;
+		box-sizing: border-box;
+		box-shadow: none;
+	}
+
+	#layout-menu {
+		padding: 0.75rem 1rem;
+		border-right: none;
+		border-bottom: 1px solid var(--line);
+		white-space: normal;
+	}
+
+	div.menu-category {
+		display: none;
+	}
+
+	div.menu-item {
+		display: inline-block;
+		margin: 0.1rem 0.3rem 0.1rem 0;
+	}
+
+	#layout-menu a {
+		display: inline-block;
+		padding: 0.35rem 0.5rem;
+	}
+
+	#layout-content {
+		max-width: none;
+		padding: 1.15rem 1rem 2rem;
+	}
+
+	table.imgtable,
+	table.imgtable > tbody,
+	table.imgtable > tbody > tr,
+	table.imgtable > tbody > tr > td {
+		display: block;
+		width: 100%;
+		box-sizing: border-box;
+	}
+
+	table.imgtable img {
+		width: min(180px, 55vw);
+		margin: 0 auto 1.1rem;
+	}
+
+	h1 {
+		font-size: 1.75rem;
+	}
+
+	h2 {
+		font-size: 1.25rem;
+	}
+
+	.research-jump {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+		gap: 0.55rem;
+	}
+}

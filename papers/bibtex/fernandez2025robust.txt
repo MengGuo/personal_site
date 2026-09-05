@@ -1,0 +1,10 @@
+@article{fernandez2025robust,
+  title={Robust Visual Servoing under Human Supervision for Assembly Tasks},
+  author={Fernandez-Ayala, Victor Nan and Silva, Jorge and Guo, Meng and Dimarogonas, Dimos V.},
+  journal={European Journal of Control},
+  year={2025},
+  volume={86},
+  pages={101312},
+  doi={10.1016/j.ejcon.2025.101312},
+  url={https://doi.org/10.1016/j.ejcon.2025.101312}
+}
