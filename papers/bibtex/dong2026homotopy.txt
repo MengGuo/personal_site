@@ -1,0 +1,11 @@
+@article{dong2026homotopy,
+  title={Homotopy-Aware Corridor Generation without Predefined Reference Paths},
+  author={Dong, Haoze and Li, Minghan and Guo, Meng and Li, Zhongkui},
+  journal={IEEE Robotics and Automation Letters},
+  year={2026},
+  note={To appear},
+  eprint={2607.29513},
+  archivePrefix={arXiv},
+  primaryClass={cs.RO},
+  url={https://arxiv.org/abs/2607.29513}
+}

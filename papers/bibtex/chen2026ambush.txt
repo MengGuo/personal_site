@@ -1,0 +1,11 @@
+@article{chen2026ambush,
+  title={{AMBUSH}: Collaborative Capture in Complex Environments with Neural Acceleration},
+  author={Chen, Junfeng and Luo, YinHang and Wang, Xinyi and Li, Junrui and Guo, Meng},
+  journal={IEEE Transactions on Automation Science and Engineering},
+  year={2026},
+  note={To appear},
+  eprint={2607.01029},
+  archivePrefix={arXiv},
+  primaryClass={cs.RO},
+  url={https://arxiv.org/abs/2607.01029}
+}

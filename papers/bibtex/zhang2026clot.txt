@@ -1,0 +1,7 @@
+@inproceedings{zhang2026clot,
+  title={{CLOT}: Multi-Robot Motion Planning via Collaborative Optimal Transport under Signal Temporal Logic Tasks},
+  author={Zhang, Ying and Zhang, Yunyi and Le, An Thai and Guo, Meng},
+  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+  address={Vienna, Austria},
+  year={2026}
+}

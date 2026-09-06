@@ -1,0 +1,11 @@
+@article{zhang2026cocoplan,
+  title={{CoCoPlan}: Adaptive Coordination and Communication for Multi-Robot Systems in Dynamic and Unknown Environments},
+  author={Zhang, Xintong and Chen, Junfeng and Zhu, Yuxiao and Luo, Bing and Guo, Meng},
+  journal={IEEE Robotics and Automation Letters},
+  year={2026},
+  volume={11},
+  number={3},
+  pages={3270--3277},
+  doi={10.1109/LRA.2026.3656769},
+  url={https://doi.org/10.1109/LRA.2026.3656769}
+}

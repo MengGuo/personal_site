@@ -1,0 +1,11 @@
+@article{tang2026flex,
+  title={{FlexWorm}: Primitive-Augmented Hybrid Contact-Motion Planning for Suction-Based Multi-Segment Deformable Robots},
+  author={Tang, Zili and Guo, Tiecheng and Zhang, Qinyue and Guo, Meng},
+  journal={IEEE Robotics and Automation Letters},
+  year={2026},
+  note={To appear},
+  eprint={2608.16853},
+  archivePrefix={arXiv},
+  primaryClass={cs.RO},
+  url={https://arxiv.org/abs/2608.16853}
+}

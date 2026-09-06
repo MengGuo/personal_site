@@ -1,0 +1,10 @@
+@inproceedings{tian2026bodyguards,
+  title={{BodyGuards}: Escorting by Multiple Robots in Unknown Environment under Limited Communication},
+  author={Tian, Zhuoli and Bao, Yanze and Guo, Meng},
+  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+  address={Vienna, Austria},
+  year={2026},
+  eprint={2603.15108},
+  archivePrefix={arXiv},
+  primaryClass={cs.RO}
+}

@@ -1,0 +1,7 @@
+@inproceedings{zhang2026beyond,
+  title={Beyond Pairwise Costs: Hyper Graph of Convex Sets for Smoothness-Aware Trajectory Planning},
+  author={Zhang, Yunyi and Guo, Meng and Li, Zhongkui},
+  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+  address={Vienna, Austria},
+  year={2026}
+}
